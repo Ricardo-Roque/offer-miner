@@ -1,0 +1,534 @@
+{
+  "collection_id": "2026-11-17-canela-ceilao",
+  "collected_at_utc": "2026-11-17",
+  "collection_type": "referencias_fornecidas_pelo_usuario",
+  "tool_used": "WebFetch (pagina -> markdown); navegador embutido Orca (orca-ide 1.4.253) para Meta Ad Library, Google Ads Transparency e TikTok CCL em 2026-11-17 ~18:10-18:50 UTC",
+  "theme": "suplementos de canela-do-ceilao (Cinnamomum verum)",
+  "offers": [
+    {
+      "brand": "Resilia",
+      "product": "Ceylon Cinnamon 1000mg",
+      "offer_url": "https://resilia.shop/",
+      "sales_countries": [
+        "US"
+      ],
+      "languages_observed": [
+        "en"
+      ],
+      "problem": [
+        "saude intestinal",
+        "glicemia",
+        "saude cardiaca"
+      ],
+      "formula": "Canela-do-Ceilao 1000mg (linha multi-produto, sem MCT)",
+      "commercial_claims": [
+        "Natural Antioxidant",
+        "Healthy Blood Sugar",
+        "Heart Health Support",
+        "Used For 2000+ Years"
+      ],
+      "price_observed": "$29.99/mo (promo 50%)",
+      "currency": "USD",
+      "bundles": [
+        "Full lineup"
+      ],
+      "guarantee": "30-day money-back",
+      "status": "sinais_de_atividade",
+      "confidence": "moderada",
+      "creative_references": [],
+      "missing_data": [
+        "formato capsula",
+        "contagem por frasco",
+        "pais de origem da marca"
+      ],
+      "ad_libraries_2026_11_17": {
+        "meta": {
+          "query": "\"resilia.shop\" (ALL)",
+          "total_shown_by_meta": "~4.400",
+          "sample_cards": 78,
+          "cinnamon_cards": 6,
+          "earliest_start_cinnamon": "2026-11-03"
+        },
+        "google": {
+          "advertiser": "Sack Consulting Inc",
+          "ads": "~8.000"
+        },
+        "ads": []
+      }
+    },
+    {
+      "brand": "Gentilia",
+      "product": "Cannella di Ceylon 7200mg con Olio MCT",
+      "offer_url": "https://www.gentilia.it/products/ceylon",
+      "sales_countries": [
+        "IT"
+      ],
+      "languages_observed": [
+        "it"
+      ],
+      "problem": [
+        "glicemia",
+        "colesterol",
+        "resistencia a insulina"
+      ],
+      "formula": "Canela 12:1 (7200mg equiv) + MCT",
+      "commercial_claims": [
+        "Ripristina la Risposta Naturale all'Insulina",
+        "Stabilizza i Livelli di Glicemia",
+        "Mantiene Livelli Colesterolo Normali"
+      ],
+      "price_observed": null,
+      "currency": "EUR",
+      "bundles": [],
+      "guarantee": "60 dias money-back",
+      "status": "sinais_de_atividade",
+      "confidence": "moderada",
+      "creative_references": [],
+      "missing_data": [
+        "preco",
+        "bundles",
+        "contagem por frasco",
+        "pais de origem da marca"
+      ],
+      "ad_libraries_2026_11_17": {
+        "meta": {
+          "query": "\"gentilia.it\" (frase exata, country=ALL)",
+          "total_shown_by_meta": "~1.100",
+          "sample_cards": 70,
+          "cinnamon_cards": 65,
+          "active": 39,
+          "inactive": 26,
+          "video": 0,
+          "removed_by_meta": 1,
+          "earliest_start": "2026-08-21",
+          "pages": [
+            "Dott. Fabrizio Galli - Endocrinologo",
+            "Il Diario della Glicemia",
+            "Il Diario del Colesterolo",
+            "Lucia Casali",
+            "Michele Corvino",
+            "Gentilia"
+          ],
+          "page_disabled_by_meta": "Dott.ssa Paola Cipriani - Ginecologa (produto nao identificado)"
+        },
+        "google": {
+          "advertiser": "ERCOWISE LLC",
+          "advertiser_id": "AR08257608344966004737",
+          "based_in": "US",
+          "ads": 1,
+          "format": "oculto (restricao de idade, exige login)"
+        },
+        "tiktok": {
+          "result": 0,
+          "scope": "IT, 30 dias"
+        },
+        "ads": [
+          {
+            "meta_library_id": "1080649297659813",
+            "url": "https://www.facebook.com/ads/library/?id=1080649297659813",
+            "format": "imagem + texto longo (persona endocrinologista)",
+            "status_at_access": "ativo",
+            "start_date": "2026-09-15",
+            "hook": "Mia moglie Carolina prendeva la cannella di Ceylon da esattamente 19 giorni...",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "2253085015543875",
+            "url": "https://www.facebook.com/ads/library/?id=2253085015543875",
+            "format": "imagem + texto longo",
+            "status_at_access": "ativo",
+            "start_date": "2026-09-27",
+            "hook": "Il mio endocrinologo mi ha dato due opzioni per il diabete di tipo 2",
+            "cta": "Learn More",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "2510128156144033",
+            "url": "https://www.facebook.com/ads/library/?id=2510128156144033",
+            "format": "imagem + texto longo (angulo colesterol)",
+            "status_at_access": "ativo",
+            "start_date": "2026-10-25",
+            "hook": "Sono un cardiologo svizzero. Il mio LDL ha raggiunto 196...",
+            "cta": "Learn More",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "2346016919563069",
+            "url": "https://www.facebook.com/ads/library/?id=2346016919563069",
+            "format": "imagem produto + texto 'Cristian, cofondatore'",
+            "status_at_access": "ativo",
+            "start_date": "2026-10-12",
+            "hook": "Se stai prendendo il brand Gentilia e hai già una routine di farmaci...",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1612780430444542",
+            "url": "https://www.facebook.com/ads/library/?id=1612780430444542",
+            "format": "imagem produto + texto longo",
+            "status_at_access": "ativo",
+            "start_date": "2026-09-09",
+            "hook": "Il 78% dei pazienti con glicemia alta cronica...",
+            "cta": "Learn More",
+            "visually_analyzed": true
+          }
+        ]
+      }
+    },
+    {
+      "brand": "Lirea",
+      "product": "Cannelle de Ceylan 12:1 + Huile MCT",
+      "offer_url": "https://lireaofficiel.com/products/cannelle-de-ceylan-pour-un-equilibre-glycemique",
+      "sales_countries": [
+        "FR"
+      ],
+      "languages_observed": [
+        "fr"
+      ],
+      "problem": [
+        "equilibrio glicemico",
+        "sensibilidade a insulina",
+        "desejos por acucar"
+      ],
+      "formula": "Canela 12:1 + MCT",
+      "commercial_claims": [
+        "Glycemie controlee naturellement",
+        "supports natural glucose metabolism"
+      ],
+      "price_observed": "EUR 29,90 (promo Black Friday 50%)",
+      "currency": "EUR",
+      "bundles": [],
+      "guarantee": "Satisfait ou rembourse 30 jours",
+      "status": "sinais_de_atividade",
+      "confidence": "moderada",
+      "creative_references": [
+        "Trustpilot 4.8/5 (12538 reviews)",
+        "parceria naturopata Stephanie R."
+      ],
+      "missing_data": [
+        "preco promocional efetivo",
+        "mg equivalente",
+        "pais de origem da marca"
+      ],
+      "ad_libraries_2026_11_17": {
+        "meta": {
+          "query": "\"lireaofficiel.com\" (frase exata, country=ALL)",
+          "total_shown_by_meta": "~2.200",
+          "sample_cards": 75,
+          "cinnamon_cards": 63,
+          "active": 48,
+          "inactive": 15,
+          "video": 25,
+          "removed_by_meta": 4,
+          "earliest_start": "2026-05-09",
+          "pages": [
+            "Liréa (page_id 1138628302657905)"
+          ]
+        },
+        "google": {
+          "advertiser": "ACH Group",
+          "advertiser_id": "AR09933043063859445761",
+          "based_in": "FR",
+          "ads": 6,
+          "format": "texto de pesquisa"
+        },
+        "tiktok": {
+          "result": 0,
+          "scope": "FR, 30 dias"
+        },
+        "ads": [
+          {
+            "meta_library_id": "2183910109197467",
+            "url": "https://www.facebook.com/ads/library/?id=2183910109197467",
+            "format": "video 9:16 5:06 microdrama hospitalar",
+            "status_at_access": "ativo",
+            "start_date": "2026-11-04",
+            "hook": "Six ans de metformine... Martine se réveille aux urgences.",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "2253175732202903",
+            "url": "https://www.facebook.com/ads/library/?id=2253175732202903",
+            "format": "video 1:28 animacao 3D",
+            "status_at_access": "inativo",
+            "start_date": "2026-07-28 a 2026-11-09",
+            "hook": "Si quelqu'un qui se lève 3 fois par nuit... prenait pendant 28 jours",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1012844728266644",
+            "url": "https://www.facebook.com/ads/library/?id=1012844728266644",
+            "format": "video 0:17 UGC oferta",
+            "status_at_access": "ativo",
+            "start_date": "2026-07-17",
+            "hook": "OFFRE 1€/JOUR - se termine à minuit",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "984263778060761",
+            "url": "https://www.facebook.com/ads/library/?id=984263778060761",
+            "format": "video 1:06 fundador talking head",
+            "status_at_access": "ativo",
+            "start_date": "2026-10-23",
+            "hook": "ALERTE AUX FAUX - acheté Liréa sur Amazon",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1952463358756102",
+            "url": "https://www.facebook.com/ads/library/?id=1952463358756102",
+            "format": "video 1:35 papel recortado",
+            "status_at_access": "inativo",
+            "start_date": "2026-07-17 a 2026-11-09",
+            "hook": "Vous n'avez rien mangé depuis 22h et pourtant...",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1134782529421301",
+            "url": "https://www.facebook.com/ads/library/?id=1134782529421301",
+            "format": "video 4:16 animacao 3D",
+            "status_at_access": "ativo",
+            "start_date": "2026-10-08",
+            "hook": "Tu prends ta metformine tous les matins...",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1508654571040358",
+            "url": "https://www.facebook.com/ads/library/?id=1508654571040358",
+            "format": "imagem armazem",
+            "status_at_access": "ativo",
+            "start_date": "2026-07-13",
+            "hook": "On a sur-stocké ce mois-ci",
+            "cta": "Shop Now",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "2119393105350095",
+            "url": "https://www.facebook.com/ads/library/?id=2119393105350095",
+            "format": "imagem corredor hospitalar",
+            "status_at_access": "ativo",
+            "start_date": "2026-10-29",
+            "hook": "Un homme de 54 ans est mort mardi dernier...",
+            "cta": "Learn More",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1737759380776286",
+            "url": "https://www.facebook.com/ads/library/?id=1737759380776286",
+            "format": "imagem luva 'N'achetez pas ça'",
+            "status_at_access": "ativo",
+            "start_date": "2026-09-24",
+            "hook": "S'il vous plaît, n'achetez pas la cannelle de Ceylan Liréa",
+            "cta": "Learn More",
+            "visually_analyzed": true
+          }
+        ]
+      }
+    },
+    {
+      "brand": "Metabolae",
+      "product": "Ceylon Cinnamon 7200mg Softgels",
+      "offer_url": "https://metabolae.com/products/softgels-ceylon-standard",
+      "sales_countries": [
+        "US"
+      ],
+      "languages_observed": [
+        "en",
+        "es"
+      ],
+      "problem": [
+        "glicemia",
+        "sensibilidade a insulina",
+        "energia/desejos"
+      ],
+      "formula": "Canela 12:1 (7200mg equiv) + MCT",
+      "commercial_claims": [
+        "steadier morning readings",
+        "healthy insulin sensitivity",
+        "lower fasting glucose and HbA1c"
+      ],
+      "price_observed": "$29.99 (de $59.99, Black Friday 50%)",
+      "currency": "USD",
+      "bundles": [
+        "Buy 2 Get 1 Free (3-pack)",
+        "Subscribe & Save"
+      ],
+      "guarantee": "90 dias money-back",
+      "status": "sinais_de_atividade",
+      "confidence": "moderada",
+      "creative_references": [
+        "quadro comparativo vs cassia",
+        "secao de ensaio clinico (referencia nao identificada)"
+      ],
+      "missing_data": [
+        "referencia exata do ensaio clinico",
+        "contagem por frasco",
+        "pais de origem da marca"
+      ],
+      "ad_libraries_2026_11_17": {
+        "meta": {
+          "query": "\"metabolae.com\" (ALL)",
+          "total_shown_by_meta": "~26.000",
+          "sample_cards": 67,
+          "cinnamon_cards": 63,
+          "active": 62,
+          "video": 35,
+          "earliest_start": "2026-07-16"
+        },
+        "google": {
+          "advertiser": "BAT Partners LLC",
+          "ads": "~200"
+        },
+        "ads": []
+      }
+    },
+    {
+      "brand": "Kenzendo",
+      "product": "Ceylon Cinnamon 7200mg equiv + MCT",
+      "offer_url": "https://kenzendo.store/products/ceylon-cinnamon-general",
+      "sales_countries": [
+        "JP"
+      ],
+      "languages_observed": [
+        "ja"
+      ],
+      "problem": [
+        "picos de glicose",
+        "sonolencia pos-refeicao",
+        "LDL",
+        "funcao renal",
+        "endotelio vascular"
+      ],
+      "formula": "Canela 12:1 (7200mg equiv) + MCT",
+      "commercial_claims": [
+        "MHCP modera glicose",
+        "cinamaldeido repara endotelio",
+        "MCT +3x absorcao",
+        "DNA-verified"
+      ],
+      "price_observed": null,
+      "currency": "JPY",
+      "bundles": [
+        "2 leve 3 + frete gratis",
+        "assinatura"
+      ],
+      "guarantee": "90 dias full money-back",
+      "status": "sinais_de_atividade",
+      "confidence": "moderada",
+      "creative_references": [],
+      "compliance_notes": [
+        "alegacoes de funcao renal/endotelio/LDL exigem revisao regulatoria"
+      ],
+      "missing_data": [
+        "preco",
+        "contagem por frasco",
+        "pais de origem da marca"
+      ],
+      "ad_libraries_2026_11_17": {
+        "meta": {
+          "query": "\"kenzendo.store\" (ALL) e \"健然堂\" (JP)",
+          "total_shown_by_meta": "~51 / ~54",
+          "cinnamon_cards": "16 (kenzendo.store) + 14 (persona Takahashi -> rinaya-jp.com)",
+          "active": "todos",
+          "video": 11,
+          "removed_by_meta": 0,
+          "earliest_start": "2026-10-14 (rinaya-jp.com); 2026-11-16 (kenzendo.store)",
+          "pages": [
+            "健然堂ポータル",
+            "藤川 正則 医師",
+            "Takahashi Kenji - 高橋健司医師"
+          ]
+        },
+        "related_domain_hypothesis": "rinaya-jp.com (copy chama o produto de '健然堂（RINAYA）'; nao verificado no site)",
+        "google": {
+          "ads": 0,
+          "domains_checked": [
+            "kenzendo.store",
+            "rinaya-jp.com"
+          ]
+        },
+        "tiktok": {
+          "result": "nao coberto (JP)"
+        },
+        "ads": [
+          {
+            "meta_library_id": "1863077484847834",
+            "url": "https://www.facebook.com/ads/library/?id=1863077484847834",
+            "format": "video 9:56 microdrama hospitalar (mesmo roteiro Lirea 2183910109197467)",
+            "status_at_access": "ativo",
+            "start_date": "2026-11-16",
+            "hook": "あら、理恵さん。/ カルテには絶飲食とあります。",
+            "cta": "Learn More",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1140487985356612",
+            "url": "https://www.facebook.com/ads/library/?id=1140487985356612",
+            "format": "video 3:26 animacao 3D anatomica",
+            "status_at_access": "ativo",
+            "start_date": "2026-11-16",
+            "hook": "うっかり、本物のセイロンシナモンのソフトジェルを飲み込んでしまった。",
+            "cta": "Learn More",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1483725747247937",
+            "url": "https://www.facebook.com/ads/library/?id=1483725747247937",
+            "format": "video 0:08 unboxing",
+            "status_at_access": "ativo",
+            "start_date": "2026-11-16",
+            "hook": "Kenzendo ブラックフライデー: 3個ご購入で、さらに2個無料",
+            "cta": "See details",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1431133619130686",
+            "url": "https://www.facebook.com/ads/library/?id=1431133619130686",
+            "format": "imagem arte de produto + texto (persona nefrologista)",
+            "status_at_access": "ativo",
+            "start_date": "2026-11-16",
+            "hook": "高い血糖値が知らないうちに私の腎臓を傷つけていた",
+            "cta": "See details",
+            "visually_analyzed": true
+          },
+          {
+            "meta_library_id": "1141597035190365",
+            "url": "https://www.facebook.com/ads/library/?id=1141597035190365",
+            "format": "imagem refeicao + texto (persona, rinaya-jp.com)",
+            "status_at_access": "ativo",
+            "start_date": "2026-10-14",
+            "hook": "HbA1cは7.4でした。それを、わずか12週間で5.4まで",
+            "cta": "See details",
+            "visually_analyzed": true
+          }
+        ]
+      }
+    }
+  ],
+  "patterns": [
+    "4 das 5 ofertas compartilham formula identica: Canela-do-Ceilao 12:1 + MCT 7200mg equivalente",
+    "problema-nucleo comum: glicemia/sensibilidade a insulina",
+    "diferenciacao recorrente: Ceylon verdadeira (Cinnamomum verum) vs cassia barata; MCT como vetor de absorcao",
+    "publico 40-50+",
+    "estrutura de pagina padronizada: hero/rating -> problema -> solucao -> timeline -> prova social -> FAQ -> garantia",
+    "gatilhos: garantia 30/60/90 dias, urgencia Black Friday, prova social em volume",
+    "DTC single-product, Shopify-like, venda pelo site oficial",
+    "copies e roteiros de anuncio traduzidos entre Metabolae (EN), Gentilia (IT), Lirea (FR) e Kenzendo (JP): 9 templates mapeados, incl. persona 'Cristian, cofundador' (Metabolae/Gentilia) e microdrama hospitalar identico (Lirea/Kenzendo) -> hipotese de playbook/operador comum; razoes sociais no Google diferem",
+    "anuncios veiculados por paginas-persona de profissionais de saude (possivelmente ficticias) com numeros de exame individuais"
+  ],
+  "limitations": [
+    "precos de Gentilia e Kenzendo nao exibidos sem checkout (unverified)",
+    "estatisticas de reviews/satisfacao sao alegacoes da marca, nao auditadas",
+    "nenhuma oferta tem prova de vendas -> todas sinais_de_atividade",
+    "bibliotecas de anuncios: amostra das primeiras 36-78 entradas por busca; contadores '~N resultados' da Meta nao auditados",
+    "audio dos videos nao transcrito; analise por quadros e legendas embutidas",
+    "TikTok CCL retornou 0 para FR/IT (busca por nome do anunciante); JP fora da cobertura",
+    "nenhum dado de gasto, alcance, vendas, CPA ou ROAS obtido"
+  ]
+}

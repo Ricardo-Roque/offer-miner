@@ -17,3 +17,6 @@ results/**/*.mp4
 results/**/*.mov
 results/**/*.wav
 results/**/*.mp3
+
+# Evidências locais (capturas de anúncios de terceiros) — nunca versionar
+evidence-local/

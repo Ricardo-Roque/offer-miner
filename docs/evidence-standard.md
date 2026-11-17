@@ -20,6 +20,10 @@
 
 **Anúncio ativo ≠ ROAS positivo.** Número de criativos ≠ gasto. Tempo em veiculação ≠ lucratividade. Avaliações públicas podem ser manipuladas ou não representar volume real de vendas.
 
+## Prioridade de investigação
+
+A prioridade (`prioridade_alta`, `prioridade_media`, `em_observacao`) é definida em `docs/prioritization-criteria.md` a partir de longevidade, volume de anúncios ativos da oferta e potencial de recompra. Ela é **independente** dos estados acima: uma oferta `prioridade_alta` continua `sinais_de_atividade` enquanto não houver prova de vendas. Toda contagem de anúncios registra fonte, data da consulta, método e se é estimativa; idade de anúncio individual e histórico da oferta são campos distintos.
+
 ## Qualidade
 
 Marque confiança como `alta`, `moderada` ou `baixa` com justificativa. Não calcule score numérico de faturamento inferido. Para propostas de reprodução de formato criativo, priorize análise de padrões, sem copiar indevidamente material protegido.

@@ -7,19 +7,25 @@ description: Executa uma missão de mineração de ofertas com pesquisa internac
 
 ## Entrada
 
-País(es) de venda, problema, mecanismos de interesse, idiomas (automáticos ou explícitos), plataformas, número-alvo e profundidade.
+País(es) de venda, problema, mecanismos de interesse, ingredientes, idiomas (automáticos ou explícitos), plataformas, número-alvo e profundidade. A missão pode ajustar os parâmetros de `docs/prioritization-criteria.md` (ex.: limiar de anúncios, idade mínima); registrar os valores usados no relatório.
 
-Defaults quando não informados: 1 país de venda ou alcance mundial se pedido; até 10 ofertas **com evidências**; até 30 consultas de pesquisa; até 2 ciclos de aprofundamento por candidato; sem execução recorrente.
+Defaults quando não informados: 1 país de venda ou alcance mundial se pedido; até 10 ofertas **com evidências**; até 30 consultas de pesquisa; até 2 ciclos de aprofundamento por candidato; sem execução recorrente; parâmetros de priorização padrão (30 dias; 100+/20–99/<20 anúncios ativos; só suplementos na lista principal).
 
 ## Passos
 
 1. **Capacidades:** inventariar ferramentas reais de busca, navegação, fontes de anúncios e análise de vídeo. Anotar lacunas.
 2. **Plano:** solicitar ao `research-planner` (se disponível) consultas por mercado e idioma. Ler `.claude/skills/multilingual-discovery/SKILL.md`.
-3. **Busca inicial:** coletar candidatos com URL real e data de inspeção. Descartar menções vagas sem produto identificável.
+3. **Busca inicial:** coletar candidatos com URL real e data de inspeção. Descartar menções vagas sem produto identificável. Produtos que não sejam suplementos vão para "fora de escopo", salvo pedido explícito.
 4. **Expansão:** pesquisar marca, domínio, ingredientes, anunciantes, páginas de venda, criativos e concorrentes; registrar caminhos de descoberta.
-5. **Investigação:** aprofundar a oferta com `offer-investigator` e, havendo material visual acessível, `creative-reference-analyst`.
-6. **Auditoria:** aplicar `.claude/skills/evidence-validation/SKILL.md` e solicitar crítica ao `evidence-auditor` se disponível.
-7. **Escrita:** gerar `results/YYYY-MM-DD_slug/report.md` e `offers.json` seguindo `templates/offer-report.md` e `templates/offers.schema.example.json`. Gravar missão, buscas e limitações. Não gravar dados inventados.
+5. **Histórico publicitário (obrigatório antes da prioridade):** nas bibliotecas oficiais acessíveis (Meta Ad Library por domínio em frase exata, marca, produto e páginas anunciantes; Google Ads Transparency por domínio; TikTok CCL quando o país for coberto), registrar conforme `docs/prioritization-criteria.md`:
+   - data da consulta; primeira data de veiculação observada; anúncio ativo mais antigo; distribuição dos ativos por faixa de idade (30+/60+/90+);
+   - `active_ads_offer` (produto específico) separado de `active_ads_brand_or_domain`; `unique_creatives`; páginas anunciantes; fonte e se é estimativa.
+   Sem acesso às bibliotecas, registrar a limitação e não inventar números.
+6. **Recorrência:** na página de venda, registrar dose diária, unidades por embalagem, duração estimada (cálculo), kits e assinatura (`verificada`/`alegada`/`nao_observada`). Separar potencial de recompra de assinatura comprovada.
+7. **Investigação:** aprofundar a oferta com `offer-investigator` e, havendo material visual acessível, `creative-reference-analyst`.
+8. **Prioridade:** classificar `prioridade_alta`, `prioridade_media` ou `em_observacao` (marcar `emergente` quando couber) com justificativa citando números, fonte e data. Prioridade não altera a classificação de evidência.
+9. **Auditoria:** aplicar `.claude/skills/evidence-validation/SKILL.md` e solicitar crítica ao `evidence-auditor` se disponível.
+10. **Escrita:** gerar `results/YYYY-MM-DD_slug/report.md` e `offers.json` seguindo `templates/offer-report.md` e `templates/offers.schema.example.json`. Gravar missão, buscas e limitações. Não gravar dados inventados.
 
 ## Critérios de parada
 
@@ -27,4 +33,4 @@ Encerrar quando: orçamento atingido; candidatos adequados suficientes; duas rod
 
 ## Forma de resposta
 
-Resumo em português, lista das ofertas mais interessantes com fontes, classificação e nível de confiança, alertas e caminhos de aprofundamento. A seleção final é do usuário.
+Resumo em português, ofertas ordenadas por prioridade (alta → média → em observação, com emergentes destacadas), cada uma com longevidade, anúncios ativos da oferta × total da marca, potencial de recompra, fontes, classificação de evidência e nível de confiança; alertas e caminhos de aprofundamento. Lembrar que prioridade não mede vendas. A seleção final é do usuário.

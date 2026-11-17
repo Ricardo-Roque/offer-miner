@@ -1,9 +1,15 @@
 {
   "mission_id": "2026-11-17-sono-eua",
   "executed_at_utc": null,
-  "target_countries": ["US"],
+  "target_countries": [
+    "US"
+  ],
   "problem": "dificuldade para dormir",
-  "mechanisms": ["melatonina", "cortisol", "relaxamento"],
+  "mechanisms": [
+    "melatonina",
+    "cortisol",
+    "relaxamento"
+  ],
   "searches": [],
   "offers": [
     {
@@ -16,17 +22,119 @@
       "offer_url": null,
       "price_observed": null,
       "currency": null,
+      "product_type": "consumivel_recorrente | consumivel_ocasional | nao_consumivel",
+      "repurchase": {
+        "daily_dose": null,
+        "daily_dose_source": null,
+        "units_per_pack": null,
+        "units_source": null,
+        "pack_duration_days_calculated": null,
+        "bundles": [
+          {
+            "label": null,
+            "units": null,
+            "price": null,
+            "currency": null,
+            "total_duration_days_calculated": null
+          }
+        ],
+        "subscription": "verificada | alegada | nao_observada",
+        "subscription_evidence_url": null,
+        "repurchase_discount": null,
+        "repurchase_potential_inference": null
+      },
+      "ad_activity": {
+        "checked_at_utc": null,
+        "sources": [
+          {
+            "platform": "meta_ad_library | google_ads_transparency | tiktok_ccl | agregador",
+            "query_url": null,
+            "method": "amostra | rolagem_completa | api | agregador",
+            "sample_size": null,
+            "count_is_estimate": true
+          }
+        ],
+        "first_seen_date": null,
+        "history_possibly_truncated": null,
+        "oldest_active_ad": {
+          "ad_id": null,
+          "url": null,
+          "start_date": null,
+          "age_days": null
+        },
+        "active_ads_by_age_days": {
+          "lt30": null,
+          "30_59": null,
+          "60_89": null,
+          "90_179": null,
+          "180_plus": null
+        },
+        "active_ads_offer": null,
+        "active_ads_brand_or_domain": null,
+        "total_shown_by_source": null,
+        "unique_creatives": null,
+        "pages_or_advertisers": [
+          {
+            "name": null,
+            "active_ads": null,
+            "landing_domain": null
+          }
+        ],
+        "related_domains": [
+          {
+            "domain": null,
+            "relation": "observada | hipotese"
+          }
+        ]
+      },
       "creative_references": [],
       "status": "descoberta",
       "confidence": "baixa",
       "confidence_reason": null,
+      "priority": {
+        "level": "prioridade_alta | prioridade_media | em_observacao",
+        "emergente": false,
+        "justification": null,
+        "missing_criteria": []
+      },
       "observations": [],
       "inferences": [],
       "evidence": [
-        {"url": null, "source_type": null, "checked_at_utc": null, "observation": null, "verification_status": "unverified"}
+        {
+          "url": null,
+          "source_type": null,
+          "checked_at_utc": null,
+          "observation": null,
+          "verification_status": "unverified"
+        }
       ],
       "compliance_notes": [],
       "missing_data": []
+    }
+  ],
+  "prioritization_parameters": {
+    "source": "docs/prioritization-criteria.md",
+    "min_active_ad_age_days": 30,
+    "longevity_milestones_days": [
+      60,
+      90,
+      180
+    ],
+    "high_min_active_ads_offer": 100,
+    "medium_active_ads_offer": [
+      20,
+      99
+    ],
+    "main_list_category": "suplementos",
+    "overrides_by_mission": null
+  },
+  "out_of_scope": [
+    {
+      "brand": null,
+      "product": null,
+      "category": null,
+      "url": null,
+      "reason": null
     }
   ],
   "limitations": []

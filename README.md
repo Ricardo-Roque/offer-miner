@@ -22,7 +22,7 @@ Este **não** é um aplicativo web. Não há frontend, backend, banco de dados n
 - `CLAUDE.md` — regras permanentes do projeto
 - `.claude/agents/` — papéis delegáveis de pesquisa, investigação e auditoria
 - `.claude/skills/` — processos reutilizáveis de mineração, busca multilíngue e validação
-- `docs/` — padrões de evidência e ferramentas
+- `docs/` — padrões de evidência, critérios de priorização (`prioritization-criteria.md`) e ferramentas
 - `missions/` — missões de exemplo/briefings
 - `templates/` — formatos de saída
 - `results/` — relatórios gerados nas sessões (não versionar arquivos brutos protegidos sem direito de uso)
