@@ -1,0 +1,1636 @@
+{
+ "mission_id": "2026-11-17-suplementos-eua-aberta",
+ "mission_name": "Missão 002 — Mineração aberta de suplementos nos EUA",
+ "executed_at_utc": "2026-11-17T19:20Z/20:40Z",
+ "target_countries": [
+  "US"
+ ],
+ "problem": "aberto (descoberta autônoma)",
+ "mechanisms": "aberto",
+ "searches": "data/queries_log.tsv (37 buscas por palavra-chave + 21 por frase exata/marca) e data/google_ads_transparency.tsv (14 domínios)",
+ "offers": [
+  {
+   "rank": 1,
+   "brand": "Happy V",
+   "product": "Prebiotic + Probiotic (saúde vaginal, intestinal e imune)",
+   "category": "saúde íntima feminina",
+   "problem": "odor, corrimento, desequilíbrio do pH vaginal, BV/candidíase recorrente",
+   "audience": "mulheres adultas sexualmente ativas",
+   "mechanism_claimed": "7 cepas probióticas + prebiótico patenteado PreforPro; \"reequilibrar o microbioma\" em 90 dias",
+   "offer_url": "https://happyv.com/products/probiotics-vaginal-health-supplement",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "US$ 44,99 avulso; assinatura 1 frasco US$ 40,49 (−10%), 3 frascos US$ 38,24/frasco (−15%), 6 frascos US$ 35,99/frasco (−20%); +20% na 1ª assinatura (Black Friday)",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": null,
+    "daily_dose_source": "não observado no texto lido",
+    "units_per_pack": "30 porções (\"1 bottle = 30 servings\")",
+    "units_source": "PDP",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 frasco",
+      "units": 1,
+      "price": 40.49,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "3 frascos",
+      "units": 3,
+      "price": 114.72,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "6 frascos",
+      "units": 6,
+      "price": 215.94,
+      "currency": "USD",
+      "total_duration_days_calculated": 180
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://happyv.com/products/probiotics-vaginal-health-supplement",
+    "repurchase_discount": "10–20% na assinatura; \"Free shipping for U.S. subscriptions\"",
+    "repurchase_potential_inference": "alto: uso diário, página pede 90 dias contínuos (\"Cut it short and the rebuild starts from zero\")"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=happyv.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 277,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=happyv.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "Cerca de 400 anúncios; anunciante verificado HAPPY V, LLC"
+     }
+    ],
+    "first_seen_date": "2026-09-26",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1070888349269354",
+     "url": "https://www.facebook.com/ads/library/?id=1070888349269354",
+     "start_date": "2026-09-26",
+     "age_days": 52
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 62,
+     "30_59": 215,
+     "60_89": 0,
+     "90_179": 0,
+     "180_plus": 0
+    },
+    "active_ads_offer": 839,
+    "active_ads_offer_cards": 277,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 851,
+    "total_shown_by_source": "~2.200 resultados (frase exata \"happyv.com\", 2026-11-17)",
+    "unique_creatives": 12,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "Happy V",
+      "active_ads": 634
+     },
+     {
+      "name": "Mik Zazon",
+      "active_ads": 42
+     },
+     {
+      "name": "Daniella Levy",
+      "active_ads": 30
+     },
+     {
+      "name": "thyriifrazier",
+      "active_ads": 25
+     },
+     {
+      "name": "obgyn.mom com Happy V",
+      "active_ads": 25
+     },
+     {
+      "name": "rosiepiper_",
+      "active_ads": 11
+     },
+     {
+      "name": "Brooke McGlamery",
+      "active_ads": 9
+     },
+     {
+      "name": "Vibe Sl0t",
+      "active_ads": 8
+     }
+    ],
+    "data_files": [
+     "data/ads_happyv.csv",
+     "data/agg_happyv.json"
+    ],
+    "notes": "Contagem 839 = anúncios que levam ao Pre+Pro e a kits que o contêm (Fresh Start Kit, pH Balance Kit). Somente com destino direto na PDP: 234 anúncios em 103 cards (85 com 30+ dias). Rolagem obtida: 282 de ~2.200 cards; todos os cards amostrados começaram após 2026-09-26, então o anúncio ativo mais antigo real pode ser mais antigo."
+   },
+   "hooks": [
+    "Don't skip out on plans because your issues \"down there\"...",
+    "Prioritize your vaginal health...",
+    "Don't let odor, imbalance, or discomfort stop you..."
+   ],
+   "formats": "118 de 277 cards com vídeo; UGC de criadoras (Mik Zazon, Daniella Levy, obgyn.mom) via parceria; imagens estáticas de kit",
+   "status": "evidencia_de_tracao",
+   "confidence": "media",
+   "confidence_reason": "Meta + Google ativos por anunciante verificado; amostra parcial (~13% dos cards).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "Meta Ad Library 2026-11-17: ≥234 anúncios ativos com destino direto na PDP (≥839 incluindo kits com o produto), 85 cards da PDP com 30+ dias; consumível diário com assinatura verificada.",
+    "missing_criteria": []
+   },
+   "compliance_notes": [
+    "Alegações sobre sintomas de BV, candidíase e ITU (\"Reduce Symptoms of BV, YI & UTI\" em anúncio) se aproximam de alegação de doença; revisar.",
+    "Página fala em \"clinically studied strains\"; não verificado."
+   ],
+   "missing_data": [
+    "dose diária explícita",
+    "anúncio ativo mais antigo real (amostra truncada)"
+   ]
+  },
+  {
+   "rank": 2,
+   "brand": "Lovy",
+   "product": "UroControl — suporte para bexiga (cápsulas)",
+   "category": "incontinência urinária feminina",
+   "problem": "perda urinária, urgência, noctúria em mulheres (pós-parto, menopausa, histerectomia)",
+   "audience": "mulheres 45+",
+   "mechanism_claimed": "trevo-vermelho (isoflavonas), semente de abóbora, ácido hialurônico, cranberry, citrato de magnésio, espinheiro-marítimo; \"relaxa espasmos da bexiga\"",
+   "offer_url": "https://secure.trylovy.com/urocontrol-s-bof",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "1 mês US$ 19 (de US$ 59); 2 meses US$ 39; 3 meses US$ 59; texto \"$49.99 Refill Ships In 30 Days\"",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas/dia",
+    "daily_dose_source": "\"Simply take 2 capsules with breakfast\"",
+    "units_per_pack": "60 cápsulas",
+    "units_source": "\"Our jar contains 60 capsules that last for about a month\"",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 mês",
+      "units": 1,
+      "price": 19,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "2 meses",
+      "units": 2,
+      "price": 39,
+      "currency": "USD",
+      "total_duration_days_calculated": 60
+     },
+     {
+      "label": "3 meses",
+      "units": 3,
+      "price": 59,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://secure.trylovy.com/urocontrol-s-bof",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto: página recomenda 3–6 meses; preço de entrada baixo seguido de refil de US$ 49,99 (texto) sugere modelo front-end barato + recorrência — hipótese a confirmar no checkout"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=UroControl",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=Lovy",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 50,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=trylovy.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "Cerca de 300 anúncios; anunciante verificado Mngn Brands LLC"
+     }
+    ],
+    "first_seen_date": "2026-03-28",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1354871836658279",
+     "url": "https://www.facebook.com/ads/library/?id=1354871836658279",
+     "start_date": "2026-03-28",
+     "age_days": 234
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 9,
+     "30_59": 14,
+     "60_89": 7,
+     "90_179": 8,
+     "180_plus": 12
+    },
+    "active_ads_offer": 362,
+    "active_ads_offer_cards": 50,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 362,
+    "total_shown_by_source": "~880 resultados (frase exata \"UroControl\"); ~1.400 (\"Lovy\", termo ambíguo)",
+    "unique_creatives": 15,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "Lovy",
+      "active_ads": 352
+     },
+     {
+      "name": "Unstoppable After 50",
+      "active_ads": 6
+     },
+     {
+      "name": "Lovy Secret Deals",
+      "active_ads": 2
+     },
+     {
+      "name": "Emily Grace Anderson",
+      "active_ads": 2
+     }
+    ],
+    "data_files": [
+     "data/ads_lovy_urocontrol.csv",
+     "data/agg_lovy_urocontrol.json"
+    ],
+    "notes": "A página \"Lovy\" concentra 352 anúncios; um único criativo de depoimento aparece com muitas variações (\"N anúncios usam esse criativo\"). 340 anúncios com destino direto na LP urocontrol-s-bof."
+   },
+   "hooks": [
+    "\"I had almost given up hope when bladder leaks took over my life...\"",
+    "If you had a hysterectomy years ago — and now your bladder suddenly empties...",
+    "datas sazonais (aniversário da marca, Halloween)"
+   ],
+   "formats": "0 vídeos na amostra; imagens estáticas e depoimentos longos; LPs de advertorial (adv2, adv4) e quiz",
+   "status": "evidencia_de_tracao",
+   "confidence": "media",
+   "confidence_reason": "Meta + Google ativos; 15 textos distintos; alta concentração de variações em poucos criativos.",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥362 anúncios ativos (50 cards), 41 cards com 30+ dias, mais antigo 234 dias; 60 cápsulas = 30 dias.",
+    "missing_criteria": []
+   },
+   "compliance_notes": [
+    "\"Cranberry extract helps protect against UTIs\" — alegação de prevenção de doença.",
+    "\"no reported side effects\"; estatísticas de pesquisa interna (87–94%) sem metodologia.",
+    "Âncora de preço riscado (US$ 59) e contador regressivo."
+   ],
+   "missing_data": [
+    "doses por ingrediente (tabela em imagem)",
+    "confirmação de assinatura no checkout"
+   ]
+  },
+  {
+   "rank": 3,
+   "brand": "ProstaGenix",
+   "product": "ProstaGenix Multiphase Prostate Supplement",
+   "category": "próstata / saúde masculina 50+",
+   "problem": "próstata aumentada, noctúria, fluxo fraco; também disfunção erétil no copy",
+   "audience": "homens 55+",
+   "mechanism_claimed": "beta-sitosterol \"do pinheiro francês\" + quercetina, semente de uva, romã, D3/zinco/selênio; prêmio ConsumerLab",
+   "offer_url": "https://www.prostagenix.com/",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "1 mês US$ 49,95 (de US$ 69,95); 3 meses US$ 99,95; 5 meses US$ 149,95 (via leitura da página por subagente; pagamento único)",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "3 cápsulas/dia (via resumo de leitura, não verbatim)",
+    "daily_dose_source": "leitura web-fetch 2026-11-17",
+    "units_per_pack": "\"One Month Supply\"",
+    "units_source": "PDP",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 mês",
+      "units": 1,
+      "price": 49.95,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "3 meses",
+      "units": 3,
+      "price": 99.95,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "5 meses",
+      "units": 5,
+      "price": 149.95,
+      "currency": "USD",
+      "total_duration_days_calculated": 150
+     }
+    ],
+    "subscription": "nao_observada",
+    "subscription_evidence_url": null,
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "médio-alto: uso contínuo por condição crônica; recompra depende de pacotes longos (5 meses), não de assinatura"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=prostagenix.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 46,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=prostagenix.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "24 anúncios; anunciante exibido \"Superbalife International, LLC - DO NOT USE - IN OCA\""
+     }
+    ],
+    "first_seen_date": "2025-10-29",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "24896050666726199",
+     "url": "https://www.facebook.com/ads/library/?id=24896050666726199",
+     "start_date": "2025-10-29",
+     "age_days": 384
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 16,
+     "30_59": 16,
+     "60_89": 0,
+     "90_179": 0,
+     "180_plus": 14
+    },
+    "active_ads_offer": 140,
+    "active_ads_offer_cards": 46,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 140,
+    "total_shown_by_source": "~56 resultados (frase exata \"prostagenix.com\"; rolagem completa = 41 cards/86 anúncios)",
+    "unique_creatives": 8,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "ProstaGenix.com",
+      "active_ads": 140
+     }
+    ],
+    "data_files": [
+     "data/ads_prostagenix.csv",
+     "data/agg_prostagenix.json"
+    ],
+    "notes": "Única oferta com rolagem completa da busca por domínio. 140 inclui cards de prostagenixvip.com (mesma página anunciante ProstaGenix.com), relação observada."
+   },
+   "hooks": [
+    "Rated #1 and used by 1.7 Million Men - Because it Works",
+    "MEGA SALE ... America's #1 Rated Prostate Shrinking Super Pill",
+    "Finally - the REAL Secret to ending your nighttime bathroom trips"
+   ],
+   "formats": "texto longo + imagem; 4 vídeos; página única \"ProstaGenix.com\"; LP longa estilo carta de vendas com celebridade e médico endossante",
+   "status": "sinais_de_atividade",
+   "confidence": "media",
+   "confidence_reason": "Contagem Meta completa por domínio; Google pequeno; 8 textos distintos (poucos criativos, muito reaproveitamento).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥140 anúncios ativos (46 cards), 30 cards com 30+ dias e 14 com 180+; mais antigo 384 dias (2025-10-29). Consumível contínuo.",
+    "missing_criteria": []
+   },
+   "compliance_notes": [
+    "Alto risco: \"Prostate Shrinking\", \"No more relying on ED drugs\", \"27 TIMES More Effective\" — alegações de tratamento de doença (HPB/DE).",
+    "Endosso de celebridade/médico e \"Big Pharma\" — revisar regras FTC de endosso."
+   ],
+   "missing_data": [
+    "dose e unidades verbatim",
+    "opção de assinatura"
+   ]
+  },
+  {
+   "rank": 4,
+   "brand": "Rosabella",
+   "product": "Rosabella Beetroot (cápsulas de beterraba orgânica 1.300 mg)",
+   "category": "cardiovascular / circulação / pressão",
+   "problem": "circulação, pressão arterial, energia; copy de \"heart health\"",
+   "audience": "adultos 50+, páginas-persona com histórias longas",
+   "mechanism_claimed": "nitratos dietéticos da beterraba → óxido nítrico/fluxo sanguíneo",
+   "offer_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "preço cheio US$ 19,97/frasco; Buy 1 Get 1 → US$ 17,97/frasco (assinatura) ou US$ 19,97; Buy 3 Get 3 → US$ 11,99/frasco (assinatura, −40%); refis: 2 frascos/30 d US$ 39,95, 4/60 d US$ 69,95, 6/90 d US$ 84,95 (+US$ 5,95 frete)",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas/dia",
+    "daily_dose_source": "\"Take 2 capsules daily with water\"",
+    "units_per_pack": "30 porções",
+    "units_source": "\"30 servings per bottle\"",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "Buy 1 Get 1",
+      "units": 2,
+      "price": 35.94,
+      "currency": "USD",
+      "total_duration_days_calculated": 60
+     },
+     {
+      "label": "Buy 3 Get 3",
+      "units": 6,
+      "price": 71.94,
+      "currency": "USD",
+      "total_duration_days_calculated": 180
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+    "repurchase_discount": "até 40% (\"Subscribe & Save 40% every 90 days\")",
+    "repurchase_potential_inference": "alto: página pede 90 dias de uso; refil automático explícito"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=tryrosabella.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 112,
+      "count_is_estimate": true
+     }
+    ],
+    "first_seen_date": "2026-08-20",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1273690935826594",
+     "url": "https://www.facebook.com/ads/library/?id=1273690935826594",
+     "start_date": "2026-08-20",
+     "age_days": 89
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 51,
+     "30_59": 32,
+     "60_89": 29,
+     "90_179": 0,
+     "180_plus": 0
+    },
+    "active_ads_offer": 140,
+    "active_ads_offer_cards": 112,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 140,
+    "total_shown_by_source": "~56 resultados (frase exata \"tryrosabella.com\" — o domínio aparece só no link de tracking, então o contador subestima)",
+    "unique_creatives": 55,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "The Health Haven",
+      "active_ads": 46
+     },
+     {
+      "name": "Leslie Hosmer",
+      "active_ads": 16
+     },
+     {
+      "name": "Mary Edwards",
+      "active_ads": 11
+     },
+     {
+      "name": "Essential Health Finds",
+      "active_ads": 11
+     },
+     {
+      "name": "The Heart Health Project",
+      "active_ads": 11
+     },
+     {
+      "name": "Eric Bussey",
+      "active_ads": 7
+     },
+     {
+      "name": "Ashley Mccullough",
+      "active_ads": 6
+     },
+     {
+      "name": "Blood Pressure Secrets",
+      "active_ads": 6
+     }
+    ],
+    "data_files": [
+     "data/ads_rosabella.csv",
+     "data/agg_rosabella.json"
+    ],
+    "notes": "Contagem vem quase toda de buscas temáticas (blood pressure, blood sugar, gut). Destinos são 4 links track.tryrosabella.com; os 4 levam à mesma PDP de Beetroot (verificado). A marca também vende Moringa (excluída do filtro)."
+   },
+   "hooks": [
+    "Nine Words, a Gravel Lane, and a Cellar Wall of Crimson Jars. (história longa ficcional)",
+    "Introducing Rosabella Beetroot — a premium, certified-organic capsule...",
+    "Want a simple way to support your heart health naturally? ❤️"
+   ],
+   "formats": "0 vídeos na amostra; storytelling longo em primeira pessoa por ≥15 páginas-persona (\"The Health Haven\", \"Leslie Hosmer\", \"The Heart Health Project\", \"Blood Pressure Secrets\")",
+   "status": "sinais_de_atividade",
+   "confidence": "media",
+   "confidence_reason": "Volume concentrado em páginas-persona; nenhum anúncio com 90+ dias; Google não consultado (domínio de tracking).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥140 anúncios ativos (112 cards), 61 cards com 30+ dias, mais antigo 89 dias; consumível com assinatura verificada.",
+    "missing_criteria": []
+   },
+   "compliance_notes": [
+    "Páginas-persona com nomes de pessoas e \"projetos\" de saúde: risco de anúncio enganoso (identidade do anunciante).",
+    "Copy de pressão arterial: evitar alegação de tratamento de hipertensão.",
+    "\"Rated 4.4/5 on Amazon\" não verificado."
+   ],
+   "missing_data": [
+    "Google Ads Transparency de tryrosabella.com",
+    "histórico anterior a 2026-08-20"
+   ]
+  },
+  {
+   "rank": 5,
+   "brand": "Avantera Health",
+   "product": "Elevate — nootrópico em cápsulas",
+   "category": "cognição / foco / energia",
+   "problem": "névoa mental, memória, foco, energia sem \"crash\"",
+   "audience": "adultos 30–60 (mães, profissionais)",
+   "mechanism_claimed": "cafeína do chá-verde 95 mg + L-teanina 200 mg + bacopa, juba-de-leão, CDP-colina, rhodiola; \"via da acetilcolina\"",
+   "offer_url": "https://avanterahealth.com/pages/elevate-shop",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "US$ 24,98 (de US$ 49,95, \"50% OFF\") com entrega a cada 4 semanas",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas/dia",
+    "daily_dose_source": "\"Take two capsules within the first hour of waking\"",
+    "units_per_pack": "\"28-day supply\"",
+    "units_source": "PDP",
+    "pack_duration_days_calculated": 28,
+    "bundles": [],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://avanterahealth.com/pages/elevate-shop",
+    "repurchase_discount": "50% no 1º pedido (texto)",
+    "repurchase_potential_inference": "alto: modelo \"28-day supply delivered every 4 weeks\"; seletor não confirmado"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=avanterahealth.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 34,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=avanterahealth.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "Cerca de 200 anúncios; Avantera Health, LLC verificado"
+     }
+    ],
+    "first_seen_date": "2024-06-06",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1081955446237798",
+     "url": "https://www.facebook.com/ads/library/?id=1081955446237798",
+     "start_date": "2024-06-06",
+     "age_days": 894
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 4,
+     "30_59": 5,
+     "60_89": 0,
+     "90_179": 5,
+     "180_plus": 20
+    },
+    "active_ads_offer": 56,
+    "active_ads_offer_cards": 34,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 122,
+    "total_shown_by_source": "~360 resultados (frase exata \"avanterahealth.com\", inclui outros produtos)",
+    "unique_creatives": 11,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "Philsmypharmacist",
+      "active_ads": 39
+     },
+     {
+      "name": "Avantera",
+      "active_ads": 13
+     },
+     {
+      "name": "Intuitively Strong",
+      "active_ads": 2
+     },
+     {
+      "name": "Elevate Avantera",
+      "active_ads": 1
+     },
+     {
+      "name": "The Shine Project",
+      "active_ads": 1
+     }
+    ],
+    "data_files": [
+     "data/ads_avantera_elevate.csv",
+     "data/agg_avantera_elevate.json"
+    ],
+    "notes": "Anúncio ativo mais antigo da amostra: 894 dias (2024-06-06), pela página do criador \"Philsmypharmacist\" — maior longevidade da missão. Marca também anuncia Elevate Kids e Unwind (excluídos)."
+   },
+   "hooks": [
+    "Ever think you struggle with brain fog, memory issues... I've found a supplement (farmacêutico criador)",
+    "\"I feel like Bradley Cooper in the movie Limitless!\"",
+    "ENERGY 🤍 FOCUS 🤍 MEMORY 🤍 MOOD"
+   ],
+   "formats": "21 de 34 cards com vídeo; parceria com criador farmacêutico (Philsmypharmacist, 39 anúncios) + página da marca",
+   "status": "evidencia_de_tracao",
+   "confidence": "media",
+   "confidence_reason": "Longevidade alta e multicanal; volume do produto específico baixo na amostra.",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥56 anúncios do Elevate (34 cards), 30 com 30+ dias, 20 com 180+; mais antigo 894 dias. Faltou piso ≥100 do produto (amostra limitada; contador do domínio ~360).",
+    "missing_criteria": [
+     "active_ads_offer ≥ 100 não comprovado"
+    ]
+   },
+   "compliance_notes": [
+    "Comparação com \"Limitless\"; \"neuroprotective\" — revisar alegações cognitivas.",
+    "Aviso FDA presente; alerta de contraindicação hepática."
+   ],
+   "missing_data": [
+    "nº de cápsulas por frasco",
+    "doses completas (tabela em imagem)"
+   ]
+  },
+  {
+   "rank": 6,
+   "brand": "Crave",
+   "product": "Crave Creatine Monohydrate Gummies",
+   "category": "creatina / energia / cognição (público geral e 35+)",
+   "problem": "energia, força, foco; creatina sem pó",
+   "audience": "adultos, inclusive mulheres 35+ (LP \"after-35\")",
+   "mechanism_claimed": "creatina monohidratada em goma, sem fase de carga",
+   "offer_url": "https://trycrave.com/products/crave-creatine-gummies",
+   "sales_countries": [
+    "US",
+    "CA",
+    "AU"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "US$ 35 (assinatura) / US$ 44 (preço cheio exibido); Variety Pack 90 dias exibido",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "3 gomas/dia",
+    "daily_dose_source": "\"Take 3 gummies daily\"",
+    "units_per_pack": null,
+    "units_source": "não observado",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "Variety Pack (90 day supply)",
+      "units": null,
+      "price": null,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://trycrave.com/products/crave-creatine-gummies",
+    "repurchase_discount": "US$ 35 vs US$ 44 (≈20%, inferido dos dois preços)",
+    "repurchase_potential_inference": "alto: uso diário contínuo; FAQ \"How do I manage my subscription?\""
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=trycrave.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 26,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=trycrave.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "3 anúncios; anunciante Michael Potter"
+     }
+    ],
+    "first_seen_date": "2025-07-10",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "2020770371994276",
+     "url": "https://www.facebook.com/ads/library/?id=2020770371994276",
+     "start_date": "2025-07-10",
+     "age_days": 495
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 0,
+     "30_59": 6,
+     "60_89": 0,
+     "90_179": 8,
+     "180_plus": 12
+    },
+    "active_ads_offer": 89,
+    "active_ads_offer_cards": 26,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 89,
+    "total_shown_by_source": "~890 resultados (frase exata \"trycrave.com\")",
+    "unique_creatives": 9,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "Crave Creatine",
+      "active_ads": 87
+     },
+     {
+      "name": "SwingSimple LLC com Crave Creatine",
+      "active_ads": 1
+     },
+     {
+      "name": "the_antihero_broadcast com Crave Creatine",
+      "active_ads": 1
+     }
+    ],
+    "data_files": [
+     "data/ads_crave.csv",
+     "data/agg_crave.json"
+    ],
+    "notes": null
+   },
+   "hooks": [
+    "Creatine is a natural fuel your body already produces...",
+    "Other creatine gummies? (comparativo)",
+    "made it taste like actual candy🍬"
+   ],
+   "formats": "20 de 26 cards com vídeo; anúncios em parceria com criadores",
+   "status": "sinais_de_atividade",
+   "confidence": "media",
+   "confidence_reason": "Longevidade alta (todos os 26 cards com 30+ dias); amostra pequena frente ao contador ~890.",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥89 anúncios ativos (26 cards), 26 com 30+ dias, 12 com 180+; mais antigo 495 dias (2025-07-10). Piso abaixo de 100.",
+    "missing_criteria": [
+     "active_ads_offer ≥ 100 não comprovado"
+    ]
+   },
+   "compliance_notes": [
+    "Categoria com histórico de gomas de creatina subdosadas no mercado; verificar g/porção (não observada)."
+   ],
+   "missing_data": [
+    "gramas de creatina por porção",
+    "unidades por pote"
+   ]
+  },
+  {
+   "rank": 7,
+   "brand": "Nuora",
+   "product": "Nuora Gut Ritual / \"Gut Capsule\" (berberina + bromelina + ashwagandha)",
+   "category": "metabolismo / inchaço / peso na menopausa",
+   "problem": "inchaço, gordura abdominal, desejos por açúcar em mulheres 40+",
+   "audience": "mulheres na perimenopausa/menopausa",
+   "mechanism_claimed": "\"biofilme intestinal\" quebrado por bromelina; berberina \"mimics GLP-1\"; ashwagandha para cortisol",
+   "offer_url": "https://mynuora.com/pages/gut-capsule",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "1 mês US$ 49; 2 meses US$ 39/un.; 3 meses US$ 29/un. (opções marcadas \"Unavailable\" na leitura)",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas/dia",
+    "daily_dose_source": "\"Serving Size: 2 Capsules\"",
+    "units_per_pack": "30 porções (60 cápsulas)",
+    "units_source": "\"Servings: 30\"",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 mês",
+      "units": 1,
+      "price": 49,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "2 meses",
+      "units": 2,
+      "price": 78,
+      "currency": "USD",
+      "total_duration_days_calculated": 60
+     },
+     {
+      "label": "3 meses",
+      "units": 3,
+      "price": 87,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://mynuora.com/pages/gut-capsule",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto: texto \"Automatic refills\" e \"Manage Subscription\"; seletor não confirmado"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=mynuora.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 22,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=mynuora.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "Cerca de 800 anúncios; Lienov Solutions LLC verificado"
+     }
+    ],
+    "first_seen_date": "2026-01-30",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1438360120994908",
+     "url": "https://www.facebook.com/ads/library/?id=1438360120994908",
+     "start_date": "2026-01-30",
+     "age_days": 291
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 0,
+     "30_59": 0,
+     "60_89": 0,
+     "90_179": 8,
+     "180_plus": 14
+    },
+    "active_ads_offer": 51,
+    "active_ads_offer_cards": 22,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 379,
+    "total_shown_by_source": "~1.800 resultados (frase exata \"mynuora.com\", toda a marca)",
+    "unique_creatives": 21,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "Alicia Darling",
+      "active_ads": 35
+     },
+     {
+      "name": "Nuora",
+      "active_ads": 16
+     }
+    ],
+    "data_files": [
+     "data/ads_nuora_gut.csv",
+     "data/agg_nuora_gut.json"
+    ],
+    "notes": "Rolagem da marca às ~19:30 UTC: 288 cards / 379 anúncios, 269 cards com 30+ dias, mais antigo 405 dias (ID 782108268048154), páginas Alicia Darling 152, Nuora 96, Dr. Destiny Robinson 27. Esse arquivo foi sobrescrito por nova varredura limitada; só o agregado ficou registrado. A divisão por produto usa apenas os 68 cards ainda disponíveis."
+   },
+   "pages_extra": null,
+   "hooks": [
+    "I need to publicly apologize to anyone who's ever bought Nuora berberine capsules before because I lied.",
+    "The waistband was loose at 8am. By 2pm I looked six months pregnant again.",
+    "culpa do estrogênio/cortisol → \"na verdade é biofilme\""
+   ],
+   "formats": "18 de 22 cards com vídeo (UGC de 1–4 min); persona \"Alicia Darling\"",
+   "status": "evidencia_de_tracao",
+   "confidence": "baixa",
+   "confidence_reason": "Marca com volume forte, mas contagem do produto específico baixa e dados de rolagem completa perdidos.",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥51 anúncios do Gut Capsule (22 cards), todos com 30+ dias e 14 com 180+; mais antigo 291 dias. Marca ≥379 anúncios. Piso do produto abaixo de 100.",
+    "missing_criteria": [
+     "active_ads_offer ≥ 100 não comprovado para o produto"
+    ]
+   },
+   "compliance_notes": [
+    "Alto risco: calculadora \"you could lose up to 24lbs in 3 months\"; comparação com fármacos GLP-1.",
+    "Depoimentos com imagens rotuladas como geradas/editadas por IA.",
+    "Prova social inconsistente (524k vs 32k compradores); garantias de 30 e 60 dias na mesma página.",
+    "Divergência entre tabela Supplement Facts e texto de marketing nas doses."
+   ],
+   "missing_data": [
+    "IDs da rolagem completa da marca",
+    "estado real de estoque"
+   ]
+  },
+  {
+   "rank": 8,
+   "brand": "Primal Viking",
+   "product": "Ancestral Testosterone Booster (órgãos de rena liofilizados)",
+   "category": "testosterona / vitalidade masculina",
+   "problem": "baixa testosterona, libido, \"barriga de cerveja\", energia",
+   "audience": "homens 30–55+",
+   "mechanism_claimed": "\"ancestral\": fígado, coração e rim de rena + testículo bovino + rhodiola (blend proprietário 337,5 mg)",
+   "offer_url": "https://primalviking.com/products/primal-reindeer-testosterone-support",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "assinatura: Buy 1 Get 1 US$ 25/pote; Buy 2 Get 3 US$ 23,33/pote; Buy 4 Get 5 US$ 20/pote; preço único exibido US$ 69,99",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas/dia",
+    "daily_dose_source": "\"Take 2 capsules daily with your biggest meal\"",
+    "units_per_pack": "48 cápsulas",
+    "units_source": "\"48 Capsules - Serving size 2 capsules\"",
+    "pack_duration_days_calculated": 24,
+    "bundles": [
+     {
+      "label": "Buy 1 Get 1",
+      "units": 2,
+      "price": 50,
+      "currency": "USD",
+      "total_duration_days_calculated": 48
+     },
+     {
+      "label": "Buy 2 Get 3",
+      "units": 5,
+      "price": 116.65,
+      "currency": "USD",
+      "total_duration_days_calculated": 120
+     },
+     {
+      "label": "Buy 4 Get 5",
+      "units": 9,
+      "price": 180,
+      "currency": "USD",
+      "total_duration_days_calculated": 216
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://primalviking.com/products/primal-reindeer-testosterone-support",
+    "repurchase_discount": "\"72% OFF on subscription\"",
+    "repurchase_potential_inference": "alto: pote dura 24 dias (cálculo); bundles muito longos"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=primalviking.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 67,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=primalviking.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "0 anúncios"
+     }
+    ],
+    "first_seen_date": "2026-05-21",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "952973200670606",
+     "url": "https://www.facebook.com/ads/library/?id=952973200670606",
+     "start_date": "2026-05-21",
+     "age_days": 180
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 18,
+     "30_59": 22,
+     "60_89": 7,
+     "90_179": 19,
+     "180_plus": 1
+    },
+    "active_ads_offer": 78,
+    "active_ads_offer_cards": 67,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 78,
+    "total_shown_by_source": "~2.800 resultados (frase exata \"primalviking.com\")",
+    "unique_creatives": 41,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "Primal Viking",
+      "active_ads": 72
+     },
+     {
+      "name": "Zen.Tree com Primal Viking",
+      "active_ads": 3
+     },
+     {
+      "name": "Dr. Matt",
+      "active_ads": 2
+     },
+     {
+      "name": "Nordic Wellness Secrets",
+      "active_ads": 1
+     }
+    ],
+    "data_files": [
+     "data/ads_primalviking.csv",
+     "data/agg_primalviking.json"
+    ],
+    "notes": null
+   },
+   "hooks": [
+    "New Study Reveals #1 TESTOSTERONE BOOSTER 🔥 for Males 30-55+",
+    "Most men aren't reaching their full size potential.",
+    "BEER BELLY!?!?",
+    "You're NOT Fat, You're Inflamed from High Cortisol"
+   ],
+   "formats": "2 vídeos em 67 cards; advertoriais \"10 reasons\", quiz; 41 textos distintos (alta diversidade)",
+   "status": "sinais_de_atividade",
+   "confidence": "media",
+   "confidence_reason": "Contador ~2.800 sugere volume bem maior que a amostra; Google sem anúncios.",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥78 anúncios ativos (67 cards), 49 com 30+ dias, mais antigo 180 dias; contador do domínio ~2.800 (estimativa). Piso abaixo de 100.",
+    "missing_criteria": [
+     "active_ads_offer ≥ 100 não comprovado (amostra)"
+    ]
+   },
+   "compliance_notes": [
+    "\"94% increased their testosterone\", \"Testosterone Tripled\" e hook de tamanho peniano: alegações de alto risco.",
+    "Produto de órgãos animais: verificar importação/origem e rotulagem."
+   ],
+   "missing_data": [
+    "contagem completa",
+    "quantidade por órgão no blend"
+   ]
+  },
+  {
+   "rank": 9,
+   "brand": "SPNutrition",
+   "product": "Magnesium Bisglycinate Gummies (400 mg)",
+   "category": "sono / estresse / cortisol",
+   "problem": "insônia (acordar às 3h), ansiedade, cortisol, cãibras noturnas",
+   "audience": "mulheres 40+ e homens 40+ (listicles separados)",
+   "mechanism_claimed": "bisglicinato de magnésio 400 mg/2 gomas, sem açúcar; \"magnesium shuts down excess cortisol\"",
+   "offer_url": "https://spnutrition-us.com/products/maximum-absorption-magnesium-bisglycinate-gummies",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": null,
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 gomas/dia",
+    "daily_dose_source": "\"Per serving (2 gummies, 30 servings)\" (web-fetch)",
+    "units_per_pack": "30 porções",
+    "units_source": "web-fetch 2026-11-17",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "Buy 3 Magnesium Bags Get Free D3+K2 (Black Friday)",
+      "units": 3,
+      "price": null,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://spnutrition-us.com/products/maximum-absorption-magnesium-bisglycinate-gummies",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto: uso noturno diário; \"Auto Refills Ship Every 30 Days\"; anúncio oferece rota \"without a subscription\""
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=spnutrition-us.com",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 42,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=spnutrition-us.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "Cerca de 200 anúncios; Ecom Victory LLC verificado"
+     }
+    ],
+    "first_seen_date": "2026-03-06",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "863178650084986",
+     "url": "https://www.facebook.com/ads/library/?id=863178650084986",
+     "start_date": "2026-03-06",
+     "age_days": 256
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 8,
+     "30_59": 7,
+     "60_89": 16,
+     "90_179": 7,
+     "180_plus": 4
+    },
+    "active_ads_offer": 72,
+    "active_ads_offer_cards": 42,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 109,
+    "total_shown_by_source": "~4.900 resultados (frase exata \"spnutrition-us.com\", inclui outros produtos)",
+    "unique_creatives": 18,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "SPNutrition",
+      "active_ads": 32
+     },
+     {
+      "name": "Alice Williams",
+      "active_ads": 15
+     },
+     {
+      "name": "Wellness Tips",
+      "active_ads": 13
+     },
+     {
+      "name": "SP Nutrition",
+      "active_ads": 5
+     },
+     {
+      "name": "Jacob Nash",
+      "active_ads": 4
+     },
+     {
+      "name": "Deborah Rustad",
+      "active_ads": 2
+     },
+     {
+      "name": "Wellness Tipss",
+      "active_ads": 1
+     }
+    ],
+    "data_files": [
+     "data/ads_spn_magnesium.csv",
+     "data/agg_spn_magnesium.json"
+    ],
+    "notes": null
+   },
+   "hooks": [
+    "⭐️⭐️⭐️⭐️⭐️ \"I tried every magnesium supplement out there but...\"",
+    "\"I started taking magnesium bisglycinate gummies every night before bed & suddenly my anxiety...\"",
+    "YOU'RE NOT FAT. YOU'RE CORTISOL OVERLOADED."
+   ],
+   "formats": "2 vídeos em 42 cards; depoimento-estrela em texto; páginas-persona \"Wellness Tips\", \"Alice Williams\", \"Jacob Nash\"",
+   "status": "evidencia_de_tracao",
+   "confidence": "media",
+   "confidence_reason": "Meta + Google ativos; página bloqueia leitura no navegador automatizado (preços não observados).",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥72 anúncios do magnésio (42 cards), 34 com 30+ dias, mais antigo 256 dias. Piso abaixo de 100.",
+    "missing_criteria": [
+     "active_ads_offer ≥ 100 não comprovado"
+    ]
+   },
+   "compliance_notes": [
+    "Um hook usa narrativa sexual explícita (\"At 62, I took a man back to my hotel room...\") — risco de política de anúncios.",
+    "\"Safe ... alongside your medication\" e \"Absorption jumps to around 90%\" sem fonte.",
+    "Aviso FDA não observado na parte lida."
+   ],
+   "missing_data": [
+    "preços e bundles",
+    "aviso FDA",
+    "site bloqueia ferramentas de desenvolvedor — não contornado"
+   ]
+  },
+  {
+   "rank": 10,
+   "brand": "Nutrition Therapy",
+   "product": "Oil of Oregano Drops (60 mL)",
+   "category": "intestino / SIBO / IBS-D",
+   "problem": "diarreia crônica, IBS-D, SIBO",
+   "audience": "adultos 40+ com IBS diagnosticado",
+   "mechanism_claimed": "carvacrol \"antimicrobiano\" em gotas que \"passam pelo intestino danificado\"",
+   "offer_url": "https://nutritiontherapy.co/products/oil-of-oregano",
+   "sales_countries": [
+    "US"
+   ],
+   "languages_observed": [
+    "en"
+   ],
+   "price_observed": "1 frasco US$ 31,99; bundle US$ 20,86/frasco (US$ 62,99); bundle US$ 18,74/frasco (US$ 94,99); \"20% off automatic refills\"",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 conta-gotas/dia (~2 mL)",
+    "daily_dose_source": "\"Take 2 dropperfuls daily (2mL)\"",
+    "units_per_pack": "60 mL",
+    "units_source": "\"contains 60ml of liquid\"",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 frasco",
+      "units": 1,
+      "price": 31.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "bundle US$ 62,99",
+      "units": 3,
+      "price": 62.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "bundle US$ 94,99",
+      "units": 5,
+      "price": 94.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 150
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://nutritiontherapy.co/products/oil-of-oregano",
+    "repurchase_discount": "20% (\"20% off automatic refills\", \"Refills Every 30 Days\")",
+    "repurchase_potential_inference": "médio: protocolo antimicrobiano pode ser cíclico; marca oferece refil mensal. Unidades por bundle inferidas do preço por frasco (cálculo)"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:30Z–20:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&search_type=keyword_exact_phrase&q=nutritiontherapy.co",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "buscas de descoberta por palavra-chave (data/queries_log.tsv)",
+      "method": "amostra",
+      "sample_size": 25,
+      "count_is_estimate": true
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=nutritiontherapy.co",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "observed": "0 anúncios"
+     }
+    ],
+    "first_seen_date": "2026-06-26",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1045429338426637",
+     "url": "https://www.facebook.com/ads/library/?id=1045429338426637",
+     "start_date": "2026-06-26",
+     "age_days": 144
+    },
+    "active_ads_by_age_days_cards": {
+     "lt30": 0,
+     "30_59": 5,
+     "60_89": 3,
+     "90_179": 17,
+     "180_plus": 0
+    },
+    "active_ads_offer": 79,
+    "active_ads_offer_cards": 25,
+    "active_ads_offer_is_floor": true,
+    "active_ads_brand_or_domain": 79,
+    "total_shown_by_source": "~320 resultados (frase exata \"nutritiontherapy.co\")",
+    "unique_creatives": 13,
+    "unique_creatives_method": "textos distintos (primeiros 140 caracteres normalizados); mídia não comparada",
+    "pages_or_advertisers": [
+     {
+      "name": "Carol Warren",
+      "active_ads": 68
+     },
+     {
+      "name": "Scarlett Boyd",
+      "active_ads": 5
+     },
+     {
+      "name": "Sarah Redshaw",
+      "active_ads": 2
+     },
+     {
+      "name": "Susan Norris",
+      "active_ads": 2
+     },
+     {
+      "name": "Sally Nora",
+      "active_ads": 1
+     },
+     {
+      "name": "Linda Nicole",
+      "active_ads": 1
+     }
+    ],
+    "data_files": [
+     "data/ads_nt_oregano.csv",
+     "data/agg_nt_oregano.json"
+    ],
+    "notes": null
+   },
+   "hooks": [
+    "If you're having diarrhea 3-5 times a day no matter what Imodium you take...",
+    "I had a diarrhea crisis on a Mediterranean cruise. The ship's doctor...",
+    "I was diagnosed with IBS-D at 32. I'm 58 now. Turns out I never had IBS-D at all."
+   ],
+   "formats": "1 vídeo em 25 cards; histórias longas em primeira pessoa por páginas-persona (\"Carol Warren\" 68 anúncios)",
+   "status": "sinais_de_atividade",
+   "confidence": "media",
+   "confidence_reason": "Todos os 25 cards com 30+ dias; amostra pequena; só Meta.",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta 2026-11-17: ≥79 anúncios ativos (25 cards), 25 com 30+ dias e 17 com 90+; mais antigo 144 dias. Piso abaixo de 100.",
+    "missing_criteria": [
+     "active_ads_offer ≥ 100 não comprovado"
+    ]
+   },
+   "compliance_notes": [
+    "\"The Most Effective Gut-Healing Formula Ever Created\", \"SIBO-Targeted\": alegação de tratamento de doença.",
+    "Narrativa de que médicos \"escondem\" a causa — risco de alegação enganosa."
+   ],
+   "missing_data": [
+    "unidades exatas por bundle",
+    "aviso FDA"
+   ]
+  }
+ ],
+ "not_selected_candidates": [
+  {
+   "brand": "Nuora",
+   "product": "Feminine Balance Gummies (probiótico íntimo, 1B CFU, 60 gomas)",
+   "data": "≥43 anúncios (39 cards), 37 com 30+ dias, mais antigo 404 dias",
+   "url": "https://mynuora.com/products/feminine-balance-gummies-1",
+   "reason": "Mesma marca da oferta 7 e mesma categoria da oferta 1; candidato a ficha própria."
+  },
+  {
+   "brand": "Akka Superbiotics (Enclave)",
+   "product": "Akka — Akkermansia + silimarina para fígado",
+   "data": "≥70 anúncios (26 cards), mais antigo 107 dias; Meta ~330; Google ~700",
+   "url": "https://livercleanseprotocol.com/pages/akk-pdpfb-new/",
+   "reason": "Média; alegações de altíssimo risco (\"natural replacement for Ozempic\", \"death is inevitable\"). Fígado como 11ª categoria."
+  },
+  {
+   "brand": "STĒLO",
+   "product": "Stream (equol, próstata)",
+   "data": "≥57 anúncios (39 cards), mais antigo 267 dias; Meta ~250",
+   "url": "https://stelohealth.com/pages/listiclev1",
+   "reason": "Mesma categoria de ProstaGenix; alegações de PSA/DHT de alto risco."
+  },
+  {
+   "brand": "OMNI Creatine",
+   "product": "creatina",
+   "data": "≥76 anúncios (50 cards), 48 com 30+ dias, mais antigo 225 dias",
+   "url": "https://www.omnicreatine.com/",
+   "reason": "Mesma categoria de Crave; menor longevidade."
+  },
+  {
+   "brand": "Everyday Dose",
+   "product": "café de cogumelos",
+   "data": "≥113 anúncios (50 cards) mas só 14 com 30+ dias, mais antigo 69 dias; Google ~600",
+   "url": "https://www.everydaydose.com/products/30-servings-of-mushroom-coffee-standard",
+   "reason": "Bebida funcional (fronteira entre alimento e suplemento); atividade concentrada no Black Friday."
+  },
+  {
+   "brand": "The Standard Lab",
+   "product": "NAC 600 + NAD Daily Complex (fígado/barriga)",
+   "data": "≥68 anúncios (33 cards), mais antigo 61 dias; Google ~200",
+   "url": "https://thestandardlab.com/products/nac600-nad-daily-complex",
+   "reason": "Média, recente."
+  },
+  {
+   "brand": "Uromend",
+   "product": "fórmula próstata/bexiga 6-em-1",
+   "data": "≥65 anúncios (58 cards), 45 com <30 dias, mais antigo 67 dias; Google 81",
+   "url": "https://uromend.com/pages/v3",
+   "reason": "Entrada recente; terceira oferta de próstata."
+  },
+  {
+   "brand": "Bloomin",
+   "product": "gomas femininas (hormônios/libido)",
+   "data": "≥38 anúncios (13 cards), mais antigo 157 dias",
+   "url": "https://trybloomin.com/products/bloomin-gummies",
+   "reason": "Volume baixo na amostra; aparece em muitas buscas femininas — monitorar."
+  },
+  {
+   "brand": "Reliva",
+   "product": "zumbido (advertorial)",
+   "data": "45 cards, 0 com 30+ dias, mais antigo 20 dias",
+   "url": "https://try.helloreliva.com/us-tinnitus/adv1",
+   "reason": "em_observacao, possível emergente; produto não confirmado como suplemento."
+  },
+  {
+   "brand": "Metabolae",
+   "product": "canela-do-ceilão (glicemia/neuropatia)",
+   "data": "≥892 anúncios, mais antigo 124 dias",
+   "url": "https://metabolae.com/",
+   "reason": "Já documentada na base anterior (knowledge/referencias/canela-ceilao-2026-11-17). Excluída por deduplicação."
+  }
+ ],
+ "out_of_scope": [
+  {
+   "brand": "Dova",
+   "product": "dispositivo para zumbido (compressão cervical C1–C2)",
+   "category": "dispositivo",
+   "url": "https://dovaonline.store/products/struggling-with-constant-ringing-even-though-your-hearing-test-came-back-normal",
+   "reason": "não é suplemento (\"This revolutionary device\")"
+  },
+  {
+   "brand": "Hey Erth / nama / BATCH",
+   "product": "gomas com THC/CBD/CBN para sono",
+   "category": "canabinoides",
+   "url": "https://erthwellness.com/products/sleep-gummies-cbn-thc-live-resin-750mg",
+   "reason": "canabinoides, regime regulatório distinto"
+  },
+  {
+   "brand": "Nutrafol / Keeps / hims",
+   "product": "cabelo (inclui medicamentos)",
+   "category": "marcas grandes/medicamento",
+   "url": null,
+   "reason": "medicamentos ou marcas de varejo consolidadas; não investigado"
+  },
+  {
+   "brand": "Canine Drops, Chewy, Paw Balance",
+   "product": "pet",
+   "category": "pet",
+   "url": null,
+   "reason": "público animal"
+  }
+ ],
+ "excluded_for_dedup": [
+  "Arthrogenix",
+  "VitalHydra",
+  "The Nova Bottle (inclui Her Again)",
+  "Haka Life",
+  "Ilyra",
+  "BioRoot Labs",
+  "GoodGrove",
+  "Plants Basically",
+  "Regensil",
+  "Collanol",
+  "Halsten",
+  "Morning Vitality/OsteoShield",
+  "Metabolae",
+  "Resilia",
+  "Gentilia",
+  "Lirea",
+  "Kenzendo",
+  "Black Girl Vitamins (citada na missão anterior)"
+ ],
+ "prioritization_parameters": {
+  "source": "docs/prioritization-criteria.md",
+  "min_active_ad_age_days": 30,
+  "longevity_milestones_days": [
+   60,
+   90,
+   180
+  ],
+  "high_min_active_ads_offer": 100,
+  "medium_active_ads_offer": [
+   20,
+   99
+  ],
+  "main_list_category": "suplementos",
+  "overrides_by_mission": null
+ },
+ "limitations": [
+  "Meta Ad Library sem login: depois de ~19:55 UTC a paginação parou de carregar resultados (graphql 200 sem cards). Do domínio 6 em diante, cada busca só trouxe a 1ª página (~25–30 cards). O limite não foi contornado.",
+  "Por isso todas as contagens são pisos (união de IDs únicos vistos em todas as buscas) e count_is_estimate=true. Rolagem ampla só foi obtida para Happy V (282 cards), Nuora (288, IDs perdidos) e ProstaGenix (completa).",
+  "Faixas de idade contam cards, não anúncios com variações. A ordem dos resultados da Meta não é cronológica; o \"anúncio ativo mais antigo\" vale só para a amostra.",
+  "Fora da UE, a Meta não mostra anúncios comerciais inativos: o histórico pode estar truncado.",
+  "Google Ads Transparency: contador \"Qualquer horário\" (inclui inativos), por domínio.",
+  "SPNutrition bloqueia ferramentas de navegador automatizado; os dados vieram de web-fetch parcial.",
+  "curl para os endpoints Shopify foi negado pelo controle de permissões; não foi usado.",
+  "TikTok Creative Center, transcrição e download de vídeos não foram usados."
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "lirae",
+ "meta": [
+  [
+   "getlirae.com",
+   "~380 resultados",
+   "2026-11-17T21:08:30Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=getlirae.com&search_type=keyword_exact_phrase"
+  ],
+  [
+   "Liraé",
+   "~450 resultados",
+   "2026-11-17T21:22:34Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Lira%C3%A9&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 33,
+ "ads": 33,
+ "by_age": {
+  "lt30": 3,
+  "30_59": 1,
+  "60_89": 1,
+  "90_179": 5,
+  "180_plus": 23
+ },
+ "n30": 30,
+ "oldest": [
+  "775665505364183",
+  "4 de set de 2025",
+  439
+ ],
+ "video_cards": 3,
+ "pages": [
+  [
+   "Liraé",
+   30
+  ],
+  [
+   "Honest Health Reviews",
+   3
+  ]
+ ],
+ "uniq": 9
+}

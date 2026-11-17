@@ -1,0 +1,98 @@
+{
+ "offer": {
+  "cards": 26,
+  "ads_incl_variants": 70,
+  "by_age_cards": {
+   "30_59": 11,
+   "60_89": 5,
+   "lt30": 9,
+   "90_179": 1
+  },
+  "n30plus_cards": 17,
+  "oldest": [
+   "1080908241268622",
+   "2026-08-02",
+   107
+  ],
+  "unique_text_creatives": 9,
+  "pages_ads": [
+   [
+    "Akka Superbiotics",
+    65
+   ],
+   [
+    "Akka Superbiotics com Dr. Gina Sam",
+    4
+   ],
+   [
+    "Dr. Gina Sam",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "livercleanseprotocol.com/pages/akk-vslfb/",
+    12
+   ],
+   [
+    "livercleanseprotocol.com/pages/akk-pdpfb-new/",
+    12
+   ],
+   [
+    "livercleanseprotocol.com/pages/akk-tslfb/",
+    2
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "livercleanseprotocol|Akka",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 26,
+  "ads_incl_variants": 70,
+  "by_age_cards": {
+   "30_59": 11,
+   "60_89": 5,
+   "lt30": 9,
+   "90_179": 1
+  },
+  "n30plus_cards": 17,
+  "oldest": [
+   "1080908241268622",
+   "2026-08-02",
+   107
+  ],
+  "unique_text_creatives": 9,
+  "pages_ads": [
+   [
+    "Akka Superbiotics",
+    65
+   ],
+   [
+    "Akka Superbiotics com Dr. Gina Sam",
+    4
+   ],
+   [
+    "Dr. Gina Sam",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "livercleanseprotocol.com/pages/akk-vslfb/",
+    12
+   ],
+   [
+    "livercleanseprotocol.com/pages/akk-pdpfb-new/",
+    12
+   ],
+   [
+    "livercleanseprotocol.com/pages/akk-tslfb/",
+    2
+   ]
+  ]
+ }
+}

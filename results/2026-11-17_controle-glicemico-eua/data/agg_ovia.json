@@ -1,0 +1,56 @@
+{
+ "name": "ovia",
+ "meta": [
+  [
+   "Ovia",
+   "~1.800 resultados",
+   "2026-11-17T21:21:26Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Ovia&search_type=keyword_exact_phrase"
+  ],
+  [
+   "try.oviaessentials.com",
+   "~2.700 resultados",
+   "2026-11-17T21:02:44Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=try.oviaessentials.com&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 44,
+ "ads": 142,
+ "by_age": {
+  "lt30": 6,
+  "30_59": 11,
+  "60_89": 14,
+  "90_179": 9,
+  "180_plus": 4
+ },
+ "n30": 38,
+ "oldest": [
+  "2591515621251384",
+  "19 de mai de 2026",
+  182
+ ],
+ "video_cards": 30,
+ "pages": [
+  [
+   "Jenny Howe",
+   26
+  ],
+  [
+   "Ovia",
+   11
+  ],
+  [
+   "Ingrid Anderson",
+   5
+  ],
+  [
+   "Carol Whitaker",
+   1
+  ],
+  [
+   "Debbie Hartman",
+   1
+  ]
+ ],
+ "uniq": 35
+}

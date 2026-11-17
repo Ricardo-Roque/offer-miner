@@ -1,0 +1,190 @@
+{
+ "offer": {
+  "cards": 277,
+  "ads_incl_variants": 839,
+  "by_age_cards": {
+   "30_59": 215,
+   "lt30": 62
+  },
+  "n30plus_cards": 215,
+  "oldest": [
+   "1070888349269354",
+   "2026-09-26",
+   52
+  ],
+  "unique_text_creatives": 12,
+  "pages_ads": [
+   [
+    "Happy V",
+    634
+   ],
+   [
+    "Mik Zazon",
+    42
+   ],
+   [
+    "Daniella Levy",
+    30
+   ],
+   [
+    "thyriifrazier",
+    25
+   ],
+   [
+    "obgyn.mom com Happy V",
+    25
+   ],
+   [
+    "rosiepiper_",
+    11
+   ],
+   [
+    "Brooke McGlamery",
+    9
+   ],
+   [
+    "Vibe Sl0t",
+    8
+   ],
+   [
+    "Women's Health Solutions",
+    8
+   ],
+   [
+    "Tatianafitk com Happy V",
+    7
+   ],
+   [
+    "rosiepiper_ com Happy V",
+    5
+   ],
+   [
+    "Noelle Benepe com Happy V",
+    4
+   ]
+  ],
+  "landings": [
+   [
+    "happyv.com/products/probiotics-vaginal-health-supplement",
+    103
+   ],
+   [
+    "happyv.com/products/fresh-start-kit",
+    28
+   ],
+   [
+    "happyv.com/pages/pre-pro-mega",
+    23
+   ],
+   [
+    "happyv.com/products/the-ph-balance-kit",
+    23
+   ],
+   [
+    "happyv.com/pages/pre-pro-mega-clo-cw",
+    13
+   ],
+   [
+    "happyv.com/pages/subscribe-save-stay-consistent",
+    12
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "happyv\\.com|Happy V",
+ "offer_regex": "probiotic|pre-pro|prebiotic|vaginal|pH|BV|odor",
+ "exclude": "cranberry|d-mannose|bundle",
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 284,
+  "ads_incl_variants": 851,
+  "by_age_cards": {
+   "30_59": 221,
+   "lt30": 63
+  },
+  "n30plus_cards": 221,
+  "oldest": [
+   "1070888349269354",
+   "2026-09-26",
+   52
+  ],
+  "unique_text_creatives": 14,
+  "pages_ads": [
+   [
+    "Happy V",
+    646
+   ],
+   [
+    "Mik Zazon",
+    42
+   ],
+   [
+    "Daniella Levy",
+    30
+   ],
+   [
+    "thyriifrazier",
+    25
+   ],
+   [
+    "obgyn.mom com Happy V",
+    25
+   ],
+   [
+    "rosiepiper_",
+    11
+   ],
+   [
+    "Brooke McGlamery",
+    9
+   ],
+   [
+    "Vibe Sl0t",
+    8
+   ],
+   [
+    "Women's Health Solutions",
+    8
+   ],
+   [
+    "Tatianafitk com Happy V",
+    7
+   ],
+   [
+    "rosiepiper_ com Happy V",
+    5
+   ],
+   [
+    "Noelle Benepe com Happy V",
+    4
+   ]
+  ],
+  "landings": [
+   [
+    "happyv.com/products/probiotics-vaginal-health-supplement",
+    103
+   ],
+   [
+    "happyv.com/products/fresh-start-kit",
+    28
+   ],
+   [
+    "happyv.com/pages/pre-pro-mega",
+    23
+   ],
+   [
+    "happyv.com/products/the-ph-balance-kit",
+    23
+   ],
+   [
+    "happyv.com/pages/pre-pro-mega-clo-cw",
+    13
+   ],
+   [
+    "happyv.com/pages/subscribe-save-stay-consistent",
+    12
+   ]
+  ]
+ }
+}

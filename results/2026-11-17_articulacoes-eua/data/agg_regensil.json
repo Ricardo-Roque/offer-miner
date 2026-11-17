@@ -1,0 +1,113 @@
+{
+ "offer": "regensil",
+ "sources": {
+  "d_regensil.com.json": [
+   "~93",
+   89
+  ],
+  "discovery_queries_extra_ids": 2
+ },
+ "brand_or_domain_all": {
+  "cards": 91,
+  "ads_incl_variants": 131,
+  "by_age": {
+   "90_179": 23,
+   "lt30": 59,
+   "60_89": 2,
+   "30_59": 7
+  },
+  "n30plus": 32,
+  "oldest": [
+   "1860194334649926",
+   "2026-06-01",
+   169
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 5,
+  "pages": [
+   [
+    "Regensil",
+    91
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 91,
+  "ads_incl_variants": 131,
+  "by_age": {
+   "90_179": 23,
+   "lt30": 59,
+   "60_89": 2,
+   "30_59": 7
+  },
+  "n30plus": 32,
+  "oldest": [
+   "1860194334649926",
+   "2026-06-01",
+   169
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 5,
+  "pages": [
+   [
+    "Regensil",
+    91
+   ]
+  ]
+ },
+ "excluded_or_other": 0,
+ "sample_ids": [
+  [
+   "1860194334649926",
+   "2026-06-01",
+   "Regensil"
+  ],
+  [
+   "1024130186710600",
+   "2026-06-01",
+   "Regensil"
+  ],
+  [
+   "1003665429052515",
+   "2026-06-30",
+   "Regensil"
+  ],
+  [
+   "1791550182255325",
+   "2026-06-30",
+   "Regensil"
+  ],
+  [
+   "782435418224190",
+   "2026-06-30",
+   "Regensil"
+  ],
+  [
+   "1057912800137020",
+   "2026-06-30",
+   "Regensil"
+  ]
+ ],
+ "links": [
+  [
+   "regensil.com/pages/expert-knee-pain",
+   40
+  ],
+  [
+   "regensil.com/pages/regensil-joint-care-product-1",
+   32
+  ],
+  [
+   "regensil.com/pages/regensil-offer-v2",
+   14
+  ],
+  [
+   "regensil.com/products/regensil-joint-repair",
+   3
+  ],
+  [
+   "quiz.regensil.com/",
+   2
+  ]
+ ]
+}

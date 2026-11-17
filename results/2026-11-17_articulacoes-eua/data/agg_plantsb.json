@@ -1,0 +1,131 @@
+{
+ "offer": "plantsb",
+ "sources": {
+  "d_plantsbasically.com.json": [
+   "~130",
+   126
+  ],
+  "discovery_queries_extra_ids": 23
+ },
+ "brand_or_domain_all": {
+  "cards": 149,
+  "ads_incl_variants": 156,
+  "by_age": {
+   "180_plus": 11,
+   "90_179": 30,
+   "30_59": 11,
+   "lt30": 95,
+   "60_89": 2
+  },
+  "n30plus": 54,
+  "oldest": [
+   "831960976591356",
+   "2026-04-07",
+   224
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 21,
+  "pages": [
+   [
+    "Plantsbasically",
+    118
+   ],
+   [
+    "JJ palmere com Plantsbasically",
+    15
+   ],
+   [
+    "JJ palmere",
+    10
+   ],
+   [
+    "Jessandgoodeats com Plantsbasically",
+    4
+   ],
+   [
+    "Sarah Intentionally com Plantsbasically",
+    2
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 149,
+  "ads_incl_variants": 156,
+  "by_age": {
+   "180_plus": 11,
+   "90_179": 30,
+   "30_59": 11,
+   "lt30": 95,
+   "60_89": 2
+  },
+  "n30plus": 54,
+  "oldest": [
+   "831960976591356",
+   "2026-04-07",
+   224
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 21,
+  "pages": [
+   [
+    "Plantsbasically",
+    118
+   ],
+   [
+    "JJ palmere com Plantsbasically",
+    15
+   ],
+   [
+    "JJ palmere",
+    10
+   ],
+   [
+    "Jessandgoodeats com Plantsbasically",
+    4
+   ],
+   [
+    "Sarah Intentionally com Plantsbasically",
+    2
+   ]
+  ]
+ },
+ "excluded_or_other": 0,
+ "sample_ids": [
+  [
+   "831960976591356",
+   "2026-04-07",
+   "Plantsbasically"
+  ],
+  [
+   "948932044499298",
+   "2026-04-07",
+   "JJ palmere com Plantsbasically"
+  ],
+  [
+   "1627028748633475",
+   "2026-04-09",
+   "Plantsbasically"
+  ],
+  [
+   "925511980455940",
+   "2026-04-14",
+   "Plantsbasically"
+  ],
+  [
+   "1922183991752850",
+   "2026-04-14",
+   "JJ palmere"
+  ],
+  [
+   "26546434178380989",
+   "2026-04-14",
+   "JJ palmere com Plantsbasically"
+  ]
+ ],
+ "links": [
+  [
+   "www.plantsbasically.com/products/juicy-joint",
+   135
+  ]
+ ]
+}

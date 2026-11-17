@@ -1,0 +1,68 @@
+{
+ "name": "resia",
+ "meta": [
+  [
+   "tryresia.com",
+   "~2.000 resultados",
+   "2026-11-17T21:23:38Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=tryresia.com&search_type=keyword_exact_phrase"
+  ],
+  [
+   "Resia",
+   "~1.900 resultados",
+   "2026-11-17T21:22:20Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Resia&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 30,
+ "ads": 37,
+ "by_age": {
+  "lt30": 1,
+  "30_59": 13,
+  "60_89": 7,
+  "90_179": 9,
+  "180_plus": 0
+ },
+ "n30": 29,
+ "oldest": [
+  "1220457543389037",
+  "28 de mai de 2026",
+  173
+ ],
+ "video_cards": 0,
+ "pages": [
+  [
+   "Resia",
+   18
+  ],
+  [
+   "Try Resia",
+   5
+  ],
+  [
+   "Sarah Collins",
+   2
+  ],
+  [
+   "Linda Marsh, RN",
+   1
+  ],
+  [
+   "Paul Mitchell",
+   1
+  ],
+  [
+   "Sarah Peekmill",
+   1
+  ],
+  [
+   "Melissa Burkens",
+   1
+  ],
+  [
+   "Robert Mitchell",
+   1
+  ]
+ ],
+ "uniq": 13
+}

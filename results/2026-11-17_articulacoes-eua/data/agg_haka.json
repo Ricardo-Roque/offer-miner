@@ -1,0 +1,127 @@
+{
+ "offer": "haka",
+ "sources": {
+  "d_hakalife.com.json": [
+   "~210",
+   211
+  ],
+  "discovery_queries_extra_ids": 18
+ },
+ "brand_or_domain_all": {
+  "cards": 229,
+  "ads_incl_variants": 243,
+  "by_age": {
+   "90_179": 14,
+   "60_89": 8,
+   "lt30": 172,
+   "30_59": 28,
+   "180_plus": 7
+  },
+  "n30plus": 57,
+  "oldest": [
+   "1525824885574625",
+   "2026-02-27",
+   263
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 8,
+  "pages": [
+   [
+    "Haka Life Nutrition",
+    223
+   ],
+   [
+    "Andrew Casey",
+    6
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 229,
+  "ads_incl_variants": 243,
+  "by_age": {
+   "90_179": 14,
+   "60_89": 8,
+   "lt30": 172,
+   "30_59": 28,
+   "180_plus": 7
+  },
+  "n30plus": 57,
+  "oldest": [
+   "1525824885574625",
+   "2026-02-27",
+   263
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 8,
+  "pages": [
+   [
+    "Haka Life Nutrition",
+    223
+   ],
+   [
+    "Andrew Casey",
+    6
+   ]
+  ]
+ },
+ "excluded_or_other": 0,
+ "sample_ids": [
+  [
+   "1525824885574625",
+   "2026-02-27",
+   "Andrew Casey"
+  ],
+  [
+   "1994871218098099",
+   "2026-03-12",
+   "Haka Life Nutrition"
+  ],
+  [
+   "1871610856873983",
+   "2026-03-23",
+   "Andrew Casey"
+  ],
+  [
+   "920344430848242",
+   "2026-03-23",
+   "Haka Life Nutrition"
+  ],
+  [
+   "839206765877073",
+   "2026-04-01",
+   "Andrew Casey"
+  ],
+  [
+   "1479050933803105",
+   "2026-04-01",
+   "Haka Life Nutrition"
+  ]
+ ],
+ "links": [
+  [
+   "www.hakalife.com/pages/bogobigdeal",
+   152
+  ],
+  [
+   "www.hakalife.com/pages/bogobigdeal/",
+   123
+  ],
+  [
+   "www.hakalife.com/pages/my-golfing-buddy-got-back-on-the-course",
+   19
+  ],
+  [
+   "www.hakalife.com/pages/knee-pain-supplement",
+   19
+  ],
+  [
+   "www.hakalife.com/pages/marine-eta-mussel-oil-joint-supplement",
+   10
+  ],
+  [
+   "www.hakalife.com/pages/joint-supplements-over-55-what-works",
+   10
+  ]
+ ]
+}

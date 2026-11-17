@@ -1,0 +1,198 @@
+{
+ "offer": "nova_heragain",
+ "sources": {
+  "d_hernovabottle.com.json": [
+   "~160",
+   158
+  ],
+  "d_thenovabottle.com.json": [
+   "~340",
+   285
+  ],
+  "discovery_queries_extra_ids": 11
+ },
+ "brand_or_domain_all": {
+  "cards": 454,
+  "ads_incl_variants": 559,
+  "by_age": {
+   "90_179": 5,
+   "60_89": 12,
+   "lt30": 349,
+   "30_59": 80,
+   "180_plus": 8
+  },
+  "n30plus": 105,
+  "oldest": [
+   "2313447172401074",
+   "2026-02-19",
+   271
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 59,
+  "pages": [
+   [
+    "Thriving In Menopause",
+    101
+   ],
+   [
+    "Life with Arthritis Community page",
+    80
+   ],
+   [
+    "The Nova Bottle",
+    64
+   ],
+   [
+    "Move Pain Free Daily",
+    63
+   ],
+   [
+    "Living with joint pain - Community",
+    40
+   ],
+   [
+    "Everyday Joint Health",
+    40
+   ],
+   [
+    "Life with menopause",
+    36
+   ],
+   [
+    "Sydney Sylvaine, Rheumatologist",
+    20
+   ],
+   [
+    "Nova menopause vitality",
+    3
+   ],
+   [
+    "Flourish After 40",
+    3
+   ],
+   [
+    "jellisofme com Life with menopause",
+    2
+   ],
+   [
+    "Andy Reviews Everything com Life with menopause",
+    1
+   ],
+   [
+    "Sue Pascale",
+    1
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 136,
+  "ads_incl_variants": 199,
+  "by_age": {
+   "90_179": 5,
+   "60_89": 11,
+   "lt30": 115,
+   "180_plus": 5
+  },
+  "n30plus": 21,
+  "oldest": [
+   "2313447172401074",
+   "2026-02-19",
+   271
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 35,
+  "pages": [
+   [
+    "Thriving In Menopause",
+    53
+   ],
+   [
+    "Life with menopause",
+    27
+   ],
+   [
+    "Living with joint pain - Community",
+    18
+   ],
+   [
+    "Life with Arthritis Community page",
+    17
+   ],
+   [
+    "Everyday Joint Health",
+    15
+   ],
+   [
+    "Flourish After 40",
+    3
+   ],
+   [
+    "Nova menopause vitality",
+    2
+   ],
+   [
+    "Sydney Sylvaine, Rheumatologist",
+    1
+   ]
+  ]
+ },
+ "excluded_or_other": 318,
+ "sample_ids": [
+  [
+   "2313447172401074",
+   "2026-02-19",
+   "Thriving In Menopause"
+  ],
+  [
+   "1953007248904935",
+   "2026-02-19",
+   "Flourish After 40"
+  ],
+  [
+   "1426170055548811",
+   "2026-02-19",
+   "Flourish After 40"
+  ],
+  [
+   "893170233471122",
+   "2026-02-19",
+   "Nova menopause vitality"
+  ],
+  [
+   "968789359152448",
+   "2026-02-19",
+   "Flourish After 40"
+  ],
+  [
+   "981225781367098",
+   "2026-06-01",
+   "Nova menopause vitality"
+  ]
+ ],
+ "links": [
+  [
+   "thenovabottle.com/products/menopaused",
+   61
+  ],
+  [
+   "www.hernovabottle.com/products/menopaused",
+   37
+  ],
+  [
+   "thenovabottle.com/products/her-again-1",
+   20
+  ],
+  [
+   "thenovabottle.com/pages/she-again-vs-others-landing-page",
+   5
+  ],
+  [
+   "www.hernovabottle.com/products/menopaused-coc",
+   5
+  ],
+  [
+   "www.hernovabottle.com/pages/she-again-vs-others-landing-page",
+   4
+  ]
+ ]
+}

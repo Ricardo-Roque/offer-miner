@@ -1,0 +1,145 @@
+{
+ "offer": "goodgrove",
+ "sources": {
+  "d_trygoodgrove.com.json": [
+   "~1.700",
+   277
+  ],
+  "discovery_queries_extra_ids": 2
+ },
+ "brand_or_domain_all": {
+  "cards": 279,
+  "ads_incl_variants": 295,
+  "by_age": {
+   "30_59": 105,
+   "lt30": 174
+  },
+  "n30plus": 105,
+  "oldest": [
+   "2628634814276397",
+   "2026-09-23",
+   55
+  ],
+  "newest_start": "2026-11-14",
+  "unique_text_creatives": 59,
+  "pages": [
+   [
+    "Melissa Hayes",
+    95
+   ],
+   [
+    "Summit Point Health Hub",
+    80
+   ],
+   [
+    "Renee Donnelly",
+    58
+   ],
+   [
+    "Trevor Langford",
+    23
+   ],
+   [
+    "Joint Health Club",
+    21
+   ],
+   [
+    "Claire Barnold",
+    2
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 229,
+  "ads_incl_variants": 245,
+  "by_age": {
+   "30_59": 84,
+   "lt30": 145
+  },
+  "n30plus": 84,
+  "oldest": [
+   "2628634814276397",
+   "2026-09-23",
+   55
+  ],
+  "newest_start": "2026-11-14",
+  "unique_text_creatives": 43,
+  "pages": [
+   [
+    "Summit Point Health Hub",
+    80
+   ],
+   [
+    "Melissa Hayes",
+    70
+   ],
+   [
+    "Renee Donnelly",
+    47
+   ],
+   [
+    "Joint Health Club",
+    18
+   ],
+   [
+    "Trevor Langford",
+    14
+   ]
+  ]
+ },
+ "excluded_or_other": 50,
+ "sample_ids": [
+  [
+   "2628634814276397",
+   "2026-09-23",
+   "Summit Point Health Hub"
+  ],
+  [
+   "1630551335372875",
+   "2026-09-23",
+   "Summit Point Health Hub"
+  ],
+  [
+   "4032618767041899",
+   "2026-09-23",
+   "Summit Point Health Hub"
+  ],
+  [
+   "1058614440520397",
+   "2026-09-23",
+   "Summit Point Health Hub"
+  ],
+  [
+   "4584094601865420",
+   "2026-09-23",
+   "Summit Point Health Hub"
+  ],
+  [
+   "1735037107997033",
+   "2026-09-23",
+   "Summit Point Health Hub"
+  ]
+ ],
+ "links": [
+  [
+   "trygoodgrove.com/products/tart-cherry-extract",
+   191
+  ],
+  [
+   "trygoodgrove.com/cherry",
+   90
+  ],
+  [
+   "trygoodgrove.com/tart-cherry",
+   51
+  ],
+  [
+   "trygoodgrove.com/pages/l2",
+   21
+  ],
+  [
+   "trygoodgrove.com/products/tart-cherry",
+   17
+  ]
+ ]
+}

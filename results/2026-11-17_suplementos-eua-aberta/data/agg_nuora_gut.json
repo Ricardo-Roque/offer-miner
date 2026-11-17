@@ -1,0 +1,104 @@
+{
+ "offer": {
+  "cards": 22,
+  "ads_incl_variants": 51,
+  "by_age_cards": {
+   "180_plus": 14,
+   "90_179": 8
+  },
+  "n30plus_cards": 22,
+  "oldest": [
+   "1438360120994908",
+   "2026-01-30",
+   291
+  ],
+  "unique_text_creatives": 21,
+  "pages_ads": [
+   [
+    "Alicia Darling",
+    35
+   ],
+   [
+    "Nuora",
+    16
+   ]
+  ],
+  "landings": [
+   [
+    "mynuora.com/pages/gut-capsule",
+    11
+   ],
+   [
+    "mynuora.com/pages/gut-capsule-2",
+    11
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "mynuora|Nuora|Alicia Darling|Destiny Robinson|Grace Lindsay",
+ "offer_regex": "gut-capsule|berberine|bloat|belly|gut",
+ "exclude": "feminine|odor|vaginal|intimacy|smell",
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 68,
+  "ads_incl_variants": 101,
+  "by_age_cards": {
+   "180_plus": 54,
+   "90_179": 11,
+   "lt30": 2,
+   "60_89": 1
+  },
+  "n30plus_cards": 66,
+  "oldest": [
+   "1575377126760773",
+   "2025-10-09",
+   404
+  ],
+  "unique_text_creatives": 59,
+  "pages_ads": [
+   [
+    "Alicia Darling",
+    62
+   ],
+   [
+    "Nuora",
+    31
+   ],
+   [
+    "Dr. Destiny Robinson",
+    5
+   ],
+   [
+    "Grace Lindsay",
+    3
+   ]
+  ],
+  "landings": [
+   [
+    "mynuora.com/products/feminine-balance-gummies-1",
+    25
+   ],
+   [
+    "mynuora.com/pages/gut-capsule",
+    11
+   ],
+   [
+    "mynuora.com/pages/gut-capsule-2",
+    11
+   ],
+   [
+    "mynuora.com/",
+    7
+   ],
+   [
+    "mynuora.com/products/feminine-balance-gummies-special",
+    6
+   ],
+   [
+    "mynuora.com/products/gummies",
+    3
+   ]
+  ]
+ }
+}

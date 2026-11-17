@@ -1,0 +1,120 @@
+{
+ "offer": {
+  "cards": 26,
+  "ads_incl_variants": 89,
+  "by_age_cards": {
+   "180_plus": 12,
+   "90_179": 8,
+   "30_59": 6
+  },
+  "n30plus_cards": 26,
+  "oldest": [
+   "2020770371994276",
+   "2025-07-10",
+   495
+  ],
+  "unique_text_creatives": 9,
+  "pages_ads": [
+   [
+    "Crave Creatine",
+    87
+   ],
+   [
+    "SwingSimple LLC com Crave Creatine",
+    1
+   ],
+   [
+    "the_antihero_broadcast com Crave Creatine",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "trycrave.com/products/crave-creatine-gummies",
+    17
+   ],
+   [
+    "trycrave.com/pages/process-superiority",
+    2
+   ],
+   [
+    "trycrave.com/pages/powder-to-gummies-lrx",
+    2
+   ],
+   [
+    "trycrave.com/pages/after-35",
+    2
+   ],
+   [
+    "www.instagram.com/_u/the_antihero_broadcast",
+    1
+   ],
+   [
+    "trycrave.com/pages/before-t-listicle",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "trycrave|Crave Creatine",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 26,
+  "ads_incl_variants": 89,
+  "by_age_cards": {
+   "180_plus": 12,
+   "90_179": 8,
+   "30_59": 6
+  },
+  "n30plus_cards": 26,
+  "oldest": [
+   "2020770371994276",
+   "2025-07-10",
+   495
+  ],
+  "unique_text_creatives": 9,
+  "pages_ads": [
+   [
+    "Crave Creatine",
+    87
+   ],
+   [
+    "SwingSimple LLC com Crave Creatine",
+    1
+   ],
+   [
+    "the_antihero_broadcast com Crave Creatine",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "trycrave.com/products/crave-creatine-gummies",
+    17
+   ],
+   [
+    "trycrave.com/pages/process-superiority",
+    2
+   ],
+   [
+    "trycrave.com/pages/powder-to-gummies-lrx",
+    2
+   ],
+   [
+    "trycrave.com/pages/after-35",
+    2
+   ],
+   [
+    "www.instagram.com/_u/the_antihero_broadcast",
+    1
+   ],
+   [
+    "trycrave.com/pages/before-t-listicle",
+    1
+   ]
+  ]
+ }
+}

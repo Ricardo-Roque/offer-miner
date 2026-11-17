@@ -1,0 +1,152 @@
+{
+ "offer": {
+  "cards": 42,
+  "ads_incl_variants": 72,
+  "by_age_cards": {
+   "60_89": 16,
+   "180_plus": 4,
+   "90_179": 7,
+   "lt30": 8,
+   "30_59": 7
+  },
+  "n30plus_cards": 34,
+  "oldest": [
+   "863178650084986",
+   "2026-03-06",
+   256
+  ],
+  "unique_text_creatives": 18,
+  "pages_ads": [
+   [
+    "SPNutrition",
+    32
+   ],
+   [
+    "Alice Williams",
+    15
+   ],
+   [
+    "Wellness Tips",
+    13
+   ],
+   [
+    "SP Nutrition",
+    5
+   ],
+   [
+    "Jacob Nash",
+    4
+   ],
+   [
+    "Deborah Rustad",
+    2
+   ],
+   [
+    "Wellness Tipss",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "spnutrition-us.com/products/maximum-absorption-magnesium-bisglycinate-gummies",
+    17
+   ],
+   [
+    "spnutrition-us.com/pages/advertorial-magnesium",
+    17
+   ],
+   [
+    "spnutrition-us.com/pages/magnesium-deficiency",
+    6
+   ],
+   [
+    "spnutrition-us.com/products/spnutrition-magnesium-bisglycinate-gummies-one-time",
+    1
+   ],
+   [
+    "spnutrition-us.com/pages/magnesium-deficiency-for-men",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "spnutrition|SPNutrition|SP Nutrition",
+ "offer_regex": "magnesium|sleep|cortisol",
+ "exclude": "men-listicle|testosterone",
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 62,
+  "ads_incl_variants": 109,
+  "by_age_cards": {
+   "180_plus": 5,
+   "60_89": 19,
+   "90_179": 10,
+   "30_59": 11,
+   "lt30": 17
+  },
+  "n30plus_cards": 45,
+  "oldest": [
+   "863178650084986",
+   "2026-03-06",
+   256
+  ],
+  "unique_text_creatives": 23,
+  "pages_ads": [
+   [
+    "SPNutrition",
+    32
+   ],
+   [
+    "Wellness Tips",
+    27
+   ],
+   [
+    "Alice Williams",
+    22
+   ],
+   [
+    "Jacob Nash",
+    19
+   ],
+   [
+    "SP Nutrition",
+    5
+   ],
+   [
+    "Deborah Rustad",
+    3
+   ],
+   [
+    "Wellness Tipss",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "spnutrition-us.com/pages/consumer-tested-men-listicle",
+    19
+   ],
+   [
+    "spnutrition-us.com/products/maximum-absorption-magnesium-bisglycinate-gummies",
+    17
+   ],
+   [
+    "spnutrition-us.com/pages/advertorial-magnesium",
+    17
+   ],
+   [
+    "spnutrition-us.com/pages/magnesium-deficiency",
+    6
+   ],
+   [
+    "spnutrition-us.com/products/spnutrition-magnesium-bisglycinate-gummies-one-time",
+    1
+   ],
+   [
+    "spnutrition-us.com/pages/adv1",
+    1
+   ]
+  ]
+ }
+}

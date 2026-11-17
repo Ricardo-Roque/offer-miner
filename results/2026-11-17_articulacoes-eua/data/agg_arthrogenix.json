@@ -1,0 +1,131 @@
+{
+ "offer": "arthrogenix",
+ "sources": {
+  "d_arthrogenix.org.json": [
+   "~260",
+   238
+  ],
+  "discovery_queries_extra_ids": 0
+ },
+ "brand_or_domain_all": {
+  "cards": 238,
+  "ads_incl_variants": 500,
+  "by_age": {
+   "180_plus": 2,
+   "90_179": 44,
+   "60_89": 30,
+   "30_59": 64,
+   "lt30": 98
+  },
+  "n30plus": 140,
+  "oldest": [
+   "1900180230587521",
+   "2025-11-28",
+   354
+  ],
+  "newest_start": "2026-11-16",
+  "unique_text_creatives": 14,
+  "pages": [
+   [
+    "Arthrogenix",
+    213
+   ],
+   [
+    "Samantha Newhouse",
+    14
+   ],
+   [
+    "All American Pharma",
+    11
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 236,
+  "ads_incl_variants": 496,
+  "by_age": {
+   "180_plus": 2,
+   "90_179": 44,
+   "60_89": 30,
+   "30_59": 63,
+   "lt30": 97
+  },
+  "n30plus": 139,
+  "oldest": [
+   "1900180230587521",
+   "2025-11-28",
+   354
+  ],
+  "newest_start": "2026-11-16",
+  "unique_text_creatives": 14,
+  "pages": [
+   [
+    "Arthrogenix",
+    213
+   ],
+   [
+    "Samantha Newhouse",
+    12
+   ],
+   [
+    "All American Pharma",
+    11
+   ]
+  ]
+ },
+ "excluded_or_other": 2,
+ "sample_ids": [
+  [
+   "1900180230587521",
+   "2025-11-28",
+   "All American Pharma"
+  ],
+  [
+   "878369528084990",
+   "2025-11-29",
+   "All American Pharma"
+  ],
+  [
+   "835830859320875",
+   "2026-06-11",
+   "All American Pharma"
+  ],
+  [
+   "1902255797122321",
+   "2026-07-16",
+   "Arthrogenix"
+  ],
+  [
+   "892498280073067",
+   "2026-07-18",
+   "Arthrogenix"
+  ],
+  [
+   "1417718963514958",
+   "2026-07-20",
+   "All American Pharma"
+  ]
+ ],
+ "links": [
+  [
+   "arthrogenix.org/",
+   216
+  ],
+  [
+   "arthrogenix.org/pages/special-offers",
+   12
+  ],
+  [
+   "arthrogenix.org/pages/july4thsale",
+   6
+  ],
+  [
+   "arthrogenix.org/pages/july-4th-savings",
+   1
+  ],
+  [
+   "arthrogenix.org/pages/july-4th-savings2",
+   1
+  ]
+ ]
+}

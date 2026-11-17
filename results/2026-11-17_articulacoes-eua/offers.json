@@ -1,0 +1,1886 @@
+{
+ "mission_id": "2026-11-17-articulacoes-eua",
+ "executed_at_utc": "2026-11-17T18:40Z/19:30Z (aprox.)",
+ "target_countries": [
+  "US"
+ ],
+ "problem": "saúde articular, rigidez e mobilidade",
+ "mechanisms": [
+  "descoberta livre"
+ ],
+ "languages": [
+  "en",
+  "es"
+ ],
+ "searches": "ver report.md (seção Consultas realizadas)",
+ "count_conventions": {
+  "active_ads_offer": "soma de anúncios incluindo variações ('N anúncios usam esse criativo'), deduplicado por ID da biblioteca",
+  "active_ads_offer_cards": "entradas (cards) distintas na Ad Library",
+  "active_ads_30plus_cards": "cards com 30+ dias em 2026-11-17",
+  "unique_ad_texts_proxy": "textos distintos (primeiros 120 caracteres) — proxy de criativos; não distingue mídias diferentes com mesmo texto"
+ },
+ "offers": [
+  {
+   "rank": 1,
+   "brand": "Arthrogenix",
+   "product": "Arthrogenix (fórmula '14-in-1' para articulações, cápsulas)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "ácido hialurônico em cápsula + fórmula multi-ingrediente ('3 causas': inflamação, cartilagem, fluido articular); ângulo 'você já tentou glucosamina/cúrcuma/óleo de peixe/colágeno'",
+   "commercial_claims": [
+    "Página promete 'Guaranteed Fast Acting Relief', 'pain relief 5x faster', 'no side effects' e cita endosso de 'non-profit health organization' não identificada — alegações que exigem revisão jurídica/científica.",
+    "Páginas-persona ('Samantha Newhouse', 'All American Pharma') — identidade não verificada."
+   ],
+   "offer_url": "https://arthrogenix.org/",
+   "price_observed": "1 frasco US$49,95 · 3 US$99,95 · 6 US$149,95 (preços 'regulares' riscados US$99,95/299,85/599,77)",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas",
+    "daily_dose_source": "FAQ arthrogenix.org",
+    "units_per_pack": 60,
+    "units_source": "FAQ arthrogenix.org",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 frasco",
+      "units": 60,
+      "price": 49.95,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "3 frascos",
+      "units": 180,
+      "price": 99.95,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "6 frascos",
+      "units": 360,
+      "price": 149.95,
+      "currency": "USD",
+      "total_duration_days_calculated": 180
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://arthrogenix.org/ (item de menu 'Subscribe And Save'; opção não vista no seletor)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:06:31Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22arthrogenix.org%22",
+      "method": "rolagem_completa",
+      "sample_size": 238,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~260"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=arthrogenix.org",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "0 anúncios (consulta 2026-11-17T19:12Z)"
+     }
+    ],
+    "first_seen_date": "2025-11-28",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1900180230587521",
+     "url": "https://www.facebook.com/ads/library/?id=1900180230587521",
+     "start_date": "2025-11-28",
+     "age_days": 354
+    },
+    "active_ads_by_age_days": {
+     "lt30": 97,
+     "30_59": 63,
+     "60_89": 30,
+     "90_179": 44,
+     "180_plus": 2
+    },
+    "active_ads_offer": 496,
+    "active_ads_offer_cards": 236,
+    "active_ads_30plus_cards": 139,
+    "active_ads_brand_or_domain": 500,
+    "total_shown_by_source": "~260",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 14,
+    "pages_or_advertisers": [
+     {
+      "name": "Arthrogenix",
+      "active_ads_cards": 213,
+      "landing_domain": null
+     },
+     {
+      "name": "Samantha Newhouse",
+      "active_ads_cards": 12,
+      "landing_domain": null
+     },
+     {
+      "name": "All American Pharma",
+      "active_ads_cards": 11,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_arthrogenix.csv"
+   },
+   "creative_references": [
+    "Hook dominante (210 cards): 'You've tried glucosamine. Turmeric. Fish oil. Collagen. And you've probably never felt any of them actually do anything. Here's why.' — ex. 1902255797122321 (16/07/2026)",
+    "Vídeo vertical 9:16 com personagem/ingrediente animado (papoula-da-califórnia) observado em captura — 1061062640190123, 1054541170729821",
+    "Estático 'Black Friday Pain Relief Blitz — 40% OFF' via página 'All American Pharma' — 878369528084990 (29/11/2025, ativo mais antigo do grupo)",
+    "Advertorial/ranking 'highest-rated joint supplements' via persona 'Samantha Newhouse' (vídeo 1:51) — 1740737730542243"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "alta",
+   "confidence_reason": "Contagem quase completa (238 de ~260 cards carregados); só Meta; Google sem anúncios.",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "496 anúncios ativos (236 cards) ligados a arthrogenix.org; 139 cards com 30+ dias; mais antigo 354 dias (Meta Ad Library US, 2026-11-17). Consumível de 30 dias.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://arthrogenix.org/",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22arthrogenix.org%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:06:31Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "Página promete 'Guaranteed Fast Acting Relief', 'pain relief 5x faster', 'no side effects' e cita endosso de 'non-profit health organization' não identificada — alegações que exigem revisão jurídica/científica.",
+    "Páginas-persona ('Samantha Newhouse', 'All American Pharma') — identidade não verificada."
+   ],
+   "missing_data": [
+    "Preço com assinatura",
+    "Fórmula completa (rótulo não lido)",
+    "Origem da empresa/anunciante"
+   ]
+  },
+  {
+   "rank": 2,
+   "brand": "VitalHydra",
+   "product": "VitalHydra — ácido hialurônico (HA) lipossomal em cápsulas",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "'a molécula das articulações' (ácido hialurônico) por via oral, comparada à injeção de HA no joelho (US$350–500/dose); ângulo absorção/'formas baratas não funcionam'",
+   "commercial_claims": [
+    "Comparação direta com injeção intra-articular de HA — alegação de equivalência terapêutica.",
+    "'16,000+ customers / 5,500+ active subscribers' é alegação da marca, não auditada.",
+    "Personas 'Dr.'/'PhD' não verificadas."
+   ],
+   "offer_url": "https://vitalhydra.co/pages/vitalhydraha",
+   "price_observed": "1 frasco (30 dias) US$31,96 (de US$39,95) · 2+1 (90 dias) US$63,92 · 3+2 (150 dias) US$95,88; 'Save 52% with Automatic Refills'",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas",
+    "daily_dose_source": "vitalhydra.co/pages/vitalhydraha ('Just 2 capsules with your morning coffee')",
+    "units_per_pack": null,
+    "units_source": "página indica '30 day supply' por frasco, sem nº de cápsulas",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "1 frasco",
+      "units": null,
+      "price": 31.96,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "Buy 2 Get 1",
+      "units": null,
+      "price": 63.92,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "Buy 3 Get 2",
+      "units": null,
+      "price": 95.88,
+      "currency": "USD",
+      "total_duration_days_calculated": 150
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://vitalhydra.co/pages/vitalhydraha (opção 'Save 52% with Automatic Refills')",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:07:30Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22vitalhydra.co%22",
+      "method": "amostra",
+      "sample_size": 266,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~320"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=vitalhydra.co",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "0 anúncios (consulta 2026-11-17T19:12Z)"
+     }
+    ],
+    "first_seen_date": "2026-02-13",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1851132645542207",
+     "url": "https://www.facebook.com/ads/library/?id=1851132645542207",
+     "start_date": "2026-02-13",
+     "age_days": 277
+    },
+    "active_ads_by_age_days": {
+     "lt30": 47,
+     "30_59": 57,
+     "60_89": 19,
+     "90_179": 94,
+     "180_plus": 49
+    },
+    "active_ads_offer": 288,
+    "active_ads_offer_cards": 266,
+    "active_ads_30plus_cards": 219,
+    "active_ads_brand_or_domain": 288,
+    "total_shown_by_source": "~320",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 78,
+    "pages_or_advertisers": [
+     {
+      "name": "VitalHydra",
+      "active_ads_cards": 112,
+      "landing_domain": null
+     },
+     {
+      "name": "Vital Hydra",
+      "active_ads_cards": 109,
+      "landing_domain": null
+     },
+     {
+      "name": "Linda Campbell",
+      "active_ads_cards": 24,
+      "landing_domain": null
+     },
+     {
+      "name": "Dr. Rebecca Holloway PhD - Joint & Mobility Specialist",
+      "active_ads_cards": 15,
+      "landing_domain": null
+     },
+     {
+      "name": "The Healthy Joint Times",
+      "active_ads_cards": 3,
+      "landing_domain": null
+     },
+     {
+      "name": "Rebecca Holloway",
+      "active_ads_cards": 2,
+      "landing_domain": null
+     },
+     {
+      "name": "Dr. James Carter MD - Joint & Mobility Specialist",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_vitalhydra.csv"
+   },
+   "creative_references": [
+    "Hook (46 cards): 'You've heard hyaluronic acid helps your joints. But you've probably never felt it actually do anything.' — 958607710484903 (24/04/2026)",
+    "Persona-depoimento 'Linda Campbell': 'I almost didn't write this… I thought this joint pain brand was another online scam' — 1289552846577942 (15/05/2026)",
+    "Persona-especialista 'Dr. Rebecca Holloway PhD – Joint & Mobility Specialist': comparação de soluções — 1250869726857775",
+    "Funil com quiz (try.vitalhydra.co/quiz-v2)"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "alta",
+   "confidence_reason": "266 de ~320 cards carregados; 219 com 30+ dias; só Meta.",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "288 anúncios ativos (266 cards); 219 cards com 30+ dias, 49 com 180+; mais antigo 277 dias (Meta US, 2026-11-17). Assinatura verificada.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://vitalhydra.co/pages/vitalhydraha",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22vitalhydra.co%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:07:30Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "Comparação direta com injeção intra-articular de HA — alegação de equivalência terapêutica.",
+    "'16,000+ customers / 5,500+ active subscribers' é alegação da marca, não auditada.",
+    "Personas 'Dr.'/'PhD' não verificadas."
+   ],
+   "missing_data": [
+    "Nº de cápsulas por frasco",
+    "Dose de HA por cápsula",
+    "Empresa responsável"
+   ]
+  },
+  {
+   "rank": 3,
+   "brand": "The Nova Bottle (hernovabottle.com / thenovabottle.com)",
+   "product": "Nova Curcumin + Boswellia Joint Support (cápsulas)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "'duas vias inflamatórias' — 95% curcumina + boswellia + piperina + vitamina C ('4-in-1'); ângulo 'testei todos os suplementos para artrite'",
+   "commercial_claims": [
+    "'No Joint Pain in 60 days or money back', 'fix the inflammation at the source' e reversão de tendinopatia — alegações de cura.",
+    "Página 'Sydney Sylvaine, Rheumatologist' — credencial não verificada.",
+    "Escassez ('sold out four times', '93% gone') — alegação não verificável."
+   ],
+   "offer_url": "https://www.hernovabottle.com/products/curcumin-boswellia",
+   "price_observed": "1 frasco US$34,00 (ref. US$42,50) · Buy 2 Get 1 US$68,00 · Buy 3 Get 2 US$102,00; 'Save 20% With Automatic Refills' (mensal ou trimestral)",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas pela manhã",
+    "daily_dose_source": "página de produto",
+    "units_per_pack": 60,
+    "units_source": "'Each bottle contains a 30-day supply (60 capsules)'",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 frasco",
+      "units": 60,
+      "price": 34.0,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "Buy 2 Get 1",
+      "units": 180,
+      "price": 68.0,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "Buy 3 Get 2",
+      "units": 300,
+      "price": 102.0,
+      "currency": "USD",
+      "total_duration_days_calculated": 150
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://try.thenovabottle.com/products/curcumin-boswellia (opção 'Deliver every month / every 3 months')",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:01:45Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22hernovabottle.com%22",
+      "method": "rolagem_completa",
+      "sample_size": 158,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~160"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22thenovabottle.com%22",
+      "method": "rolagem_completa",
+      "sample_size": 285,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~340"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=hernovabottle.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "28 anúncios (hernovabottle.com) + 18 (thenovabottle.com); anunciante verificado 'beyond row 15 pty ltd'"
+     }
+    ],
+    "first_seen_date": "2026-02-19",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1982637528984426",
+     "url": "https://www.facebook.com/ads/library/?id=1982637528984426",
+     "start_date": "2026-02-19",
+     "age_days": 271
+    },
+    "active_ads_by_age_days": {
+     "lt30": 225,
+     "30_59": 78,
+     "60_89": 1,
+     "90_179": 0,
+     "180_plus": 2
+    },
+    "active_ads_offer": 348,
+    "active_ads_offer_cards": 306,
+    "active_ads_30plus_cards": 81,
+    "active_ads_brand_or_domain": 559,
+    "total_shown_by_source": "~160 + ~340",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 27,
+    "pages_or_advertisers": [
+     {
+      "name": "The Nova Bottle",
+      "active_ads_cards": 63,
+      "landing_domain": null
+     },
+     {
+      "name": "Life with Arthritis Community page",
+      "active_ads_cards": 63,
+      "landing_domain": null
+     },
+     {
+      "name": "Move Pain Free Daily",
+      "active_ads_cards": 63,
+      "landing_domain": null
+     },
+     {
+      "name": "Thriving In Menopause",
+      "active_ads_cards": 46,
+      "landing_domain": null
+     },
+     {
+      "name": "Living with joint pain - Community",
+      "active_ads_cards": 21,
+      "landing_domain": null
+     },
+     {
+      "name": "Sydney Sylvaine, Rheumatologist",
+      "active_ads_cards": 19,
+      "landing_domain": null
+     },
+     {
+      "name": "Everyday Joint Health",
+      "active_ads_cards": 18,
+      "landing_domain": null
+     },
+     {
+      "name": "Life with menopause",
+      "active_ads_cards": 9,
+      "landing_domain": null
+     },
+     {
+      "name": "jellisofme com Life with menopause",
+      "active_ads_cards": 2,
+      "landing_domain": null
+     },
+     {
+      "name": "Nova menopause vitality",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "Andy Reviews Everything com Life with menopause",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [
+     {
+      "domain": "thenovabottle.com",
+      "relation": "observada (hernovabottle.com redireciona para try.thenovabottle.com; mesmas páginas anunciantes)"
+     }
+    ],
+    "ad_ids_file": "data/ads_nova_cb.csv"
+   },
+   "creative_references": [
+    "Hook dominante (146 cards): 'I spent years buying every arthritis supplement I could find because I was desperate to avoid taking ibuprofen every day…' — 4443599552521777",
+    "Estático de produto '4-IN-1 Anti-inflammatory formula' (captura)",
+    "Hook de transformação: 'I reversed my gluteal tendinopathy in 4 weeks…' (29 cards) — 927956140251681",
+    "Tom provocativo 'I don't give a f*ck if this upsets the medical community…' — 2114285166124636",
+    "Rede de 11 páginas-comunidade/persona ('Life with Arthritis Community page', 'Move Pain Free Daily', 'Sydney Sylvaine, Rheumatologist')"
+   ],
+   "status": "evidencia_de_tracao",
+   "confidence": "alta",
+   "confidence_reason": "Dois domínios observados e somados (relação observada); Meta + Google (anunciante verificado).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "348 anúncios ativos (306 cards) para Curcumin+Boswellia; 81 cards com 30+ dias; mais antigo 271 dias (Meta US, 2026-11-17). Marca/domínios somam 559 anúncios — inclui o produto de menopausa 'Menopaused/Her Again' (199 anúncios), contado à parte.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://www.hernovabottle.com/products/curcumin-boswellia",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22hernovabottle.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:01:45Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "'No Joint Pain in 60 days or money back', 'fix the inflammation at the source' e reversão de tendinopatia — alegações de cura.",
+    "Página 'Sydney Sylvaine, Rheumatologist' — credencial não verificada.",
+    "Escassez ('sold out four times', '93% gone') — alegação não verificável."
+   ],
+   "missing_data": [
+    "Origem exata (anunciante Google é empresa australiana; mercado de venda observado = EUA)"
+   ]
+  },
+  {
+   "rank": 4,
+   "brand": "Haka Life Nutrition",
+   "product": "GLX3 — óleo de mexilhão-de-lábios-verdes da Nova Zelândia (softgels)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "mexilhão-de-lábios-verdes (ETA, ~30 ácidos graxos) vs. óleo de peixe; 'só 3 ingredientes'; elegível HSA/FSA",
+   "commercial_claims": [
+    "'700,000+ bottles sold' e '150,000+ people' são alegações da marca.",
+    "Alergia a frutos do mar (mexilhão) — conferir advertências no rótulo.",
+    "Elegibilidade HSA/FSA — alegação a verificar."
+   ],
+   "offer_url": "https://www.hakalife.com/products/glx3-extra-strength-green-lipped-mussel-oil",
+   "price_observed": "30 porções US$54,99 (assinatura US$46,74) · 60 porções US$103,53 (assin. US$88,00) · 90 porções US$139,98 (assin. US$118,99); anúncios 'Buy One Get One Free'",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 softgels (dose de ataque 4/dia nas 2 primeiras semanas)",
+    "daily_dose_source": "FAQ hakalife.com",
+    "units_per_pack": 60,
+    "units_source": "'Each bottle contains 60 softgels'",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "30 servings",
+      "units": 60,
+      "price": 54.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "60 servings",
+      "units": 120,
+      "price": 103.53,
+      "currency": "USD",
+      "total_duration_days_calculated": 60
+     },
+     {
+      "label": "90 servings",
+      "units": 180,
+      "price": 139.98,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://www.hakalife.com/products/glx3-extra-strength-green-lipped-mussel-oil (Subscribe & Save 15%, a cada 1/2/3 meses)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:02:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22hakalife.com%22",
+      "method": "rolagem_completa",
+      "sample_size": 211,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~210"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=hakalife.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "27 anúncios; anunciante verificado 'Haka Life Nutrition'"
+     }
+    ],
+    "first_seen_date": "2026-02-27",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1525824885574625",
+     "url": "https://www.facebook.com/ads/library/?id=1525824885574625",
+     "start_date": "2026-02-27",
+     "age_days": 263
+    },
+    "active_ads_by_age_days": {
+     "lt30": 172,
+     "30_59": 28,
+     "60_89": 8,
+     "90_179": 14,
+     "180_plus": 7
+    },
+    "active_ads_offer": 243,
+    "active_ads_offer_cards": 229,
+    "active_ads_30plus_cards": 57,
+    "active_ads_brand_or_domain": 243,
+    "total_shown_by_source": "~210",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 8,
+    "pages_or_advertisers": [
+     {
+      "name": "Haka Life Nutrition",
+      "active_ads_cards": 223,
+      "landing_domain": null
+     },
+     {
+      "name": "Andrew Casey",
+      "active_ads_cards": 6,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_haka.csv"
+   },
+   "creative_references": [
+    "Hook dominante (177 cards): 'GLX3 Green Lipped Mussel oil has helped over 150,000+ people with joint support since 2018' + bullets + garantia 90 dias — 1385828753073784",
+    "Estático 'Buy One, Get One Free' e 'GLX3 qualifies for HSA/FSA' (capturas) — 1080236311366419, 1634656008315651",
+    "Comparativo 'Still taking fish oil? … 30 fatty acids' (17 cards, novo) — 1001969372979371",
+    "UGC em vídeo (mulher falando para câmera) — 872855722165983",
+    "Advertoriais: 'my-golfing-buddy-got-back-on-the-course', 'knee-pain-supplement'"
+   ],
+   "status": "evidencia_de_tracao",
+   "confidence": "alta",
+   "confidence_reason": "Contagem completa (~210 exibidos/211 carregados) + Google (27).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "243 anúncios ativos (229 cards); 57 com 30+ dias, 7 com 180+; mais antigo 263 dias (Meta US, 2026-11-17). Assinatura verificada.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://www.hakalife.com/products/glx3-extra-strength-green-lipped-mussel-oil",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22hakalife.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:02:35Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "'700,000+ bottles sold' e '150,000+ people' são alegações da marca.",
+    "Alergia a frutos do mar (mexilhão) — conferir advertências no rótulo.",
+    "Elegibilidade HSA/FSA — alegação a verificar."
+   ],
+   "missing_data": [
+    "Preço por kit em anúncio BOGO (página bogobigdeal não lida)"
+   ]
+  },
+  {
+   "rank": 5,
+   "brand": "Ilyra",
+   "product": "Ilyra Tart Cherry Extract (cápsulas, 3.600 mg de cereja ácida por porção)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "cereja ácida (tart cherry) extraída a frio — inflamação, gota/ácido úrico e articulações; 'testamos 34 suplementos de cereja'",
+   "commercial_claims": [
+    "Anúncios posicionam como 'alternativa ao alopurinol' e evitar 'cadeira de rodas' — alegação de substituição de medicamento (risco alto).",
+    "Persona 'Dr. James Calder, MD' não verificada."
+   ],
+   "offer_url": "https://tryilyra.com/products/tart-cherry-extract",
+   "price_observed": "1 frasco US$34,99 (ref. US$59,99) · Buy 2 Get 1 US$59,99 · Buy 3 Get 2 US$84,99",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": null,
+    "daily_dose_source": "não observada",
+    "units_per_pack": null,
+    "units_source": "não observada",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "1 frasco",
+      "units": null,
+      "price": 34.99,
+      "currency": "USD",
+      "total_duration_days_calculated": null
+     },
+     {
+      "label": "Buy 2 Get 1",
+      "units": null,
+      "price": 59.99,
+      "currency": "USD",
+      "total_duration_days_calculated": null
+     },
+     {
+      "label": "Buy 3 Get 2",
+      "units": null,
+      "price": 84.99,
+      "currency": "USD",
+      "total_duration_days_calculated": null
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://tryilyra.com/products/tart-cherry-extract (só link 'Manage Subscription' no rodapé)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:10:41Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22tryilyra.com%22",
+      "method": "amostra",
+      "sample_size": 230,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~1.400"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=tryilyra.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "0 anúncios (consulta 2026-11-17)"
+     }
+    ],
+    "first_seen_date": "2026-08-11",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "936697478688764",
+     "url": "https://www.facebook.com/ads/library/?id=936697478688764",
+     "start_date": "2026-08-11",
+     "age_days": 98
+    },
+    "active_ads_by_age_days": {
+     "lt30": 66,
+     "30_59": 86,
+     "60_89": 62,
+     "90_179": 9,
+     "180_plus": 0
+    },
+    "active_ads_offer": 284,
+    "active_ads_offer_cards": 223,
+    "active_ads_30plus_cards": 157,
+    "active_ads_brand_or_domain": 295,
+    "total_shown_by_source": "~1.400",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 18,
+    "pages_or_advertisers": [
+     {
+      "name": "Ilyra",
+      "active_ads_cards": 155,
+      "landing_domain": null
+     },
+     {
+      "name": "Essential Joint Finds",
+      "active_ads_cards": 40,
+      "landing_domain": null
+     },
+     {
+      "name": "Dr. James Calder, MD",
+      "active_ads_cards": 13,
+      "landing_domain": null
+     },
+     {
+      "name": "Denise Holloway",
+      "active_ads_cards": 12,
+      "landing_domain": null
+     },
+     {
+      "name": "Carol Rayes, RN",
+      "active_ads_cards": 3,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_ilyra.csv"
+   },
+   "creative_references": [
+    "Hook dominante (207 cards): 'You've heard tart cherry helps with inflammation. But you've probably never felt it actually do anything.' — 936697478688764 (11/08/2026)",
+    "Listicle 'We tested 34 tart cherry supplements…' via página 'Essential Joint Finds' — 3687206698093592, 1832772427760234",
+    "Persona médica 'Dr. James Calder, MD' sobre ácido úrico — 1631358488685785"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "moderada",
+   "confidence_reason": "Amostra: 230 de ~1.400 resultados carregados; números reais provavelmente maiores.",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "≥284 anúncios ativos na amostra (223 cards); 157 cards com 30+ dias; mais antigo na amostra 98 dias (Meta US, 2026-11-17). Contador da fonte: ~1.400.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://tryilyra.com/products/tart-cherry-extract",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22tryilyra.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:10:41Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "Anúncios posicionam como 'alternativa ao alopurinol' e evitar 'cadeira de rodas' — alegação de substituição de medicamento (risco alto).",
+    "Persona 'Dr. James Calder, MD' não verificada."
+   ],
+   "missing_data": [
+    "Dose diária e cápsulas por frasco",
+    "Empresa responsável",
+    "Contagem completa (rolagem parcial)"
+   ]
+  },
+  {
+   "rank": 6,
+   "brand": "BioRoot Labs",
+   "product": "Turmeric Curcumin Capsules 1.000 mg (95% curcuminoides + pimenta-preta)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "cúrcuma de alta dose com piperina ('absorção até 2000%'); mesmo SKU também anunciado para fígado e cérebro",
+   "commercial_claims": [
+    "Mesmo produto vendido com alegações para articulação, fígado e cérebro — revisar cada alegação.",
+    "Preço em USD não confirmado (geolocalização)."
+   ],
+   "offer_url": "https://biorootlabs.com/products/turmeric-curcumin-capsules-1000mg",
+   "price_observed": "Buy 1 (1 mês) · Buy 2 Get 1 (3 meses) · Buy 3 Get 2 (5 meses) — preços exibidos em GBP (£20/£40/£60) por geolocalização do navegador; preço em USD não observado",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "3 cápsulas",
+    "daily_dose_source": "página de produto ('Each daily serving (3 capsules)')",
+    "units_per_pack": null,
+    "units_source": "página indica '1 month supply' por frasco",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "Buy 1",
+      "units": null,
+      "price": null,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "Buy 2 Get 1",
+      "units": null,
+      "price": null,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "Buy 3 Get 2",
+      "units": null,
+      "price": null,
+      "currency": "USD",
+      "total_duration_days_calculated": 150
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://biorootlabs.com (link 'Manage Subscription'; opção não vista)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:09:26Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22biorootlabs.com%22",
+      "method": "amostra",
+      "sample_size": 247,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~1.300"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=biorootlabs.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "74 anúncios; anunciante verificado 'Hyperlink Digital LLC'"
+     }
+    ],
+    "first_seen_date": "2026-08-01",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "2509798346160939",
+     "url": "https://www.facebook.com/ads/library/?id=2509798346160939",
+     "start_date": "2026-08-01",
+     "age_days": 108
+    },
+    "active_ads_by_age_days": {
+     "lt30": 99,
+     "30_59": 76,
+     "60_89": 41,
+     "90_179": 10,
+     "180_plus": 0
+    },
+    "active_ads_offer": 291,
+    "active_ads_offer_cards": 226,
+    "active_ads_30plus_cards": 127,
+    "active_ads_brand_or_domain": 312,
+    "total_shown_by_source": "~1.300",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 20,
+    "pages_or_advertisers": [
+     {
+      "name": "BioRoot Labs",
+      "active_ads_cards": 119,
+      "landing_domain": null
+     },
+     {
+      "name": "Healthy Brain Community",
+      "active_ads_cards": 34,
+      "landing_domain": null
+     },
+     {
+      "name": "Liver Support Community",
+      "active_ads_cards": 32,
+      "landing_domain": null
+     },
+     {
+      "name": "The Joint Pain Journal",
+      "active_ads_cards": 15,
+      "landing_domain": null
+     },
+     {
+      "name": "Dr Ruth White",
+      "active_ads_cards": 4,
+      "landing_domain": null
+     },
+     {
+      "name": "AImagination com BioRoot Labs",
+      "active_ads_cards": 4,
+      "landing_domain": null
+     },
+     {
+      "name": "Kiser Sisters com BioRoot Labs",
+      "active_ads_cards": 4,
+      "landing_domain": null
+     },
+     {
+      "name": "Jillfluence com BioRoot Labs",
+      "active_ads_cards": 3,
+      "landing_domain": null
+     },
+     {
+      "name": "KIKI ELY com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "Mr Finntastic com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "Fearless Into My 60s com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "AVP Graphics com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "EOD Bizzle com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "abd.aixx com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "kenzievalentine1 com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "WiredCrystal com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "mikewrightinc com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "Lori Beth Jamison UGC com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     },
+     {
+      "name": "norberttiktok85 com BioRoot Labs",
+      "active_ads_cards": 1,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_bioroot_turmeric.csv"
+   },
+   "creative_references": [
+    "Hook dominante (133 cards): 'You've heard turmeric helps with inflammation. But you've probably never felt it actually do anything…' — 1077813854907729 (01/08/2026)",
+    "Vídeo 2:53 'Tired of waking up stiff and sore?' — 1473085841585751",
+    "Páginas-comunidade por ângulo: 'The Joint Pain Journal', 'Liver Support Community', 'Healthy Brain Community'; parcerias com creators (Kiser Sisters, Jillfluence…)"
+   ],
+   "status": "evidencia_de_tracao",
+   "confidence": "moderada",
+   "confidence_reason": "Amostra de 247 de ~1.300 resultados do domínio; produto multiposicionado (articulação/fígado/cérebro) — não separado por ângulo.",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "≥291 anúncios ativos na amostra para o SKU de cúrcuma (226 cards); 127 com 30+ dias; mais antigo 108 dias (Meta US, 2026-11-17). Google: 74 anúncios.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://biorootlabs.com/products/turmeric-curcumin-capsules-1000mg",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22biorootlabs.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:09:26Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "Mesmo produto vendido com alegações para articulação, fígado e cérebro — revisar cada alegação.",
+    "Preço em USD não confirmado (geolocalização)."
+   ],
+   "missing_data": [
+    "Preço em USD",
+    "Cápsulas por frasco",
+    "Contagem só do ângulo articular"
+   ]
+  },
+  {
+   "rank": 7,
+   "brand": "GoodGrove",
+   "product": "GoodGrove Cold-Pressed Tart Cherry Extract (cápsulas, 3.600 mg por porção)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "cereja ácida extraída a frio — articulações, cartilagem, ácido úrico/gota",
+   "commercial_claims": [
+    "Alegações sobre ácido úrico/gota e cartilagem.",
+    "Personas com histórias pessoais possivelmente fictícias — risco de anúncio enganoso."
+   ],
+   "offer_url": "https://trygoodgrove.com/products/tart-cherry-extract",
+   "price_observed": "1 frasco US$39,99 (ref. 59,99) · 2 US$69,99 · 3 US$89,99; refil 'US$69,99 ships every 4 weeks'",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": null,
+    "daily_dose_source": "não observada",
+    "units_per_pack": null,
+    "units_source": "não observada",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "1 frasco",
+      "units": null,
+      "price": 39.99,
+      "currency": "USD",
+      "total_duration_days_calculated": null
+     },
+     {
+      "label": "2 frascos",
+      "units": null,
+      "price": 69.99,
+      "currency": "USD",
+      "total_duration_days_calculated": null
+     },
+     {
+      "label": "3 frascos",
+      "units": null,
+      "price": 89.99,
+      "currency": "USD",
+      "total_duration_days_calculated": null
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://trygoodgrove.com/products/tart-cherry-extract ('Save More With Automatic Refills'; 'Refill Ships Every 4 Weeks')",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:04:10Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22trygoodgrove.com%22",
+      "method": "amostra",
+      "sample_size": 277,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~1.700"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=trygoodgrove.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "73 anúncios; anunciante verificado 'FLOPHEAD VENTURES LLC'"
+     }
+    ],
+    "first_seen_date": "2026-09-23",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "2628634814276397",
+     "url": "https://www.facebook.com/ads/library/?id=2628634814276397",
+     "start_date": "2026-09-23",
+     "age_days": 55
+    },
+    "active_ads_by_age_days": {
+     "lt30": 145,
+     "30_59": 84,
+     "60_89": 0,
+     "90_179": 0,
+     "180_plus": 0
+    },
+    "active_ads_offer": 245,
+    "active_ads_offer_cards": 229,
+    "active_ads_30plus_cards": 84,
+    "active_ads_brand_or_domain": 295,
+    "total_shown_by_source": "~1.700",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 43,
+    "pages_or_advertisers": [
+     {
+      "name": "Summit Point Health Hub",
+      "active_ads_cards": 80,
+      "landing_domain": null
+     },
+     {
+      "name": "Melissa Hayes",
+      "active_ads_cards": 70,
+      "landing_domain": null
+     },
+     {
+      "name": "Renee Donnelly",
+      "active_ads_cards": 47,
+      "landing_domain": null
+     },
+     {
+      "name": "Joint Health Club",
+      "active_ads_cards": 18,
+      "landing_domain": null
+     },
+     {
+      "name": "Trevor Langford",
+      "active_ads_cards": 14,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_goodgrove.csv"
+   },
+   "creative_references": [
+    "Promoção 'This almost never happens. GoodGrove is running a limited-time promotion…' (47 cards) — 27633474576329420",
+    "Direto 'Looking to Take Control of Your Joint Health Naturally?' (45 cards) — 4584094601865420",
+    "Histórias longas de personas sem relação direta com o produto (herança, 'sleep physician', gêmeos Amish) — 1662494118813951, 1419806389785832, 1562918968494259",
+    "Vídeos UGC (captura)"
+   ],
+   "status": "evidencia_de_tracao",
+   "confidence": "moderada",
+   "confidence_reason": "Amostra: 277 de ~1.700 resultados; anúncios do produto 'Tart Cherry Sleep' excluídos (50 cards).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "≥245 anúncios ativos na amostra (229 cards); 84 com 30+ dias; mais antigo na amostra 55 dias (Meta US, 2026-11-17). Google: 73.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://trygoodgrove.com/products/tart-cherry-extract",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22trygoodgrove.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:04:10Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "Alegações sobre ácido úrico/gota e cartilagem.",
+    "Personas com histórias pessoais possivelmente fictícias — risco de anúncio enganoso."
+   ],
+   "missing_data": [
+    "Dose e cápsulas por frasco",
+    "Histórico além da amostra"
+   ]
+  },
+  {
+   "rank": 8,
+   "brand": "Plants Basically (John Palmere)",
+   "product": "Juicy Joint Extract (extrato líquido, 60 porções de 1 mL)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "extrato líquido herbal (ulmária, garra-do-diabo, salgueiro-branco, cavalinha, cúrcuma, gengibre, pimenta) — ângulo hérnia de disco/ciática e articulações; fundador como rosto",
+   "commercial_claims": [
+    "Alegações de recuperação de hérnia de disco ('Herniated Discs Can Recover').",
+    "Salgueiro-branco (salicilatos) — interações/alergia a AAS a sinalizar.",
+    "'120,000+ Happy Customers' e garantia de 365 dias — alegações da marca."
+   ],
+   "offer_url": "https://www.plantsbasically.com/products/juicy-joint",
+   "price_observed": "1 frasco · 2 · 3 (economia US$18/41,99/71,99); 2 frascos assinatura US$77,99 (de US$119,98) a cada 8 semanas; '4 brindes'",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": null,
+    "daily_dose_source": "não observada (porção = 1 mL)",
+    "units_per_pack": "60 porções",
+    "units_source": "tabela nutricional na página",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "2 frascos assinatura",
+      "units": null,
+      "price": 77.99,
+      "currency": "USD",
+      "total_duration_days_calculated": null
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://www.plantsbasically.com/products/juicy-joint ('Subscribe & Save 35% — Delivers every 8 weeks')",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:03:44Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22plantsbasically.com%22",
+      "method": "rolagem_completa",
+      "sample_size": 126,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~130"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=plantsbasically.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "43 anúncios; anunciante verificado 'John Palmere'"
+     }
+    ],
+    "first_seen_date": "2026-04-07",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "831960976591356",
+     "url": "https://www.facebook.com/ads/library/?id=831960976591356",
+     "start_date": "2026-04-07",
+     "age_days": 224
+    },
+    "active_ads_by_age_days": {
+     "lt30": 95,
+     "30_59": 11,
+     "60_89": 2,
+     "90_179": 30,
+     "180_plus": 11
+    },
+    "active_ads_offer": 156,
+    "active_ads_offer_cards": 149,
+    "active_ads_30plus_cards": 54,
+    "active_ads_brand_or_domain": 156,
+    "total_shown_by_source": "~130",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 21,
+    "pages_or_advertisers": [
+     {
+      "name": "Plantsbasically",
+      "active_ads_cards": 118,
+      "landing_domain": null
+     },
+     {
+      "name": "JJ palmere com Plantsbasically",
+      "active_ads_cards": 15,
+      "landing_domain": null
+     },
+     {
+      "name": "JJ palmere",
+      "active_ads_cards": 10,
+      "landing_domain": null
+     },
+     {
+      "name": "Jessandgoodeats com Plantsbasically",
+      "active_ads_cards": 4,
+      "landing_domain": null
+     },
+     {
+      "name": "Sarah Intentionally com Plantsbasically",
+      "active_ads_cards": 2,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_plantsb.csv"
+   },
+   "creative_references": [
+    "Black Friday 'Save up to 40% + 4 FREE gifts' (59 cards) — 3071183809886473",
+    "'Herniated discs don't just cause back pain…' (19 cards, desde 22/05/2026) — 1636908654278796",
+    "Fundador 'JJ palmere': 'The worst part of disc pain isn't the pain, it's the fear' (vídeo) — 4417929761758878",
+    "Imagem de raio-X/ressonância de coluna (captura) — 1926676808289979",
+    "Creators via parceria (Jessandgoodeats, Sarah Intentionally)"
+   ],
+   "status": "evidencia_de_tracao",
+   "confidence": "alta",
+   "confidence_reason": "Contagem completa (~130 exibidos/126 carregados + 23 de buscas temáticas) + Google (43).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "156 anúncios ativos (149 cards); 54 com 30+ dias, 11 com 180+; mais antigo 224 dias (Meta US, 2026-11-17). Assinatura verificada.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://www.plantsbasically.com/products/juicy-joint",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22plantsbasically.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:03:44Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "Alegações de recuperação de hérnia de disco ('Herniated Discs Can Recover').",
+    "Salgueiro-branco (salicilatos) — interações/alergia a AAS a sinalizar.",
+    "'120,000+ Happy Customers' e garantia de 365 dias — alegações da marca."
+   ],
+   "missing_data": [
+    "Dose diária (mL/dia)",
+    "Preço de 1 frasco avulso"
+   ]
+  },
+  {
+   "rank": 9,
+   "brand": "Regensil",
+   "product": "Regensil Joint Repair (cápsulas: colágeno, silício, minerais, K2, boswellia)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "'reparo' de articulação/ossos com silício + colágeno + K2 + boswellia; ângulo 'evitar cirurgia de joelho'",
+   "commercial_claims": [
+    "Promessa implícita de regenerar cartilagem e evitar cirurgia — alto risco.",
+    "Valores 2/3 potes calculados a partir do preço por pote exibido."
+   ],
+   "offer_url": "https://regensil.com/pages/regensil-offer-v2",
+   "price_observed": "1 pote (1 mês) US$39,96 · 2 potes US$29,96/pote · 3 potes US$23,96/pote (ref. US$59,99)",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 cápsulas",
+    "daily_dose_source": "FAQ regensil.com",
+    "units_per_pack": null,
+    "units_source": "oferta nomeia '1 Month' por pote; nº de cápsulas não observado",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "1 Month",
+      "units": null,
+      "price": 39.96,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "2 Month",
+      "units": null,
+      "price": 59.92,
+      "currency": "USD",
+      "total_duration_days_calculated": 60
+     },
+     {
+      "label": "3 Month",
+      "units": null,
+      "price": 71.88,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://regensil.com (link 'Manage Auto-Refills'; opção não vista na oferta)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:06:05Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22regensil.com%22",
+      "method": "rolagem_completa",
+      "sample_size": 89,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~93"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=regensil.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "2 anúncios; anunciante 'Regensil'"
+     }
+    ],
+    "first_seen_date": "2026-06-01",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1860194334649926",
+     "url": "https://www.facebook.com/ads/library/?id=1860194334649926",
+     "start_date": "2026-06-01",
+     "age_days": 169
+    },
+    "active_ads_by_age_days": {
+     "lt30": 59,
+     "30_59": 7,
+     "60_89": 2,
+     "90_179": 23,
+     "180_plus": 0
+    },
+    "active_ads_offer": 131,
+    "active_ads_offer_cards": 91,
+    "active_ads_30plus_cards": 32,
+    "active_ads_brand_or_domain": 131,
+    "total_shown_by_source": "~93",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 5,
+    "pages_or_advertisers": [
+     {
+      "name": "Regensil",
+      "active_ads_cards": 91,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_regensil.csv"
+   },
+   "creative_references": [
+    "Depoimento 'My doctor was talking knee surgery. Three months later, I'm back to gardening…' — Linda R., 58 (80 cards) — 782435418224190",
+    "Imagem de joelho 3D com texto sobre regeneração de cartilagem (captura reduzida; confirmar texto) — 1916987423014113",
+    "Novo: 'The doctor promised the knee injection would buy me time…' (4 cards, 13/11/2026) — 2579854325774422"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "alta",
+   "confidence_reason": "Contagem completa (~93/89).",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "131 anúncios ativos (91 cards, muitos com variações); 32 com 30+ dias; mais antigo 169 dias (Meta US, 2026-11-17). Assinatura só alegada.",
+    "missing_criteria": []
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://regensil.com/pages/regensil-offer-v2",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22regensil.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:06:05Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "Promessa implícita de regenerar cartilagem e evitar cirurgia — alto risco.",
+    "Valores 2/3 potes calculados a partir do preço por pote exibido."
+   ],
+   "missing_data": [
+    "Cápsulas por pote",
+    "Assinatura na oferta"
+   ]
+  },
+  {
+   "rank": 10,
+   "brand": "Collanol",
+   "product": "Collanol — colágeno '3D' + extrato micelar de cúrcuma em cápsula dupla (DUOCAP)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en",
+    "es"
+   ],
+   "problem": "saúde articular, rigidez e mobilidade",
+   "mechanism_marketing": "'colágeno 3D' (não desnaturado) + cúrcuma micelar em cápsula-dentro-de-cápsula; '1 cápsula supera 10.000 mg de colágeno hidrolisado'",
+   "commercial_claims": [
+    "'eliminates joint pain' — alegação de cura.",
+    "Marca europeia (empresa búlgara) vendendo nos EUA via Amazon/Walmart com anúncios em EN e ES."
+   ],
+   "offer_url": "https://collanol.com/articles/en-us/facebook/tr/news/3d-collagen/three-dimensional-collagen-US-fb-tr.html",
+   "price_observed": "Amazon: 20 cápsulas US$52,95 (US$47,65 Subscribe & Save) — B0DTLMG528; também Walmart",
+   "currency": "USD (exceto quando indicado)",
+   "price_observed_at_utc": "2026-11-17",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "1 cápsula",
+    "daily_dose_source": "título do produto na Amazon ('1 Capsule/Day')",
+    "units_per_pack": 20,
+    "units_source": "Amazon B0DTLMG528 (Unit Count 20)",
+    "pack_duration_days_calculated": 20,
+    "bundles": [
+     {
+      "label": "20 cápsulas (Amazon)",
+      "units": 20,
+      "price": 52.95,
+      "currency": "USD",
+      "total_duration_days_calculated": 20
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://www.amazon.com/dp/B0DTLMG528 (Subscribe & Save da Amazon)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto — uso diário contínuo, embalagem de ~1 mês (ou menos) e kits multi-mês"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T19:08:37Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22collanol.com%22",
+      "method": "rolagem_completa",
+      "sample_size": 54,
+      "count_is_estimate": true,
+      "total_shown_by_source": "~54"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=collanol.com",
+      "method": "contador_da_fonte",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "result": "2 anúncios; anunciante verificado 'ВИТАСЛИМ ИНОВЕ ООД' (Bulgária)"
+     }
+    ],
+    "first_seen_date": "2026-01-21",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "891308733852853",
+     "url": "https://www.facebook.com/ads/library/?id=891308733852853",
+     "start_date": "2026-01-21",
+     "age_days": 300
+    },
+    "active_ads_by_age_days": {
+     "lt30": 8,
+     "30_59": 7,
+     "60_89": 0,
+     "90_179": 22,
+     "180_plus": 17
+    },
+    "active_ads_offer": 54,
+    "active_ads_offer_cards": 54,
+    "active_ads_30plus_cards": 46,
+    "active_ads_brand_or_domain": 54,
+    "total_shown_by_source": "~54",
+    "unique_creatives": null,
+    "unique_ad_texts_proxy": 54,
+    "pages_or_advertisers": [
+     {
+      "name": "Collanol - undenatured collagen + turmeric",
+      "active_ads_cards": 54,
+      "landing_domain": null
+     }
+    ],
+    "related_domains": [],
+    "ad_ids_file": "data/ads_collanol.csv"
+   },
+   "creative_references": [
+    "Vídeos curtos (0:13–0:58) de depoimento/resultado em inglês e espanhol para os EUA: 'The knee pain vanished', 'Mis rodillas no me duelen nada' — 827883826837127, 1022803120771024",
+    "Título fixo de link: 'Newly discovered 3D collagen eliminates joint pain' / 'Nuevo colágeno 3D elimina el dolor articular'",
+    "Funil: advertorial em formato de notícia (en-us e es-us) que leva a Amazon/Walmart"
+   ],
+   "status": "evidencia_de_tracao",
+   "confidence": "alta",
+   "confidence_reason": "Contagem completa (54); Amazon exibe '1K+ bought in past month' e 4,0★ (indicador público do marketplace, não auditado).",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "54 anúncios ativos (faixa 20–99); 46 com 30+ dias, 17 com 180+; mais antigo 300 dias (Meta US, 2026-11-17). Faltou volume ≥100 para alta.",
+    "missing_criteria": [
+     "active_ads_offer >= 100"
+    ]
+   },
+   "observations": [],
+   "inferences": [
+    "Prioridade ordena investigação; não mede vendas, investimento ou lucro."
+   ],
+   "evidence": [
+    {
+     "url": "https://collanol.com/articles/en-us/facebook/tr/news/3d-collagen/three-dimensional-collagen-US-fb-tr.html",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17",
+     "observation": "preço, kits, dose e garantia lidos na página",
+     "verification_status": "verified"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=keyword_exact_phrase&q=%22collanol.com%22",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T19:08:37Z",
+     "observation": "contagem e datas de início dos anúncios ativos (US)",
+     "verification_status": "verified"
+    }
+   ],
+   "compliance_notes": [
+    "'eliminates joint pain' — alegação de cura.",
+    "Marca europeia (empresa búlgara) vendendo nos EUA via Amazon/Walmart com anúncios em EN e ES."
+   ],
+   "missing_data": [
+    "Preço do kit de 60 cápsulas",
+    "Histórico de vendas além do indicador da Amazon"
+   ]
+  }
+ ],
+ "prioritization_parameters": {
+  "source": "docs/prioritization-criteria.md",
+  "min_active_ad_age_days": 30,
+  "longevity_milestones_days": [
+   60,
+   90,
+   180
+  ],
+  "high_min_active_ads_offer": 100,
+  "medium_active_ads_offer": [
+   20,
+   99
+  ],
+  "main_list_category": "suplementos",
+  "overrides_by_mission": null
+ },
+ "not_selected_candidates": [
+  {
+   "brand": "The Nova Bottle",
+   "product": "Menopaused / Her Again (dores de quadril/articulação na menopausa)",
+   "reason": "mesma marca da oferta 3; 199 anúncios (136 cards), 21 com 30+ dias, mais antigo 271 dias — registrado sem ficha para não duplicar marca",
+   "data": "data/agg_nova_heragain.json"
+  },
+  {
+   "brand": "Morning Vitality",
+   "product": "OsteoShield (densidade óssea / joelho 'bone-on-bone')",
+   "reason": "foco principal em osteoporose; 132 cards (~460 exibidos), 128 com <30 dias, mais antigo 41 dias — em_observacao, possível emergente",
+   "url": "https://health.morningvitality.com/ga/ostknbt1clv4/"
+  },
+  {
+   "brand": "Sandhus Nutrition",
+   "product": "Vitamin D3+K2 'Joint' (anúncios em espanhol para hispânicos nos EUA, venda via Amazon)",
+   "reason": "35 anúncios do ângulo articular (22 cards), 17 com 30+ dias, mais antigo 61 dias — prioridade_media, fora do top 10",
+   "url": "https://gosandhus.com/d3k2-5000-new-joint-3"
+  },
+  {
+   "brand": "Mara Labs",
+   "product": "BrocElite Plus (sulforafano)",
+   "reason": "58 anúncios, só 8 cards com 30+ dias; posicionamento multi-benefício",
+   "url": "https://mara-labs.com/pages/brocelite-plus-exclusive-offer-625"
+  },
+  {
+   "brand": "Nature Heart",
+   "product": "Cold-Pressed Tart Cherry",
+   "reason": "visto apenas como anúncio comparativo citando GoodGrove/Ilyra; não investigado",
+   "url": "https://www.trynatureheart.com/products/nature-heart-cold-pressed-tart-cherry-extract"
+  },
+  {
+   "brand": "Elavate",
+   "product": "Multi-Collagen Superblend",
+   "reason": "foco principal em pele/cabelo; articulação é secundária",
+   "url": "https://us.elavate.com/products/collagen"
+  }
+ ],
+ "out_of_scope": [
+  {
+   "brand": "Halsten",
+   "product": "Halsten Stride (aparelho de terapia de luz)",
+   "category": "dispositivo",
+   "url": "https://tryhalsten.com/pages/vsl3",
+   "reason": "não é suplemento (~620 resultados no domínio)"
+  },
+  {
+   "brand": "Noralife",
+   "product": "óleo de krill",
+   "category": "suplemento — colesterol",
+   "url": "https://secure.trynoralife.com/noralife-lis-ako-us",
+   "reason": "problema fora do escopo (colesterol)"
+  },
+  {
+   "brand": "Anaconda / Stryde / One Compress / Cuurt / Griqos",
+   "product": "joelheiras, braçadeiras, compressão",
+   "category": "dispositivo/vestuário",
+   "url": null,
+   "reason": "não suplemento"
+  },
+  {
+   "brand": "Wuffes / Dog is Human / Cosequin / Zesty Paws / Chewy",
+   "product": "suplementos articulares para cães",
+   "category": "pet",
+   "url": null,
+   "reason": "público animal; fora do foco humano da missão"
+  },
+  {
+   "brand": "Morning Vitality",
+   "product": "Magnesium Freeze",
+   "category": "tópico",
+   "url": "https://health.morningvitality.com/ga/magpdkncta/",
+   "reason": "não consumível"
+  }
+ ],
+ "limitations": [
+  "Meta Ad Library fora da UE não mostra anúncios inativos: histórico possivelmente truncado; 'primeira data observada' = anúncio ativo mais antigo.",
+  "Rolagem parcial em GoodGrove (~1.700), Ilyra (~1.400) e BioRoot (~1.300): números são piso.",
+  "Contagem por frase exata do domínio só capta anúncios cujo texto/legenda contém o domínio; anúncios com link encurtado ou sem legenda podem faltar.",
+  "Navegador do Orca geolocalizado no Brasil: preços podem variar (BioRoot exibiu GBP).",
+  "Formato de mídia identificado só por capturas pontuais e por duração de vídeo no texto; áudio não transcrito.",
+  "TikTok Creative Center não consultado.",
+  "Nenhum dado de vendas, gasto, CPA ou ROAS."
+ ]
+}

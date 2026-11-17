@@ -1,0 +1,141 @@
+{
+ "offer": "ilyra",
+ "sources": {
+  "d_tryilyra.com.json": [
+   "~1.400",
+   230
+  ],
+  "discovery_queries_extra_ids": 0
+ },
+ "brand_or_domain_all": {
+  "cards": 230,
+  "ads_incl_variants": 295,
+  "by_age": {
+   "30_59": 93,
+   "60_89": 62,
+   "90_179": 9,
+   "lt30": 66
+  },
+  "n30plus": 164,
+  "oldest": [
+   "936697478688764",
+   "2026-08-11",
+   98
+  ],
+  "newest_start": "2026-11-13",
+  "unique_text_creatives": 19,
+  "pages": [
+   [
+    "Ilyra",
+    155
+   ],
+   [
+    "Essential Joint Finds",
+    43
+   ],
+   [
+    "Dr. James Calder, MD",
+    15
+   ],
+   [
+    "Denise Holloway",
+    12
+   ],
+   [
+    "Carol Rayes, RN",
+    3
+   ],
+   [
+    "Claire Barnold",
+    2
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 223,
+  "ads_incl_variants": 284,
+  "by_age": {
+   "30_59": 86,
+   "60_89": 62,
+   "90_179": 9,
+   "lt30": 66
+  },
+  "n30plus": 157,
+  "oldest": [
+   "936697478688764",
+   "2026-08-11",
+   98
+  ],
+  "newest_start": "2026-11-13",
+  "unique_text_creatives": 18,
+  "pages": [
+   [
+    "Ilyra",
+    155
+   ],
+   [
+    "Essential Joint Finds",
+    40
+   ],
+   [
+    "Dr. James Calder, MD",
+    13
+   ],
+   [
+    "Denise Holloway",
+    12
+   ],
+   [
+    "Carol Rayes, RN",
+    3
+   ]
+  ]
+ },
+ "excluded_or_other": 7,
+ "sample_ids": [
+  [
+   "936697478688764",
+   "2026-08-11",
+   "Ilyra"
+  ],
+  [
+   "1729144024901687",
+   "2026-08-12",
+   "Ilyra"
+  ],
+  [
+   "1194662950408023",
+   "2026-08-12",
+   "Ilyra"
+  ],
+  [
+   "1723789722228951",
+   "2026-08-13",
+   "Ilyra"
+  ],
+  [
+   "1695350528905284",
+   "2026-08-14",
+   "Ilyra"
+  ],
+  [
+   "1895135498601021",
+   "2026-08-15",
+   "Ilyra"
+  ]
+ ],
+ "links": [
+  [
+   "tryilyra.com/products/tart-cherry-extract",
+   208
+  ],
+  [
+   "tryilyra.com/pages/top5",
+   10
+  ],
+  [
+   "tryilyra.com/pages/7-reasons-gout-1",
+   5
+  ]
+ ]
+}

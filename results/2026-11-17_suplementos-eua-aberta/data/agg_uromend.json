@@ -1,0 +1,88 @@
+{
+ "offer": {
+  "cards": 58,
+  "ads_incl_variants": 65,
+  "by_age_cards": {
+   "60_89": 2,
+   "30_59": 11,
+   "lt30": 45
+  },
+  "n30plus_cards": 13,
+  "oldest": [
+   "1720607085692085",
+   "2026-09-11",
+   67
+  ],
+  "unique_text_creatives": 4,
+  "pages_ads": [
+   [
+    "Uromend",
+    58
+   ],
+   [
+    "Prostatehealthreport",
+    5
+   ],
+   [
+    "My Bladder And Prostate",
+    2
+   ]
+  ],
+  "landings": [
+   [
+    "uromend.com/pages/v3",
+    53
+   ],
+   [
+    "uromend.com/pages/uromend-v3-2",
+    5
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "uromend",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 58,
+  "ads_incl_variants": 65,
+  "by_age_cards": {
+   "60_89": 2,
+   "30_59": 11,
+   "lt30": 45
+  },
+  "n30plus_cards": 13,
+  "oldest": [
+   "1720607085692085",
+   "2026-09-11",
+   67
+  ],
+  "unique_text_creatives": 4,
+  "pages_ads": [
+   [
+    "Uromend",
+    58
+   ],
+   [
+    "Prostatehealthreport",
+    5
+   ],
+   [
+    "My Bladder And Prostate",
+    2
+   ]
+  ],
+  "landings": [
+   [
+    "uromend.com/pages/v3",
+    53
+   ],
+   [
+    "uromend.com/pages/uromend-v3-2",
+    5
+   ]
+  ]
+ }
+}

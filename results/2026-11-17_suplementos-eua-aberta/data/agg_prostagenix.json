@@ -1,0 +1,72 @@
+{
+ "offer": {
+  "cards": 46,
+  "ads_incl_variants": 140,
+  "by_age_cards": {
+   "180_plus": 14,
+   "30_59": 16,
+   "lt30": 16
+  },
+  "n30plus_cards": 30,
+  "oldest": [
+   "24896050666726199",
+   "2025-10-29",
+   384
+  ],
+  "unique_text_creatives": 8,
+  "pages_ads": [
+   [
+    "ProstaGenix.com",
+    140
+   ]
+  ],
+  "landings": [
+   [
+    "www.prostagenix.com/",
+    37
+   ],
+   [
+    "www.prostagenixvip.com/",
+    9
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "prostagenix",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 46,
+  "ads_incl_variants": 140,
+  "by_age_cards": {
+   "180_plus": 14,
+   "30_59": 16,
+   "lt30": 16
+  },
+  "n30plus_cards": 30,
+  "oldest": [
+   "24896050666726199",
+   "2025-10-29",
+   384
+  ],
+  "unique_text_creatives": 8,
+  "pages_ads": [
+   [
+    "ProstaGenix.com",
+    140
+   ]
+  ],
+  "landings": [
+   [
+    "www.prostagenix.com/",
+    37
+   ],
+   [
+    "www.prostagenixvip.com/",
+    9
+   ]
+  ]
+ }
+}

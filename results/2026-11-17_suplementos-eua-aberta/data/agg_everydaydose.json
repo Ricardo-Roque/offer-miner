@@ -1,0 +1,160 @@
+{
+ "offer": {
+  "cards": 50,
+  "ads_incl_variants": 113,
+  "by_age_cards": {
+   "30_59": 11,
+   "lt30": 36,
+   "60_89": 3
+  },
+  "n30plus_cards": 14,
+  "oldest": [
+   "1606439761069265",
+   "2026-09-09",
+   69
+  ],
+  "unique_text_creatives": 8,
+  "pages_ads": [
+   [
+    "Everyday Dose",
+    96
+   ],
+   [
+    "New York Post com Everyday Dose",
+    4
+   ],
+   [
+    "My Happy Gut",
+    4
+   ],
+   [
+    "Best Holiday Coffee Deals",
+    4
+   ],
+   [
+    "Sam's Club Food Review com Everyday Dose",
+    2
+   ],
+   [
+    "The Manual com Everyday Dose",
+    1
+   ],
+   [
+    "The Daily Unwind",
+    1
+   ],
+   [
+    "Everyday Dose com itsmamacookie",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "www.everydaydose.com/products/bfcm-deal",
+    21
+   ],
+   [
+    "www.everydaydose.com/products/30-servings-of-mushroom-coffee-standard",
+    14
+   ],
+   [
+    "www.samsclub.com/ip/Everyday-Dose-Medium-Roast-Coffee/20440014745",
+    3
+   ],
+   [
+    "www.everydaydose.com/products/focus-starter-kit",
+    3
+   ],
+   [
+    "www.everydaydose.com/products/cortisol",
+    3
+   ],
+   [
+    "www.everydaydose.com/products/60-psl-bundle",
+    2
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "everydaydose|Everyday Dose",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 50,
+  "ads_incl_variants": 113,
+  "by_age_cards": {
+   "30_59": 11,
+   "lt30": 36,
+   "60_89": 3
+  },
+  "n30plus_cards": 14,
+  "oldest": [
+   "1606439761069265",
+   "2026-09-09",
+   69
+  ],
+  "unique_text_creatives": 8,
+  "pages_ads": [
+   [
+    "Everyday Dose",
+    96
+   ],
+   [
+    "New York Post com Everyday Dose",
+    4
+   ],
+   [
+    "My Happy Gut",
+    4
+   ],
+   [
+    "Best Holiday Coffee Deals",
+    4
+   ],
+   [
+    "Sam's Club Food Review com Everyday Dose",
+    2
+   ],
+   [
+    "The Manual com Everyday Dose",
+    1
+   ],
+   [
+    "The Daily Unwind",
+    1
+   ],
+   [
+    "Everyday Dose com itsmamacookie",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "www.everydaydose.com/products/bfcm-deal",
+    21
+   ],
+   [
+    "www.everydaydose.com/products/30-servings-of-mushroom-coffee-standard",
+    14
+   ],
+   [
+    "www.samsclub.com/ip/Everyday-Dose-Medium-Roast-Coffee/20440014745",
+    3
+   ],
+   [
+    "www.everydaydose.com/products/focus-starter-kit",
+    3
+   ],
+   [
+    "www.everydaydose.com/products/cortisol",
+    3
+   ],
+   [
+    "www.everydaydose.com/products/60-psl-bundle",
+    2
+   ]
+  ]
+ }
+}

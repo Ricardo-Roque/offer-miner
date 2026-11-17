@@ -1,0 +1,1791 @@
+{
+ "mission_id": "2026-11-17-controle-glicemico-eua",
+ "mission_title": "Missao 003 - Controle glicemico (EUA)",
+ "executed_at_utc": "2026-11-17T20:50Z/21:35Z",
+ "target_countries": [
+  "US"
+ ],
+ "problem": "controle glicemico e metabolismo da glicose",
+ "mechanisms": [
+  "descoberta livre"
+ ],
+ "languages": [
+  "en",
+  "es"
+ ],
+ "prioritization_parameters": {
+  "source": "docs/prioritization-criteria.md",
+  "min_active_ad_age_days": 30,
+  "longevity_milestones_days": [
+   60,
+   90,
+   180
+  ],
+  "high_min_active_ads_offer": 100,
+  "medium_active_ads_offer": [
+   20,
+   99
+  ],
+  "main_list_category": "suplementos",
+  "overrides_by_mission": null,
+  "note": "Paginacao da Meta Ad Library bloqueada (\"Rate limit exceeded\", codigo 1675004). Contagens = contador \"~N resultados\" da Meta (estimativa) + amostra da 1a pagina (ate 30 cards, ordenados por impressoes). Faixas de idade referem-se a amostra."
+ },
+ "searches": "data/queries_log.tsv",
+ "google_ads_transparency": "data/google_ads_transparency.tsv",
+ "offers": [
+  {
+   "rank": 1,
+   "brand": "Resia",
+   "product": "Ceylon Cinnamon 7200mg Equivalent with MCT Oil (softgel)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "offer_url": "https://tryresia.com/products/ceylon-cinnamon-7200mg-equivalent-with-mct-oil",
+   "subniche": "canela_ceilao_12_1_mct",
+   "problem_and_audience": "glicemia elevada / pre-diabetes / tipo 2; adultos 50+ (copy: \"adults over 50\")",
+   "commercial_claims": [
+    "Ceylon 12:1 = 7.200 mg equivalente em 1 softgel",
+    "MCT como veiculo de absorcao",
+    "Cassia x Ceylon (cumarina/figado)",
+    "\"help your cells respond to insulin\"",
+    "garantia cobre embalagens vazias"
+   ],
+   "ingredients": "Extrato de Cinnamomum verum 12:1 em oleo MCT (softgel). Rotulo completo nao observado.",
+   "price_observed": "1 un. $29.99 (de $59.99); 2+1 $54.99; 3+2 $79.99",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "1 softgel/dia",
+    "daily_dose_source": "anuncio 12/10/2026 (\"One softgel with breakfast\") e pagina (\"One softgel\")",
+    "units_per_pack": 30,
+    "units_source": "anuncio da marca: \"Real Resia comes with thirty softgels\"",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1",
+      "units": 30,
+      "price": 29.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "Buy 2 Get 1",
+      "units": 90,
+      "price": 54.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "Buy 3 Get 2",
+      "units": 150,
+      "price": 79.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 150
+     }
+    ],
+    "subscription": "alegada",
+    "subscription_evidence_url": "https://tryresia.com (link \"Manage Subscription\" no menu; opcao de assinatura nao vista no seletor)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto: dose diaria continua, embalagem de 30 dias, kits de 90-150 dias"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:23:38Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=tryresia.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~2.000"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Resia&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~1.900"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=tryresia.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "90 anúncios (dominio, todos os produtos); anunciantes verificados: OneStopMrkt LLC; 2026-11-17T21:24:22Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "historico de inativos indisponivel fora da UE",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1220457543389037",
+     "url": "https://www.facebook.com/ads/library/?id=1220457543389037",
+     "start_date_pt": "28 de mai de 2026",
+     "age_days": 173,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 1,
+     "30_59": 13,
+     "60_89": 7,
+     "90_179": 9,
+     "180_plus": 0
+    },
+    "sample_cards": 30,
+    "sample_ads_incl_variants": 37,
+    "sample_cards_30plus": 29,
+    "active_ads_offer": "~2.000 (estimativa: contador Meta do dominio; dominio de produto unico; 30/30 cards da amostra levam ao produto)",
+    "active_ads_brand_or_domain": "~2.000",
+    "total_shown_by_source": [
+     "~2.000",
+     "~1.900"
+    ],
+    "unique_creatives_sample_text": 13,
+    "pages_or_advertisers": [
+     {
+      "name": "Resia",
+      "active_ads_sample_cards": 18
+     },
+     {
+      "name": "Try Resia",
+      "active_ads_sample_cards": 5
+     },
+     {
+      "name": "Sarah Collins",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "Linda Marsh, RN",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "Paul Mitchell",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "Sarah Peekmill",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "Melissa Burkens",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "Robert Mitchell",
+      "active_ads_sample_cards": 1
+     }
+    ],
+    "sample_csv": "data/ads_resia.csv"
+   },
+   "hooks": [
+    "\"Please don't buy Resia...\" (persona educadora em diabetes)",
+    "enfermeira RN que \"recusou Metformina\"",
+    "Cassia x Ceylon em lista com X vermelho",
+    "ancoragem de preco \"Two bags is $59.98. Three bags is $54.99\"",
+    "\"A1C 5.9 -> now what?\" (grafico estatico)",
+    "garantia que reembolsa embalagens vazias"
+   ],
+   "creative_formats": [
+    "estatico com grafico de A1C",
+    "foto de caixa \"Flash sale\"",
+    "video de produto",
+    "textos longos em primeira pessoa por paginas-persona"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "moderada",
+   "confidence_reason": "biblioteca oficial acessada, mas so 1a pagina (30 cards) e contador aproximado",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "Meta (frase exata \"tryresia.com\", 2026-11-17 ~21:03Z): contador ~2.000 (estimativa); 29 de 30 cards da amostra com 30+ dias; mais antigo 173 d (28/05/2026); consumivel diario de 30 dias.",
+    "missing_criteria": []
+   },
+   "compliance_notes": [
+    "alegacoes sobre insulina, A1C e \"Metformina\" exigem revisao juridica (FTC/FDA: suplemento nao trata diabetes)",
+    "depoimentos de \"RN\"/educadora: verificar se personas sao reais"
+   ],
+   "missing_data": [
+    "contagem completa e auditada",
+    "data de primeira veiculacao (inativos ocultos)",
+    "rotulo/Supplement Facts"
+   ],
+   "evidence": [
+    {
+     "url": "https://tryresia.com/products/ceylon-cinnamon-7200mg-equivalent-with-mct-oil",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:12:18Z",
+     "observation": "precos 1/2+1/3+2, garantia 90 dias, 12:1 + MCT, \"Manage Subscription\"",
+     "verification_status": "verified_observed"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?id=1220457543389037",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T21:03:07Z",
+     "observation": "anuncio ativo desde 28/05/2026 (mais antigo na amostra)",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "brand": "Liraé (Lirae®)",
+   "product": "Ceylon Cinnamon 7200mg Equivalent with MCT Oil (softgel)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "offer_url": "https://getlirae.com/products/ceylon-cinnamon-7-200mg",
+   "subniche": "canela_ceilao_12_1_mct",
+   "problem_and_audience": "glicemia / resistencia a insulina; adultos 50+ (\"Sarah ... at 58\")",
+   "commercial_claims": [
+    "7.200 mg equivalente, 12:1, MCT",
+    "\"90 days before insulin becomes the next step\"",
+    "Cassia \"could stress your liver\""
+   ],
+   "ingredients": "Extrato de canela-do-Ceilao 12:1 + oleo MCT (softgel).",
+   "price_observed": "30 Day Supply $29.99 (de $59.99); Buy 2 Get 1 (90 Day Supply) $54.99; Buy 3 Get 2 (150 Day Supply) $79.99; Black Friday",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "1 softgel/dia",
+    "daily_dose_source": "pagina (\"One softgel per day\")",
+    "units_per_pack": null,
+    "units_source": "pagina declara \"30 Day Supply\" por frasco (unidades nao exibidas)",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "1 (30 Day Supply)",
+      "units": null,
+      "price": 29.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 30
+     },
+     {
+      "label": "Buy 2 Get 1 (90 Day Supply)",
+      "units": null,
+      "price": 54.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     },
+     {
+      "label": "Buy 3 Get 2 (150 Day Supply)",
+      "units": null,
+      "price": 79.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 150
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://getlirae.com/products/ceylon-cinnamon-7-200mg (\"Save More with Automatic Refills!\" no seletor; \"Subscription Portal\" no menu)",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:08:30Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=getlirae.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~380"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Liraé&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~450"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=getlirae.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "200 anúncios (dominio, todos os produtos); anunciantes verificados: Tanvin Joy; 2026-11-17T21:24:33Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "anuncio ativo mais antigo da amostra iniciado em 04/09/2025",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "775665505364183",
+     "url": "https://www.facebook.com/ads/library/?id=775665505364183",
+     "start_date_pt": "4 de set de 2025",
+     "age_days": 439,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 3,
+     "30_59": 1,
+     "60_89": 1,
+     "90_179": 5,
+     "180_plus": 23
+    },
+    "sample_cards": 33,
+    "sample_ads_incl_variants": 33,
+    "sample_cards_30plus": 30,
+    "active_ads_offer": "~380-450 (estimativa; dominio de produto unico)",
+    "active_ads_brand_or_domain": "~380-450",
+    "total_shown_by_source": [
+     "~380",
+     "~450"
+    ],
+    "unique_creatives_sample_text": 9,
+    "pages_or_advertisers": [
+     {
+      "name": "Liraé",
+      "active_ads_sample_cards": 30
+     },
+     {
+      "name": "Honest Health Reviews",
+      "active_ads_sample_cards": 3
+     }
+    ],
+    "sample_csv": "data/ads_lirae.csv"
+   },
+   "hooks": [
+    "\"When doctors say your numbers are getting worse... 90 days before insulin\"",
+    "Cassia falsa x Ceylon",
+    "\"Lirae was created for people who've tried everything...\" (mesmo texto de Metabolae/Resia)",
+    "\"Natural Support Before Insulin Becomes Necessary\""
+   ],
+   "creative_formats": [
+    "video com animacao 3D de vaso sanguineo (\"in twelve weeks\")",
+    "video de comida/acucar",
+    "video com calendario \"Day 10\"",
+    "advertorial terceiro (pagina \"Honest Health Reviews\" -> bloodsugar.vitalydaily.org)"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "moderada",
+   "confidence_reason": "longevidade alta observada na fonte oficial; contagem aproximada",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "Meta (\"getlirae.com\" ~380; \"Liraé\" ~450; 2026-11-17 ~21:03-21:22Z): 30 de 33 cards com 30+ dias, 23 com 180+; mais antigo 439 d (04/09/2025). Consumivel diario.",
+    "missing_criteria": []
+   },
+   "compliance_notes": [
+    "\"before insulin becomes necessary\" sugere substituir tratamento: risco alto",
+    "Nome parecido com Liréa (FR, referencia anterior): relacao nao verificada (hipotese)"
+   ],
+   "missing_data": [
+    "unidades por frasco",
+    "contagem completa"
+   ],
+   "evidence": [
+    {
+     "url": "https://getlirae.com/products/ceylon-cinnamon-7-200mg",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:12:05Z",
+     "observation": "30/90/150 Day Supply, $29.99/$54.99/$79.99, Automatic Refills, garantia 30 dias",
+     "verification_status": "verified_observed"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?id=775665505364183",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T21:03:28Z",
+     "observation": "ativo desde 04/09/2025",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "brand": "Glucora Lab",
+   "product": "Glucora — gotas sublinguais para glicose (multi-ingrediente)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "es"
+   ],
+   "offer_url": "https://glucora-lab.com/products/glucora",
+   "subniche": "gotas_multi_ingrediente",
+   "problem_and_audience": "diabeticos tipo 2 e pre-diabeticos hispanicos nos EUA (A1C, metformina)",
+   "commercial_claims": [
+    "\"Tu azucar estara equilibrada, tus antojos desapareceran\"",
+    "berberina \"pura y concentrada\"",
+    "\"Lleva tu diabetes a remision!\"",
+    "\"su cuerpo aprendio a regularse solo\" apos 6 meses",
+    "pode usar com Metformina/Mounjaro"
+   ],
+   "ingredients": "Pagina lista 7: berberina, canela de Ceilao, glucomanano, melao-de-sao-caetano (bitter melon), Gymnema sylvestre, picolinato de cromo, curcuma. Anuncios e outra secao citam \"10 ingredientes\" (inconsistencia observada).",
+   "price_observed": "Compra 1 $39.95 (de $59.90); 1+1 \"Tratamiento 2 meses\" (valor exibido ambiguo: $39.95 / $119.80); 2+3 \"5 meses\" $76.95 (de $299.50); 3+5 $109.95 (de $479.20)",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 mL/dia (~2 conta-gotas)",
+    "daily_dose_source": "pagina",
+    "units_per_pack": null,
+    "units_source": "volume do frasco nao observado; pagina associa 2 frascos a \"Tratamiento 2 meses\"",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "Compra 1 Recibe 1",
+      "units": 2,
+      "price": null,
+      "currency": "USD",
+      "total_duration_days_calculated": null,
+      "note": "pagina: 2 meses"
+     },
+     {
+      "label": "Compra 2 Recibe 3",
+      "units": 5,
+      "price": 76.95,
+      "currency": "USD",
+      "note": "pagina: 5 meses"
+     },
+     {
+      "label": "Compra 3 Recibe 5",
+      "units": 8,
+      "price": 109.95,
+      "currency": "USD"
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://glucora-lab.com/products/glucora (\"Suscribete y Ahorra 15% - Enviado mensualmente\")",
+    "repurchase_discount": "15% (assinatura)",
+    "repurchase_potential_inference": "alto: uso diario; pagina recomenda tratamento de 6 meses"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:00:35Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=glucora-lab.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~140"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Glucora&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~150"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=glucora-lab.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "16 anúncios (dominio, todos os produtos); anunciantes verificados: DOMINUS ECOM LLC; 2026-11-17T21:24:55Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "mais antigo da amostra 11/03/2026",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "3149105422144141",
+     "url": "https://www.facebook.com/ads/library/?id=3149105422144141",
+     "start_date_pt": "11 de mar de 2026",
+     "age_days": 251,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 1,
+     "30_59": 2,
+     "60_89": 6,
+     "90_179": 18,
+     "180_plus": 1
+    },
+    "sample_cards": 28,
+    "sample_ads_incl_variants": 31,
+    "sample_cards_30plus": 27,
+    "active_ads_offer": "~140-150 (estimativa; dominio de produto unico)",
+    "active_ads_brand_or_domain": "~140-150",
+    "total_shown_by_source": [
+     "~140",
+     "~150"
+    ],
+    "unique_creatives_sample_text": 2,
+    "pages_or_advertisers": [
+     {
+      "name": "Glucora Lab",
+      "active_ads_sample_cards": 13
+     },
+     {
+      "name": "Comunidad Control Diabetes",
+      "active_ads_sample_cards": 10
+     },
+     {
+      "name": "Adriana Medina",
+      "active_ads_sample_cards": 5
+     }
+    ],
+    "sample_csv": "data/ads_glucora.csv"
+   },
+   "hooks": [
+    "\"Asi es como yo tomaria berberina si mi azucar estuviera alta\" (ex-enfermeira de UTI)",
+    "\"Como tomar berberina - por investigadora de cancer\" (video jaleco)",
+    "glicosimetro antes/depois 341 -> 97 \"Miles ya bajaron su azucar\"",
+    "CTA \"Si tomas metformina mira esto\""
+   ],
+   "creative_formats": [
+    "video UGC com jaleco",
+    "estatico antes/depois de glicosimetro",
+    "video de frasco",
+    "listicle (glucora-listicle) e advertorial (adv1)"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "moderada",
+   "confidence_reason": "so 2 textos unicos na amostra; contador pequeno porem estavel em 2 consultas",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": false,
+    "justification": "Meta (\"glucora-lab.com\" ~140, \"Glucora\" ~150; 2026-11-17 ~21:00Z): 27 de 28 cards com 30+ dias; mais antigo 251 d (11/03/2026); consumivel diario com assinatura. Volume no limiar (estimativa).",
+    "missing_criteria": [
+     "contagem >=100 depende de contador aproximado"
+    ]
+   },
+   "compliance_notes": [
+    "\"remision\" de diabetes e afirmacao de tratamento: proibida para suplemento",
+    "orientacao de uso junto com metformina/Mounjaro e aviso de hipoglicemia: risco sanitario",
+    "mesma copy usada pela True Nutra (EN) e por esencialluz.es: possivel operador comum (hipotese)"
+   ],
+   "missing_data": [
+    "volume do frasco",
+    "preco exato do 1+1"
+   ],
+   "evidence": [
+    {
+     "url": "https://glucora-lab.com/products/glucora",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:12:31Z",
+     "observation": "ingredientes, dose 2 mL, kits, assinatura 15%, garantia 90 dias",
+     "verification_status": "verified_observed"
+    },
+    {
+     "url": "https://www.facebook.com/ads/library/?id=3149105422144141",
+     "source_type": "meta_ad_library",
+     "checked_at_utc": "2026-11-17T21:00:35Z",
+     "observation": "ativo desde 11/03/2026",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "brand": "PureCeylon",
+   "product": "Controla tu Azucar — Canela de Ceilan concentrada 12:1 con aceite MCT (softgel)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "es"
+   ],
+   "offer_url": "https://pureceylon.co/products/controla-tu-azucar-canela-de-ceilan-concentrada-12-1-con-aceite-mct",
+   "subniche": "canela_ceilao_12_1_mct",
+   "problem_and_audience": "azucar alta; publico hispanico dos EUA (paginas \"Bienestar Latino USA\")",
+   "commercial_claims": [
+    "7.200 mg equivalente, 12:1, MCT",
+    "\"Este producto se agoto 12 veces el ano pasado\"",
+    "\"Menos del 1% ... garantia\""
+   ],
+   "ingredients": "Cinnamomum verum 12:1 + oleo MCT (softgel).",
+   "price_observed": "Compra 1 $29.99 (de $39.99); 2+1 $59.98; 3+2 $81.00; brindes",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "1 softgel/dia",
+    "daily_dose_source": "pagina",
+    "units_per_pack": null,
+    "units_source": "nao observado",
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "1",
+      "price": 29.99,
+      "currency": "USD"
+     },
+     {
+      "label": "2+1",
+      "price": 59.98,
+      "currency": "USD"
+     },
+     {
+      "label": "3+2",
+      "price": 81.0,
+      "currency": "USD"
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "pagina: \"Ahorra con Envio Automatico\" / \"Recarga cada 30 dias | Cancela cuando quieras\"",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto (recarga mensal sugere frasco de 30 dias — inferencia)"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:04:32Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=pureceylon.co&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~240"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=PureCeylon&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~240"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=pureceylon.co",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "0 anúncio (dominio, todos os produtos); anunciantes verificados: nenhum; 2026-11-17T21:24:44Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "nenhum card da oferta com mais de 54 d na amostra; atividade recente concentrada em set-nov/2026",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "28678321155130877",
+     "url": "https://www.facebook.com/ads/library/?id=28678321155130877",
+     "start_date_pt": "24 de set de 2026",
+     "age_days": 54,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 16,
+     "30_59": 14,
+     "60_89": 0,
+     "90_179": 0,
+     "180_plus": 0
+    },
+    "sample_cards": 30,
+    "sample_ads_incl_variants": 34,
+    "sample_cards_30plus": 14,
+    "active_ads_offer": "~240 (estimativa; dominio de produto unico)",
+    "active_ads_brand_or_domain": "~240",
+    "total_shown_by_source": [
+     "~240",
+     "~240"
+    ],
+    "unique_creatives_sample_text": 26,
+    "pages_or_advertisers": [
+     {
+      "name": "Bienestar Latino USA",
+      "active_ads_sample_cards": 14
+     },
+     {
+      "name": "PureCeylon",
+      "active_ads_sample_cards": 6
+     },
+     {
+      "name": "Dr. Rafael Osorio",
+      "active_ads_sample_cards": 5
+     },
+     {
+      "name": "Yesenia Rodríguez ,RN",
+      "active_ads_sample_cards": 5
+     }
+    ],
+    "sample_csv": "data/ads_pureceylon.csv"
+   },
+   "hooks": [
+    "\"Pase 27 anos como cirujano de trasplante hepatico\" (persona Dr. Rafael Osorio, imagem de ultrassom)",
+    "\"No es un ayuno de 72 horas / no es dejar carbohidratos... Es UNA capsula con el desayuno\"",
+    "\"Cuantas veces te han dicho que dejes el arroz?\"",
+    "enfermeira persona \"Yesenia Rodriguez, RN\""
+   ],
+   "creative_formats": [
+    "imagem de ultrassom hepatico",
+    "video talking-head UGC",
+    "video de mao com produto"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "moderada",
+   "confidence_reason": "contagem aproximada; atividade relativamente recente",
+   "priority": {
+    "level": "prioridade_alta",
+    "emergente": true,
+    "justification": "Meta (\"pureceylon.co\" ~240; 2026-11-17 21:04Z/21:22Z): 14 de 30 cards com 30+ dias, mais antigo 54 d (24/09/2026); 16 cards < 30 d (entrada recente forte em espanhol). Consumivel diario.",
+    "missing_criteria": []
+   },
+   "compliance_notes": [
+    "mesmo template de pagina da Nervora (R-ALA): operador comum provavel (hipotese)",
+    "Google Ads Transparency: 0 anuncios"
+   ],
+   "missing_data": [
+    "unidades por frasco",
+    "historico antes de set/2026"
+   ],
+   "evidence": [
+    {
+     "url": "https://pureceylon.co/products/controla-tu-azucar-canela-de-ceilan-concentrada-12-1-con-aceite-mct",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:12:44Z",
+     "observation": "precos, envio automatico, garantia 90 dias",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "brand": "GLOV (GLOV Beauty)",
+   "product": "GLOV Berberine Complex — Cellular Energy & Metabolism Support",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "offer_url": "https://glovbeauty.com/products/berberine-complex-cellular-energy-metabolism-support",
+   "subniche": "berberina_glp1_natural",
+   "problem_and_audience": "mulheres 40+: desejo por acucar, barriga, energia, glicemia (\"Metabolism After 40\")",
+   "commercial_claims": [
+    "\"6 (ou 7) clinically studied ingredients supporting healthy blood sugar, metabolic function, and craving control\"",
+    "\"Absorption Is The Whole Game\"",
+    "\"Buy 2, Get 1 FREE. 60-Day Money-Back. 9,042+ women trust it\""
+   ],
+   "ingredients": "Berberina + cofatores (anuncio: \"high-potency berberine formula combined with key metabolic cofactors\"); advertorial menciona pareamento com silimarina. Rotulo nao observado.",
+   "price_observed": null,
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": null,
+    "daily_dose_source": "nao observado (pagina bloqueada: \"Access Denied\")",
+    "units_per_pack": null,
+    "units_source": null,
+    "pack_duration_days_calculated": null,
+    "bundles": [
+     {
+      "label": "Buy 2 Get 1 (anuncio)",
+      "price": null
+     }
+    ],
+    "subscription": "nao_observada",
+    "subscription_evidence_url": null,
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "provavel (capsulas de uso diario), nao verificado"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:02:01Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=GLOV Berberine&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~2.800"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=glovbeauty.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~13.000"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=glovbeauty.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "200 anúncios (dominio, todos os produtos); anunciantes verificados: GLOV BEAUTY LLC; 2026-11-17T21:25:28Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "mais antigo da amostra 13/07/2026",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1367304631942962",
+     "url": "https://www.facebook.com/ads/library/?id=1367304631942962",
+     "start_date_pt": "13 de jul de 2026",
+     "age_days": 127,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 6,
+     "30_59": 3,
+     "60_89": 2,
+     "90_179": 20,
+     "180_plus": 0
+    },
+    "sample_cards": 31,
+    "sample_ads_incl_variants": 34,
+    "sample_cards_30plus": 25,
+    "active_ads_offer": "~2.800 (estimativa; consulta por nome do produto; 31 cards da amostra levam ao produto)",
+    "active_ads_brand_or_domain": "~13.000 (dominio, varios produtos: oleo de semente de abobora, linfatico, astaxantina...)",
+    "total_shown_by_source": [
+     "~2.800",
+     "~13.000"
+    ],
+    "unique_creatives_sample_text": 14,
+    "pages_or_advertisers": [
+     {
+      "name": "Glov Beauty",
+      "active_ads_sample_cards": 19
+     },
+     {
+      "name": "Metabolism After 40",
+      "active_ads_sample_cards": 6
+     },
+     {
+      "name": "Dr Jennifer Miller",
+      "active_ads_sample_cards": 3
+     },
+     {
+      "name": "Her Wellness Daily",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "Dr Sheryl Williams",
+      "active_ads_sample_cards": 1
+     }
+    ],
+    "sample_csv": "data/ads_glov_berberine.csv"
+   },
+   "hooks": [
+    "\"You don't have 8 separate problems. You have one.\" (inchaco, barriga, nevoa, desejo, 3AM)",
+    "\"We hate doing this. We almost never discount...\"",
+    "advertorial comparativo \"Stop getting scammed by berberine supplements\" (herwellnessdaily.com)",
+    "\"Absorption Is The Whole Game\""
+   ],
+   "creative_formats": [
+    "infografico \"Crush cravings\" com icones de sintomas",
+    "video de produto na mao",
+    "advertorial ranking \"top 5 berberine\"",
+    "paginas-persona \"Dr Jennifer Miller\", \"Dr Sheryl Williams\", \"Metabolism After 40\""
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "baixa",
+   "confidence_reason": "pagina de venda inacessivel desta regiao; preco e dose nao verificados",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta (\"GLOV Berberine\" ~2.800, 2026-11-17 21:20Z): 25 de 31 cards com 30+ dias, mais antigo 127 d. Cai para media porque recorrencia (dose, unidades, assinatura) nao foi verificada: pagina retornou \"Access Denied\".",
+    "missing_criteria": [
+     "consumivel_recorrente nao verificado na pagina"
+    ]
+   },
+   "compliance_notes": [
+    "\"Ozempic/GLP-1\" e controle de desejo: alegacoes de peso exigem revisao"
+   ],
+   "missing_data": [
+    "preco",
+    "dose",
+    "unidades",
+    "assinatura"
+   ],
+   "evidence": [
+    {
+     "url": "https://glovbeauty.com/products/berberine-complex-cellular-energy-metabolism-support",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:13:31Z",
+     "observation": "\"Access Denied ... not available in your region\"",
+     "verification_status": "unverified"
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "brand": "Sandhu's Nutrition (Sandhu Products Inc)",
+   "product": "Sangluco Berberine Complex (berberina, canela-do-Ceilao, cromo, curcuma, vinagre de maca, melao-de-sao-caetano) — 60 capsulas",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en",
+    "es"
+   ],
+   "offer_url": "https://www.amazon.com/dp/B0FXNQY3H3",
+   "subniche": "berberina_glp1_natural",
+   "problem_and_audience": "quem nao tem acesso a GLP-1 (\"priced out of GLP-1 drugs\"); publico EN e ES",
+   "commercial_claims": [
+    "\"nature's Ozempic\"",
+    "\"90% reported reduced sugar cravings\" (pesquisa propria)",
+    "\"Under $1 a day\"",
+    "\"No prescription. No injection.\""
+   ],
+   "ingredients": "Berberina HCl, canela-do-Ceilao, cromo, melao-de-sao-caetano, curcuma, vinagre de maca (anuncio e titulo Amazon).",
+   "price_observed": "Amazon $29.99 (List $31.99), Subscribe & Save a partir de $26.99/$25.49 com cupom 20%",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 capsulas/dia",
+    "daily_dose_source": "anuncio (\"Two capsules a day\")",
+    "units_per_pack": 60,
+    "units_source": "titulo Amazon e anuncio",
+    "pack_duration_days_calculated": 30,
+    "bundles": [],
+    "subscription": "verificada",
+    "subscription_evidence_url": "https://www.amazon.com/dp/B0FXNQY3H3 (Subscribe & Save, entrega a cada 1-6 meses)",
+    "repurchase_discount": "10-15% S&S + cupom 20%",
+    "repurchase_potential_inference": "alto"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:08:58Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Sangluco&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~49"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "mais antigo da amostra 20/05/2026",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1224737289606428",
+     "url": "https://www.facebook.com/ads/library/?id=1224737289606428",
+     "start_date_pt": "20 de mai de 2026",
+     "age_days": 181,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 21,
+     "30_59": 0,
+     "60_89": 8,
+     "90_179": 0,
+     "180_plus": 1
+    },
+    "sample_cards": 30,
+    "sample_ads_incl_variants": 30,
+    "sample_cards_30plus": 9,
+    "active_ads_offer": "~49 (estimativa)",
+    "active_ads_brand_or_domain": "marca Sandhu tambem anuncia produtos articulares (missao 002)",
+    "total_shown_by_source": [
+     "~49"
+    ],
+    "unique_creatives_sample_text": 25,
+    "pages_or_advertisers": [
+     {
+      "name": "Blood sugar balance community",
+      "active_ads_sample_cards": 18
+     },
+     {
+      "name": "Sandhu Products Inc",
+      "active_ads_sample_cards": 11
+     },
+     {
+      "name": "Salud desde Adentro",
+      "active_ads_sample_cards": 1
+     }
+    ],
+    "sample_csv": "data/ads_sangluco.csv"
+   },
+   "hooks": [
+    "\"For people priced out of GLP-1 drugs...\"",
+    "\"It's not a trendy superfood...\" (melao-de-sao-caetano)",
+    "ES: \"Te detox. Metformina. Canela en polvo. Pastillas de cromo sueltas. Nada funciono\""
+   ],
+   "creative_formats": [
+    "texto longo + imagem; ponte gosandhus.com/blood-N -> Amazon (botao \"BUY NOW ON AMAZON\")",
+    "pagina \"Blood sugar balance community\" e \"Salud desde Adentro\" (ES)"
+   ],
+   "status": "evidencia_de_tracao",
+   "confidence": "moderada",
+   "confidence_reason": "Amazon exibe \"3K+ bought in past month\" (indicador publico, nao auditado) alem dos anuncios",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta (\"Sangluco\" ~49, 2026-11-17 21:08Z): 9 de 30 cards com 30+ dias, mais antigo 181 d (20/05/2026); 21 cards < 30 d. Volume na faixa 20-99.",
+    "missing_criteria": [
+     ">=100 anuncios ativos"
+    ]
+   },
+   "compliance_notes": [
+    "\"nature's Ozempic\" e comparacao com GLP-1: alto risco",
+    "berberina interage com medicamentos (metformina etc.)"
+   ],
+   "missing_data": [
+    "contagem via gosandhus.com (busca exata retornou 0 cards)"
+   ],
+   "evidence": [
+    {
+     "url": "https://www.amazon.com/dp/B0FXNQY3H3",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:27:09Z",
+     "observation": "titulo, 60 capsulas, $29.99, S&S, \"3K+ bought in past month\"",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "brand": "JSHealth Vitamins",
+   "product": "Berberine+ Formula (capsulas, 2x/dia)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": "AU (pagina: \"Australian Made\")",
+   "languages_observed": [
+    "en"
+   ],
+   "offer_url": "https://us.jshealthvitamins.com/products/berberine-formula",
+   "subniche": "berberina_glp1_natural",
+   "problem_and_audience": "mulheres; metabolismo, peso, glicemia (via criadoras de conteudo)",
+   "commercial_claims": [
+    "\"Is your metabolism asking for more? Turn up the burn\"",
+    "\"63,000+ Verified Reviews\", \"Over 10 Million Bottles Sold Worldwide\" (alegacao da marca)"
+   ],
+   "ingredients": "Berberina + complementos (lista nao extraida).",
+   "price_observed": "1 Month Supply $47.50 (de $49.99); 2 Month $89.99; assinatura mensal $39.94; 3 meses $112.78 (Black Friday)",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 capsulas/dia (\"twice-daily capsule\")",
+    "daily_dose_source": "pagina",
+    "units_per_pack": null,
+    "units_source": "pagina declara \"1 Month Supply\"",
+    "pack_duration_days_calculated": 30,
+    "bundles": [
+     {
+      "label": "2 Month Supply",
+      "price": 89.99,
+      "currency": "USD",
+      "total_duration_days_calculated": 60
+     },
+     {
+      "label": "3 Months (assinatura trimestral)",
+      "price": 112.78,
+      "currency": "USD",
+      "total_duration_days_calculated": 90
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "pagina: \"Delivered every 1 month - $39.94\" / \"Delivered every 3 months\"",
+    "repurchase_discount": "ate 30% (assinatura)",
+    "repurchase_potential_inference": "alto"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:23:12Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=JSHealth Berberine&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~63"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=jshealthvitamins.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~30"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=jshealthvitamins.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "12 anúncios (dominio, todos os produtos); anunciantes verificados: JSHEALTH VITAMINS US, INC.; 2026-11-17T21:26:24Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "mais antigo da amostra 05/08/2026",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1800272194469249",
+     "url": "https://www.facebook.com/ads/library/?id=1800272194469249",
+     "start_date_pt": "5 de ago de 2026",
+     "age_days": 104,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 15,
+     "30_59": 8,
+     "60_89": 4,
+     "90_179": 2,
+     "180_plus": 0
+    },
+    "sample_cards": 29,
+    "sample_ads_incl_variants": 40,
+    "sample_cards_30plus": 14,
+    "active_ads_offer": "~63 (estimativa)",
+    "active_ads_brand_or_domain": "~30 no dominio (anuncios de criadores via parceria usam outros links)",
+    "total_shown_by_source": [
+     "~63",
+     "~30"
+    ],
+    "unique_creatives_sample_text": 20,
+    "pages_or_advertisers": [
+     {
+      "name": "Chrystelle marie com JSHealth Vitamins",
+      "active_ads_sample_cards": 3
+     },
+     {
+      "name": "Ariana Wellness Pharmacist com JSHealth Vitamins",
+      "active_ads_sample_cards": 3
+     },
+     {
+      "name": "Mama + Me Embroidery com ShopMy",
+      "active_ads_sample_cards": 3
+     },
+     {
+      "name": "Olivia B Flowers com JSHealth Vitamins",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "JSHealth Vitamins Berberine+",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "Emily Fauver com JSHealth Vitamins",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "Barefoot.mimosas com JSHealth Vitamins",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "Kate Cassidy com JSHealth Vitamins",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "JSHealth Vitamins",
+      "active_ads_sample_cards": 2
+     },
+     {
+      "name": "Krista Horton com JSHealth Vitamins",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "kelliingram com JSHealth Vitamins",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "Cristin Cooper com JSHealth Vitamins",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "spetrichhome com JSHealth Vitamins",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "Shivani Bafna com JSHealth Vitamins",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "It's Honey Done",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "h19999thomps com JSHealth Vitamins",
+      "active_ads_sample_cards": 1
+     },
+     {
+      "name": "Jade Elizabeth Roper com JSHealth Vitamins",
+      "active_ads_sample_cards": 1
+     }
+    ],
+    "sample_csv": "data/ads_jsh_berberine.csv"
+   },
+   "hooks": [
+    "anuncios de parceria com criadoras (\"Chrystelle marie com JSHealth Vitamins\", \"Ariana Wellness Pharmacist\")",
+    "\"nature's ozempic\" (achado em busca)"
+   ],
+   "creative_formats": [
+    "UGC/influenciadoras (branded content)",
+    "pagina dedicada \"JSHealth Vitamins Berberine+\""
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "moderada",
+   "confidence_reason": "amostra com 19+ cards do produto; contador pequeno",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta (\"JSHealth Berberine\" ~63, 21:23Z): 14 de 29 cards com 30+ dias; mais antigo 104 d (05/08/2026). Faixa 20-99, assinatura verificada.",
+    "missing_criteria": [
+     ">=100 anuncios ativos"
+    ]
+   },
+   "compliance_notes": [
+    "URL dos EUA redirecionou para jshealthvitamins.com (observado)"
+   ],
+   "missing_data": [
+    "ingredientes completos",
+    "unidades"
+   ],
+   "evidence": [
+    {
+     "url": "https://us.jshealthvitamins.com/products/berberine-formula",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:27:57Z",
+     "observation": "precos 1/2/3 meses, assinatura, \"twice-daily capsule\"",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "brand": "Herbaly",
+   "product": "Glucose Functional Tea (12 ervas, sachês piramide)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "offer_url": "https://herbaly.com/pages/glucose-tea-a",
+   "subniche": "cha_funcional_glicemia",
+   "problem_and_audience": "glicemia, desejo por acucar; inclui angulo \"pais idosos\"",
+   "commercial_claims": [
+    "\"12 research-backed herbs in every cup to support healthy blood sugar levels\"",
+    "\"double the industry standard\" (2,5 g/sache)"
+   ],
+   "ingredients": "12 ervas (lista nao extraida).",
+   "price_observed": "$24.00 (1 pacote); Buy 3 Get 3 $96 (de $192); Buy 2 Get 2; Buy 1 Get 1",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "2 xicaras/dia, 15 min antes das refeicoes grandes",
+    "daily_dose_source": "pagina",
+    "units_per_pack": 28,
+    "units_source": "pagina (\"28 pyramid tea bags\")",
+    "pack_duration_days_calculated": 14,
+    "bundles": [
+     {
+      "label": "Buy 1 Get 1",
+      "units": 56,
+      "total_duration_days_calculated": 28
+     },
+     {
+      "label": "Buy 2 Get 2",
+      "units": 112,
+      "total_duration_days_calculated": 56
+     },
+     {
+      "label": "Buy 3 Get 3",
+      "units": 168,
+      "price": 96,
+      "currency": "USD",
+      "total_duration_days_calculated": 84
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "pagina: opcao \"Subscribe & Save\"; FAQ \"How can I subscribe...\"",
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "alto: pagina recomenda 3-6 meses"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:10:48Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=herbaly.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~220"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Glucose tea&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~19"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=herbaly.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "38 anúncios (dominio, todos os produtos); anunciantes verificados: Herbaly Marketplace Inc.; 2026-11-17T21:25:06Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "mais antigo da amostra 19/05/2026",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1690402752098219",
+     "url": "https://www.facebook.com/ads/library/?id=1690402752098219",
+     "start_date_pt": "19 de mai de 2026",
+     "age_days": 182,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 0,
+     "30_59": 4,
+     "60_89": 0,
+     "90_179": 15,
+     "180_plus": 4
+    },
+    "sample_cards": 23,
+    "sample_ads_incl_variants": 23,
+    "sample_cards_30plus": 23,
+    "active_ads_offer": ">=23 cards observados (amostra; contador do nome \"Glucose tea\" ~19)",
+    "active_ads_brand_or_domain": "~220 (dominio; inclui Heart Tea e Wellness Tea)",
+    "total_shown_by_source": [
+     "~220",
+     "~19"
+    ],
+    "unique_creatives_sample_text": 7,
+    "pages_or_advertisers": [
+     {
+      "name": "Herbaly",
+      "active_ads_sample_cards": 23
+     }
+    ],
+    "sample_csv": "data/ads_herbaly_glucose.csv"
+   },
+   "hooks": [
+    "\"Let's say the thing you're already thinking. It's just tea.\"",
+    "\"People say Herbaly Glucose Tea is expensive. They're right.\"",
+    "\"Say Goodbye to Sugar Cravings!\"",
+    "\"The easiest habit for healthy blood sugar\" (cha gelado)"
+   ],
+   "creative_formats": [
+    "video de preparo",
+    "video talking-head com potes de cha",
+    "estatico de cha gelado com ingredientes"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "moderada",
+   "confidence_reason": "longevidade boa na amostra; volume pequeno",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta (\"herbaly.com\" ~220; \"Glucose tea\" ~19; 21:10-21:21Z): 23 cards da oferta observados, todos com 30+ dias (4 com 180+); mais antigo 182 d (19/05/2026). Faixa 20-99.",
+    "missing_criteria": [
+     ">=100 anuncios ativos"
+    ]
+   },
+   "compliance_notes": [
+    "categoria limitrofe: cha funcional (alimento x suplemento) — confirmar enquadramento regulatorio"
+   ],
+   "missing_data": [
+    "lista de ervas",
+    "preco unitario de cada kit"
+   ],
+   "evidence": [
+    {
+     "url": "https://herbaly.com/pages/glucose-tea-a",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:14:12Z",
+     "observation": "28 saches, 2 xicaras/dia, kits 1+1/2+2/3+3, Subscribe & Save, garantia 30 dias",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "brand": "Dr. Eve (Dr.Eve Global)",
+   "product": "Sugar Cutting Tea / \"Bangpae Tea\" (cha coreano: tupinambo, melao-de-sao-caetano, banaba, hortensia)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": "KR (pagina: \"Made in Korea\")",
+   "languages_observed": [
+    "en"
+   ],
+   "offer_url": "https://www.dreveus.com/pages/amazon-sugar-cutting",
+   "subniche": "cha_funcional_glicemia",
+   "problem_and_audience": "queda de energia pos-almoco, desejo por doce, glicemia",
+   "commercial_claims": [
+    "\"Korea's #1 blood sugar tea\"",
+    "\"Daily Tea Ritual to Cut Blood Sugar Level\""
+   ],
+   "ingredients": "Tupinambo (sunchoke), melao-de-sao-caetano, folhas de banaba, petala de hortensia (anuncio).",
+   "price_observed": "$29.99 -> $19.99 na Amazon (pagina-ponte)",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": null,
+    "daily_dose_source": "nao observado",
+    "units_per_pack": null,
+    "units_source": "nao observado",
+    "pack_duration_days_calculated": null,
+    "bundles": [],
+    "subscription": "nao_observada",
+    "subscription_evidence_url": null,
+    "repurchase_discount": null,
+    "repurchase_potential_inference": "provavel (cha diario), nao verificado"
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:03:49Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=dreveus.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~22"
+     },
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Sugar Cutting&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~190"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=dreveus.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "0 anúncio (dominio, todos os produtos); anunciantes verificados: nenhum; 2026-11-17T21:26:13Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "mais antigo da amostra 16/09/2026 (busca \"Sugar Cutting\" exibiu card de 05/11/2025 de outra pagina, nao atribuido)",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1610983914089038",
+     "url": "https://www.facebook.com/ads/library/?id=1610983914089038",
+     "start_date_pt": "16 de set de 2026",
+     "age_days": 62,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 2,
+     "30_59": 0,
+     "60_89": 27,
+     "90_179": 0,
+     "180_plus": 0
+    },
+    "sample_cards": 29,
+    "sample_ads_incl_variants": 30,
+    "sample_cards_30plus": 27,
+    "active_ads_offer": "~22-30 (estimativa; 29 cards observados)",
+    "active_ads_brand_or_domain": "~22 (dominio)",
+    "total_shown_by_source": [
+     "~22",
+     "~190"
+    ],
+    "unique_creatives_sample_text": 20,
+    "pages_or_advertisers": [
+     {
+      "name": "Dr.Eve Global",
+      "active_ads_sample_cards": 29
+     }
+    ],
+    "sample_csv": "data/ads_dreve_sugarcutting.csv"
+   },
+   "hooks": [
+    "\"You eat lunch. An hour later, crashed, foggy, craving something sweet. That's your blood sugar.\"",
+    "\"Korea's #1 blood sugar tea\""
+   ],
+   "creative_formats": [
+    "ilustracoes/animacao estilo cartoon (personagens bebendo cha)",
+    "video de cha em xicara",
+    "video de embalagem"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "baixa",
+   "confidence_reason": "volume pequeno; dose/unidades nao vistas",
+   "priority": {
+    "level": "prioridade_media",
+    "emergente": false,
+    "justification": "Meta (\"dreveus.com\" ~22, 21:03Z): 27 de 29 cards com 30+ dias (60-89 d); mais antigo 62 d. Faixa 20-99; recorrencia nao verificada.",
+    "missing_criteria": [
+     ">=100 anuncios ativos",
+     "dose/unidades"
+    ]
+   },
+   "compliance_notes": [
+    "\"Cut Blood Sugar Level\" e alegacao de efeito direto",
+    "categoria limitrofe: cha"
+   ],
+   "missing_data": [
+    "dose",
+    "unidades",
+    "assinatura"
+   ],
+   "evidence": [
+    {
+     "url": "https://www.dreveus.com/pages/amazon-sugar-cutting",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:28:10Z",
+     "observation": "pagina-ponte para Amazon, $19.99, \"Made in Korea\"",
+     "verification_status": "verified_observed"
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "brand": "True Nutra",
+   "product": "7-in-1 Blood Sugar Complex (gotas, 15 mL)",
+   "sales_countries": [
+    "US"
+   ],
+   "brand_origin_country": null,
+   "languages_observed": [
+    "en"
+   ],
+   "offer_url": "https://truenutra.com/products/fb-en-bsc003",
+   "subniche": "gotas_multi_ingrediente",
+   "problem_and_audience": "glicemia, A1C, desejo por acucar",
+   "commercial_claims": [
+    "\"Your blood sugar will be balanced, your cravings gone\" (mesma copy da Glucora)",
+    "\"helps lower A1C\"",
+    "\"5x More Effective with 7-in-1 Berberine Complex\"",
+    "\"SOLD OUT 5X\""
+   ],
+   "ingredients": "Complexo de berberina 7-em-1 (lista nao extraida).",
+   "price_observed": "Buy One $28.95; Buy 2 Get 2 $38.95 (exibicao ambigua, possivelmente por frasco); assinatura \"Save 59%\"",
+   "currency": "USD",
+   "product_type": "consumivel_recorrente",
+   "repurchase": {
+    "daily_dose": "1 conta-gotas (1 mL)/dia; kit sugere \"twice a day\"",
+    "daily_dose_source": "pagina",
+    "units_per_pack": 15,
+    "units_source": "pagina (\"15ml / 15 Servings\")",
+    "pack_duration_days_calculated": 15,
+    "bundles": [
+     {
+      "label": "Buy 1 Get 1"
+     },
+     {
+      "label": "Buy 2 Get 2",
+      "price": 38.95
+     }
+    ],
+    "subscription": "verificada",
+    "subscription_evidence_url": "pagina: \"Subscribe, Save 59% ... Automatic deliveries\"",
+    "repurchase_discount": "59% (alegado)",
+    "repurchase_potential_inference": "alto: frasco de 15 dias; \"Stick with it for at least 6 months\""
+   },
+   "ad_activity": {
+    "checked_at_utc": "2026-11-17T21:18:30Z",
+    "sources": [
+     {
+      "platform": "meta_ad_library",
+      "query_url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=truenutra.com&search_type=keyword_exact_phrase",
+      "method": "amostra",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "1a pagina (ordenada por impressoes); paginacao bloqueada (\"Rate limit exceeded\"); contador exibido: ~1.900"
+     },
+     {
+      "platform": "google_ads_transparency",
+      "query_url": "https://adstransparency.google.com/?region=US&domain=truenutra.com",
+      "method": "contador_exibido",
+      "sample_size": null,
+      "count_is_estimate": true,
+      "note": "300 anúncios (dominio, todos os produtos); anunciantes verificados: R5 Brands LLC; 2026-11-17T21:25:39Z"
+     }
+    ],
+    "first_seen_date": null,
+    "first_seen_note": "mais antigo da oferta na amostra 07/10/2026",
+    "history_possibly_truncated": true,
+    "oldest_active_ad": {
+     "ad_id": "1767934324464882",
+     "url": "https://www.facebook.com/ads/library/?id=1767934324464882",
+     "start_date_pt": "7 de out de 2026",
+     "age_days": 41,
+     "note": "mais antigo DENTRO DA AMOSTRA; pode haver anuncios mais antigos nao exibidos"
+    },
+    "active_ads_by_age_days_sample_cards": {
+     "lt30": 6,
+     "30_59": 2,
+     "60_89": 0,
+     "90_179": 0,
+     "180_plus": 0
+    },
+    "sample_cards": 8,
+    "sample_ads_incl_variants": 8,
+    "sample_cards_30plus": 2,
+    "active_ads_offer": ">=8 cards observados (amostra do dominio)",
+    "active_ads_brand_or_domain": "~1.900 (dominio; maioria Lymphatic Complex)",
+    "total_shown_by_source": [
+     "~1.900"
+    ],
+    "unique_creatives_sample_text": 2,
+    "pages_or_advertisers": [
+     {
+      "name": "True Nutra Health",
+      "active_ads_sample_cards": 7
+     },
+     {
+      "name": "True Nutra Plus",
+      "active_ads_sample_cards": 1
+     }
+    ],
+    "sample_csv": "data/ads_truenutra_bsc.csv"
+   },
+   "hooks": [
+    "copy traduzida da Glucora",
+    "historia \"mother-in-law / wedding dress\" (gancho de peso)"
+   ],
+   "creative_formats": [
+    "texto longo + imagem (detalhe visual nao inspecionado)"
+   ],
+   "status": "sinais_de_atividade",
+   "confidence": "baixa",
+   "confidence_reason": "poucos cards da oferta na amostra",
+   "priority": {
+    "level": "em_observacao",
+    "emergente": true,
+    "justification": "Meta (\"truenutra.com\" ~1.900 na marca, 21:18Z): so 8 cards do Blood Sugar Complex na amostra; 2 com 30+ dias; mais antigo 41 d. Volume da oferta nao demonstrado >=20. Emergente: versao em ingles da copy da Glucora, anunciante com 300 anuncios no Google.",
+    "missing_criteria": [
+     ">=20 anuncios da oferta observados"
+    ]
+   },
+   "compliance_notes": [
+    "\"lower A1C\" e alegacao de tratamento"
+   ],
+   "missing_data": [
+    "contagem da oferta",
+    "ingredientes"
+   ],
+   "evidence": [
+    {
+     "url": "https://truenutra.com/products/fb-en-bsc003",
+     "source_type": "pagina_de_venda",
+     "checked_at_utc": "2026-11-17T21:27:38Z",
+     "observation": "15 mL/15 doses, 1 mL/dia, assinatura, garantia 90 dias",
+     "verification_status": "verified_observed"
+    }
+   ]
+  }
+ ],
+ "excluded_known_references": [
+  "Metabolae",
+  "Resilia",
+  "Gentilia",
+  "Liréa",
+  "Kenzendo"
+ ],
+ "not_selected": [
+  {
+   "brand": "Ovia Essentials",
+   "product": "Cutting Drink Mix (berberina liquida, cromo, 5-HTP)",
+   "url": "https://try.oviaessentials.com/9-reasons-listicle",
+   "reason": "44 cards/142 anuncios na amostra, 38 com 30+ dias (mais antigo 182 d), mas o CTA leva a https://www.oviaessentials.com/products/cutting-drink-mix que exibiu \"Sorry, this site is no longer available.\" em 2026-11-17; oferta sem pagina de venda verificavel"
+  },
+  {
+   "brand": "Santo Remedio",
+   "product": "Berberine+ (GlucoVantage)",
+   "url": "https://misantoremedio.com/products/berberine",
+   "reason": "marca ~130 anuncios (multi-produto) mas so 2 cards do Berberine+ na amostra; assinatura verificada"
+  },
+  {
+   "brand": "Nervora",
+   "product": "Acido R-Alfa Lipoico 600 mg (ES)",
+   "url": "https://mynervora.com/products/acido-r-alfa-lipoico-600-mg-forma-r-pura",
+   "reason": "subnicho adjacente (neuropatia diabetica); ~550 anuncios, mais antigo 48 d; mesmo template da PureCeylon"
+  },
+  {
+   "brand": "Gratitude Health",
+   "product": "Dihydroberberine + ACV + Good Fibes",
+   "url": "https://getgratitudehealth.com/products/dihydroberberine-apple-cider-vinegar-good-fibes-bundle",
+   "reason": "~10 anuncios, todos < 30 d (emergente; demo com monitor de glicose)"
+  },
+  {
+   "brand": "CleverPro (Tora Labs)",
+   "product": "Carbivore",
+   "url": "https://www.cleverpro.us/products/carbivore",
+   "reason": "~20 anuncios, 19 < 30 d (bloqueador de carboidrato pos-refeicao; emergente)"
+  },
+  {
+   "brand": "Daily Curb",
+   "product": "bebida para SOP/PMOS",
+   "url": "https://dailycurb.com/pages/pcos",
+   "reason": "~25 anuncios, todos < 30 d"
+  },
+  {
+   "brand": "Black Girl Vitamins",
+   "product": "PCOS Relief Gummies (inositol)",
+   "url": "https://blackgirlvitamins.co/pages/pcos-list-v1",
+   "reason": "marca ~780 multi-produto; poucos cards especificos de SOP"
+  },
+  {
+   "brand": "UMZU",
+   "product": "Sensolin",
+   "url": "https://www.umzu.com/products/sensolin",
+   "reason": "~2 anuncios"
+  },
+  {
+   "brand": "Glucocil",
+   "product": "Glucocil 60CT",
+   "url": "https://www.walmart.com/ip/Glucocil-15-Day-Supply-60CT-Premium-Blood-Sugar-Support-2-Million-Sold-Since-2008/433000582",
+   "reason": "1 anuncio"
+  }
+ ],
+ "out_of_scope": [
+  {
+   "brand": "Kind Patches",
+   "product": "Berberine Patch / Metabolic Trio",
+   "category": "adesivo transdermico",
+   "url": "https://kindpatches.com/collections/bundles/products/metabolic-trio-bundle-1",
+   "reason": "nao e suplemento ingerivel; ~780 anuncios"
+  },
+  {
+   "brand": "PiPi Tea",
+   "product": "oolong para colesterol",
+   "category": "cha / colesterol",
+   "url": "https://shop.pipitea.com/ppch/sp-nm",
+   "reason": "problema principal colesterol; usa historias de glicemia em alguns anuncios"
+  },
+  {
+   "brand": "Signos / Dexcom / Stelo / Eversense / Omnipod",
+   "product": "CGM, apps, insulina",
+   "category": "dispositivos/medicamentos",
+   "url": null,
+   "reason": "nao suplementos"
+  },
+  {
+   "brand": "Equine Veterinary Essentials",
+   "product": "Metabo-Balance (cavalos)",
+   "category": "pet/equino",
+   "url": "https://evesupplements.com",
+   "reason": "animal"
+  },
+  {
+   "brand": "GOOD IDEA",
+   "product": "agua com aminoacidos pos-refeicao",
+   "category": "bebida",
+   "url": "https://www.goodidea.us/",
+   "reason": "bebida; ~6 anuncios"
+  },
+  {
+   "brand": "Omvyra Labs / Aurivita",
+   "product": "disfuncao eretil em diabeticos",
+   "category": "saude masculina",
+   "url": "https://omvyralabs.co/pages/adv-13-diabetic-ed",
+   "reason": "problema diferente (usa diabetes como gancho)"
+  }
+ ],
+ "limitations": [
+  "Meta Ad Library: paginacao bloqueada por limite de taxa; contagens completas, distribuicao total por idade e anuncio ativo mais antigo da oferta nao puderam ser medidos — so a 1a pagina (ate 30 cards) e o contador aproximado",
+  "Fora da UE a Meta nao mostra anuncios comerciais inativos: historico truncado",
+  "glovbeauty.com bloqueou o acesso a partir da regiao do navegador",
+  "oviaessentials.com indisponivel",
+  "sem TikTok Creative Center, sem transcricao de audio",
+  "\"Ads using creative\" so capturado quando a Ad Library exibe \"N anuncios usam esse criativo\"; cards com \"varias versoes\" contados como 1"
+ ]
+}

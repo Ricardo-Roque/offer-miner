@@ -1,0 +1,40 @@
+{
+ "name": "santo_berberine",
+ "meta": [
+  [
+   "misantoremedio.com",
+   "~130 resultados",
+   "2026-11-17T21:04:10Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=misantoremedio.com&search_type=keyword_exact_phrase"
+  ],
+  [
+   "Berberine+",
+   "~1.400 resultados",
+   "2026-11-17T21:21:12Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Berberine%2B&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 2,
+ "ads": 3,
+ "by_age": {
+  "lt30": 0,
+  "30_59": 0,
+  "60_89": 0,
+  "90_179": 2,
+  "180_plus": 0
+ },
+ "n30": 2,
+ "oldest": [
+  "2203242767106087",
+  "6 de jul de 2026",
+  134
+ ],
+ "video_cards": 2,
+ "pages": [
+  [
+   "Santo Remedio",
+   2
+  ]
+ ],
+ "uniq": 2
+}

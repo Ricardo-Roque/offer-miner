@@ -1,0 +1,132 @@
+{
+ "offer": {
+  "cards": 50,
+  "ads_incl_variants": 362,
+  "by_age_cards": {
+   "180_plus": 12,
+   "60_89": 7,
+   "lt30": 9,
+   "30_59": 14,
+   "90_179": 8
+  },
+  "n30plus_cards": 41,
+  "oldest": [
+   "1354871836658279",
+   "2026-03-28",
+   234
+  ],
+  "unique_text_creatives": 15,
+  "pages_ads": [
+   [
+    "Lovy",
+    352
+   ],
+   [
+    "Unstoppable After 50",
+    6
+   ],
+   [
+    "Lovy Secret Deals",
+    2
+   ],
+   [
+    "Emily Grace Anderson",
+    2
+   ]
+  ],
+  "landings": [
+   [
+    "secure.trylovy.com/urocontrol-s-bof",
+    34
+   ],
+   [
+    "secure.trylovy.com/adv2-hy",
+    6
+   ],
+   [
+    "secure.trylovy.com/quiz1",
+    4
+   ],
+   [
+    "secure.trylovy.com/adv4-gag-s",
+    2
+   ],
+   [
+    "secure.trylovy.com/uc-mt-list1",
+    1
+   ],
+   [
+    "secure.trylovy.com/us-mt-adv6-hy",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "trylovy|Lovy|UroControl",
+ "offer_regex": "trylovy|urocontrol|bladder|leak",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 50,
+  "ads_incl_variants": 362,
+  "by_age_cards": {
+   "180_plus": 12,
+   "60_89": 7,
+   "lt30": 9,
+   "30_59": 14,
+   "90_179": 8
+  },
+  "n30plus_cards": 41,
+  "oldest": [
+   "1354871836658279",
+   "2026-03-28",
+   234
+  ],
+  "unique_text_creatives": 15,
+  "pages_ads": [
+   [
+    "Lovy",
+    352
+   ],
+   [
+    "Unstoppable After 50",
+    6
+   ],
+   [
+    "Lovy Secret Deals",
+    2
+   ],
+   [
+    "Emily Grace Anderson",
+    2
+   ]
+  ],
+  "landings": [
+   [
+    "secure.trylovy.com/urocontrol-s-bof",
+    34
+   ],
+   [
+    "secure.trylovy.com/adv2-hy",
+    6
+   ],
+   [
+    "secure.trylovy.com/quiz1",
+    4
+   ],
+   [
+    "secure.trylovy.com/adv4-gag-s",
+    2
+   ],
+   [
+    "secure.trylovy.com/uc-mt-list1",
+    1
+   ],
+   [
+    "secure.trylovy.com/us-mt-adv6-hy",
+    1
+   ]
+  ]
+ }
+}

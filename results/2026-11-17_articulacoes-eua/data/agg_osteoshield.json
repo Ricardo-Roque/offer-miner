@@ -1,0 +1,169 @@
+{
+ "offer": "osteoshield",
+ "sources": {
+  "d_osteoshield.json": [
+   "~460",
+   129
+  ],
+  "discovery_queries_extra_ids": 3
+ },
+ "brand_or_domain_all": {
+  "cards": 132,
+  "ads_incl_variants": 1856,
+  "by_age": {
+   "lt30": 128,
+   "30_59": 4
+  },
+  "n30plus": 4,
+  "oldest": [
+   "1437747105158317",
+   "2026-10-07",
+   41
+  ],
+  "newest_start": "2026-11-16",
+  "unique_text_creatives": 11,
+  "pages": [
+   [
+    "Margaret Davis",
+    48
+   ],
+   [
+    "Carolyn Williams",
+    28
+   ],
+   [
+    "Dr. Andy Salazar - MD com The Pain Relief Institute",
+    23
+   ],
+   [
+    "Dr. Schilling - Pain Management",
+    23
+   ],
+   [
+    "Kathy Miller",
+    5
+   ],
+   [
+    "Dr. Andy Salazar - MD",
+    2
+   ],
+   [
+    "Patricia Wilson",
+    2
+   ],
+   [
+    "Dr. Schilling - Pain Management com Osteoarthritis Research Center",
+    1
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 132,
+  "ads_incl_variants": 1856,
+  "by_age": {
+   "lt30": 128,
+   "30_59": 4
+  },
+  "n30plus": 4,
+  "oldest": [
+   "1437747105158317",
+   "2026-10-07",
+   41
+  ],
+  "newest_start": "2026-11-16",
+  "unique_text_creatives": 11,
+  "pages": [
+   [
+    "Margaret Davis",
+    48
+   ],
+   [
+    "Carolyn Williams",
+    28
+   ],
+   [
+    "Dr. Andy Salazar - MD com The Pain Relief Institute",
+    23
+   ],
+   [
+    "Dr. Schilling - Pain Management",
+    23
+   ],
+   [
+    "Kathy Miller",
+    5
+   ],
+   [
+    "Dr. Andy Salazar - MD",
+    2
+   ],
+   [
+    "Patricia Wilson",
+    2
+   ],
+   [
+    "Dr. Schilling - Pain Management com Osteoarthritis Research Center",
+    1
+   ]
+  ]
+ },
+ "excluded_or_other": 0,
+ "sample_ids": [
+  [
+   "1437747105158317",
+   "2026-10-07",
+   "Dr. Schilling - Pain Management"
+  ],
+  [
+   "1853736142718394",
+   "2026-10-12",
+   "Margaret Davis"
+  ],
+  [
+   "3350279695170646",
+   "2026-10-12",
+   "Kathy Miller"
+  ],
+  [
+   "1113773881574812",
+   "2026-10-13",
+   "Kathy Miller"
+  ],
+  [
+   "1837879407392648",
+   "2026-10-20",
+   "Dr. Andy Salazar - MD com The Pain Relief Institute"
+  ],
+  [
+   "1640107307564211",
+   "2026-10-20",
+   "Dr. Andy Salazar - MD com The Pain Relief Institute"
+  ]
+ ],
+ "links": [
+  [
+   "health.morningvitality.com/ga/bt1ost1a/",
+   76
+  ],
+  [
+   "health.morningvitality.com/ga/osteopdp/",
+   28
+  ],
+  [
+   "health.morningvitality.com/ga/bt2ost-sm/",
+   12
+  ],
+  [
+   "health.morningvitality.com/ga/bt1ost1c/",
+   9
+  ],
+  [
+   "health.morningvitality.com/ga/ostdenbt1l1/",
+   2
+  ],
+  [
+   "health.morningvitality.com/ga/ostdenbt1cl1/",
+   2
+  ]
+ ]
+}

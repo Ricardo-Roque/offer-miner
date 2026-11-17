@@ -1,0 +1,167 @@
+{
+ "offer": "vitalhydra",
+ "sources": {
+  "d_vitalhydra.co.json": [
+   "~320",
+   266
+  ],
+  "discovery_queries_extra_ids": 0
+ },
+ "brand_or_domain_all": {
+  "cards": 266,
+  "ads_incl_variants": 288,
+  "by_age": {
+   "180_plus": 49,
+   "60_89": 19,
+   "90_179": 94,
+   "lt30": 47,
+   "30_59": 57
+  },
+  "n30plus": 219,
+  "oldest": [
+   "1851132645542207",
+   "2026-02-13",
+   277
+  ],
+  "newest_start": "2026-11-10",
+  "unique_text_creatives": 78,
+  "pages": [
+   [
+    "VitalHydra",
+    112
+   ],
+   [
+    "Vital Hydra",
+    109
+   ],
+   [
+    "Linda Campbell",
+    24
+   ],
+   [
+    "Dr. Rebecca Holloway PhD - Joint & Mobility Specialist",
+    15
+   ],
+   [
+    "The Healthy Joint Times",
+    3
+   ],
+   [
+    "Rebecca Holloway",
+    2
+   ],
+   [
+    "Dr. James Carter MD - Joint & Mobility Specialist",
+    1
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 266,
+  "ads_incl_variants": 288,
+  "by_age": {
+   "180_plus": 49,
+   "60_89": 19,
+   "90_179": 94,
+   "lt30": 47,
+   "30_59": 57
+  },
+  "n30plus": 219,
+  "oldest": [
+   "1851132645542207",
+   "2026-02-13",
+   277
+  ],
+  "newest_start": "2026-11-10",
+  "unique_text_creatives": 78,
+  "pages": [
+   [
+    "VitalHydra",
+    112
+   ],
+   [
+    "Vital Hydra",
+    109
+   ],
+   [
+    "Linda Campbell",
+    24
+   ],
+   [
+    "Dr. Rebecca Holloway PhD - Joint & Mobility Specialist",
+    15
+   ],
+   [
+    "The Healthy Joint Times",
+    3
+   ],
+   [
+    "Rebecca Holloway",
+    2
+   ],
+   [
+    "Dr. James Carter MD - Joint & Mobility Specialist",
+    1
+   ]
+  ]
+ },
+ "excluded_or_other": 0,
+ "sample_ids": [
+  [
+   "1851132645542207",
+   "2026-02-13",
+   "VitalHydra"
+  ],
+  [
+   "891945860118607",
+   "2026-02-13",
+   "VitalHydra"
+  ],
+  [
+   "1631155037931812",
+   "2026-02-13",
+   "VitalHydra"
+  ],
+  [
+   "1441212504065856",
+   "2026-02-13",
+   "VitalHydra"
+  ],
+  [
+   "931069949463836",
+   "2026-03-07",
+   "VitalHydra"
+  ],
+  [
+   "4345373919088135",
+   "2026-03-07",
+   "VitalHydra"
+  ]
+ ],
+ "links": [
+  [
+   "vitalhydra.co/pages/vitalhydraha",
+   235
+  ],
+  [
+   "try.vitalhydra.co/linda-v2",
+   17
+  ],
+  [
+   "vitalhydra.co/pages/liposomalha-2026-06-30-10-12-21-am",
+   14
+  ],
+  [
+   "try.vitalhydra.co/quiz-v2",
+   10
+  ],
+  [
+   "vitalhydra.co/pages/why-joints-run-dry",
+   6
+  ],
+  [
+   "try.vitalhydra.co/quiz",
+   5
+  ]
+ ]
+}

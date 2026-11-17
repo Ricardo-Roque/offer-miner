@@ -1,0 +1,48 @@
+{
+ "name": "glucora",
+ "meta": [
+  [
+   "glucora-lab.com",
+   "~140 resultados",
+   "2026-11-17T21:00:35Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=glucora-lab.com&search_type=keyword_exact_phrase"
+  ],
+  [
+   "Glucora",
+   "~150 resultados",
+   "2026-11-17T21:21:54Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Glucora&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 28,
+ "ads": 31,
+ "by_age": {
+  "lt30": 1,
+  "30_59": 2,
+  "60_89": 6,
+  "90_179": 18,
+  "180_plus": 1
+ },
+ "n30": 27,
+ "oldest": [
+  "3149105422144141",
+  "11 de mar de 2026",
+  251
+ ],
+ "video_cards": 0,
+ "pages": [
+  [
+   "Glucora Lab",
+   13
+  ],
+  [
+   "Comunidad Control Diabetes",
+   10
+  ],
+  [
+   "Adriana Medina",
+   5
+  ]
+ ],
+ "uniq": 2
+}

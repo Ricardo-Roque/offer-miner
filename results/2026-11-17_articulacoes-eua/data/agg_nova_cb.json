@@ -1,0 +1,210 @@
+{
+ "offer": "nova_cb",
+ "sources": {
+  "d_hernovabottle.com.json": [
+   "~160",
+   158
+  ],
+  "d_thenovabottle.com.json": [
+   "~340",
+   285
+  ],
+  "discovery_queries_extra_ids": 11
+ },
+ "brand_or_domain_all": {
+  "cards": 454,
+  "ads_incl_variants": 559,
+  "by_age": {
+   "90_179": 5,
+   "60_89": 12,
+   "lt30": 349,
+   "30_59": 80,
+   "180_plus": 8
+  },
+  "n30plus": 105,
+  "oldest": [
+   "2313447172401074",
+   "2026-02-19",
+   271
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 59,
+  "pages": [
+   [
+    "Thriving In Menopause",
+    101
+   ],
+   [
+    "Life with Arthritis Community page",
+    80
+   ],
+   [
+    "The Nova Bottle",
+    64
+   ],
+   [
+    "Move Pain Free Daily",
+    63
+   ],
+   [
+    "Living with joint pain - Community",
+    40
+   ],
+   [
+    "Everyday Joint Health",
+    40
+   ],
+   [
+    "Life with menopause",
+    36
+   ],
+   [
+    "Sydney Sylvaine, Rheumatologist",
+    20
+   ],
+   [
+    "Nova menopause vitality",
+    3
+   ],
+   [
+    "Flourish After 40",
+    3
+   ],
+   [
+    "jellisofme com Life with menopause",
+    2
+   ],
+   [
+    "Andy Reviews Everything com Life with menopause",
+    1
+   ],
+   [
+    "Sue Pascale",
+    1
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 306,
+  "ads_incl_variants": 348,
+  "by_age": {
+   "lt30": 225,
+   "30_59": 78,
+   "60_89": 1,
+   "180_plus": 2
+  },
+  "n30plus": 81,
+  "oldest": [
+   "1982637528984426",
+   "2026-02-19",
+   271
+  ],
+  "newest_start": "2026-11-16",
+  "unique_text_creatives": 27,
+  "pages": [
+   [
+    "The Nova Bottle",
+    63
+   ],
+   [
+    "Life with Arthritis Community page",
+    63
+   ],
+   [
+    "Move Pain Free Daily",
+    63
+   ],
+   [
+    "Thriving In Menopause",
+    46
+   ],
+   [
+    "Living with joint pain - Community",
+    21
+   ],
+   [
+    "Sydney Sylvaine, Rheumatologist",
+    19
+   ],
+   [
+    "Everyday Joint Health",
+    18
+   ],
+   [
+    "Life with menopause",
+    9
+   ],
+   [
+    "jellisofme com Life with menopause",
+    2
+   ],
+   [
+    "Nova menopause vitality",
+    1
+   ],
+   [
+    "Andy Reviews Everything com Life with menopause",
+    1
+   ]
+  ]
+ },
+ "excluded_or_other": 148,
+ "sample_ids": [
+  [
+   "1982637528984426",
+   "2026-02-19",
+   "Nova menopause vitality"
+  ],
+  [
+   "1646411016774116",
+   "2026-02-19",
+   "Thriving In Menopause"
+  ],
+  [
+   "2274908229964017",
+   "2026-09-12",
+   "Living with joint pain - Community"
+  ],
+  [
+   "4443599552521777",
+   "2026-09-29",
+   "Living with joint pain - Community"
+  ],
+  [
+   "2235564010510080",
+   "2026-09-29",
+   "Living with joint pain - Community"
+  ],
+  [
+   "1640745131053459",
+   "2026-09-29",
+   "Living with joint pain - Community"
+  ]
+ ],
+ "links": [
+  [
+   "www.hernovabottle.com/products/curcumin-boswellia",
+   221
+  ],
+  [
+   "thenovabottle.com/products/curcumin-boswellia-joint-support-capsules",
+   29
+  ],
+  [
+   "www.hernovabottle.com/pages/nova-sale-page",
+   22
+  ],
+  [
+   "www.hernovabottle.com/products/curcumin-boswellia-joint-support-v2",
+   10
+  ],
+  [
+   "www.hernovabottle.com/products/curcumin-boswellia-joint-support-capsules",
+   6
+  ],
+  [
+   "thenovabottle.com/pages/gt-solutionaware-adv",
+   4
+  ]
+ ]
+}

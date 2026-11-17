@@ -1,0 +1,137 @@
+{
+ "offer": "mara",
+ "sources": {
+  "d_mara-labs.com.json": [
+   "~56",
+   48
+  ],
+  "discovery_queries_extra_ids": 0
+ },
+ "brand_or_domain_all": {
+  "cards": 48,
+  "ads_incl_variants": 69,
+  "by_age": {
+   "lt30": 39,
+   "30_59": 9
+  },
+  "n30plus": 9,
+  "oldest": [
+   "2002214847118745",
+   "2026-10-15",
+   33
+  ],
+  "newest_start": "2026-11-15",
+  "unique_text_creatives": 31,
+  "pages": [
+   [
+    "Mara Labs",
+    32
+   ],
+   [
+    "Josh Trent",
+    6
+   ],
+   [
+    "Lindsey Simcik com Mara Labs",
+    4
+   ],
+   [
+    "It's Krista com Mara Labs",
+    4
+   ],
+   [
+    "Wellness + Wisdom",
+    1
+   ],
+   [
+    "Civilized Caveman",
+    1
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 42,
+  "ads_incl_variants": 58,
+  "by_age": {
+   "lt30": 34,
+   "30_59": 8
+  },
+  "n30plus": 8,
+  "oldest": [
+   "2002214847118745",
+   "2026-10-15",
+   33
+  ],
+  "newest_start": "2026-11-15",
+  "unique_text_creatives": 26,
+  "pages": [
+   [
+    "Mara Labs",
+    30
+   ],
+   [
+    "Josh Trent",
+    4
+   ],
+   [
+    "Lindsey Simcik com Mara Labs",
+    3
+   ],
+   [
+    "It's Krista com Mara Labs",
+    3
+   ],
+   [
+    "Wellness + Wisdom",
+    1
+   ],
+   [
+    "Civilized Caveman",
+    1
+   ]
+  ]
+ },
+ "excluded_or_other": 6,
+ "sample_ids": [
+  [
+   "2002214847118745",
+   "2026-10-15",
+   "Mara Labs"
+  ],
+  [
+   "1069732789213243",
+   "2026-10-15",
+   "Mara Labs"
+  ],
+  [
+   "1343009141090510",
+   "2026-10-15",
+   "Josh Trent"
+  ],
+  [
+   "1402404481873724",
+   "2026-10-15",
+   "Mara Labs"
+  ],
+  [
+   "1090652433561056",
+   "2026-10-15",
+   "Civilized Caveman"
+  ],
+  [
+   "4128007677492272",
+   "2026-10-15",
+   "Josh Trent"
+  ]
+ ],
+ "links": [
+  [
+   "mara-labs.com/pages/brocelite-plus-exclusive-offer-625",
+   41
+  ],
+  [
+   "mara-labs.com/pages/glperfect-lp",
+   1
+  ]
+ ]
+}

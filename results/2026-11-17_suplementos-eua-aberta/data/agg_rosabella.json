@@ -1,0 +1,192 @@
+{
+ "offer": {
+  "cards": 112,
+  "ads_incl_variants": 140,
+  "by_age_cards": {
+   "lt30": 51,
+   "30_59": 32,
+   "60_89": 29
+  },
+  "n30plus_cards": 61,
+  "oldest": [
+   "1273690935826594",
+   "2026-08-20",
+   89
+  ],
+  "unique_text_creatives": 55,
+  "pages_ads": [
+   [
+    "The Health Haven",
+    46
+   ],
+   [
+    "Leslie Hosmer",
+    16
+   ],
+   [
+    "Mary Edwards",
+    11
+   ],
+   [
+    "Essential Health Finds",
+    11
+   ],
+   [
+    "The Heart Health Project",
+    11
+   ],
+   [
+    "Eric Bussey",
+    7
+   ],
+   [
+    "Ashley Mccullough",
+    6
+   ],
+   [
+    "Blood Pressure Secrets",
+    6
+   ],
+   [
+    "Rosabella",
+    5
+   ],
+   [
+    "Mike Weiland",
+    4
+   ],
+   [
+    "Blood Pressure Hacks",
+    4
+   ],
+   [
+    "Rosabella Beetroot",
+    4
+   ]
+  ],
+  "landings": [
+   [
+    "track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+    40
+   ],
+   [
+    "track.tryrosabella.com/d8ff5f94-0152-4911-8798-f350530f0271",
+    32
+   ],
+   [
+    "track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+    26
+   ],
+   [
+    "track.tryrosabella.com/e73e2b82-57e8-45b3-b98f-f257632c842b",
+    10
+   ],
+   [
+    "track.tryrosabella.com/14309c20-4d60-44e3-9565-5ba6bb358986",
+    3
+   ],
+   [
+    "track.tryrosabella.com/225e92fd-90a9-4738-bd51-de51295b1cf2",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "tryrosabella|Rosabella",
+ "offer_regex": "beet|tryrosabella",
+ "exclude": "moringa",
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 112,
+  "ads_incl_variants": 140,
+  "by_age_cards": {
+   "lt30": 51,
+   "30_59": 32,
+   "60_89": 29
+  },
+  "n30plus_cards": 61,
+  "oldest": [
+   "1273690935826594",
+   "2026-08-20",
+   89
+  ],
+  "unique_text_creatives": 55,
+  "pages_ads": [
+   [
+    "The Health Haven",
+    46
+   ],
+   [
+    "Leslie Hosmer",
+    16
+   ],
+   [
+    "Mary Edwards",
+    11
+   ],
+   [
+    "Essential Health Finds",
+    11
+   ],
+   [
+    "The Heart Health Project",
+    11
+   ],
+   [
+    "Eric Bussey",
+    7
+   ],
+   [
+    "Ashley Mccullough",
+    6
+   ],
+   [
+    "Blood Pressure Secrets",
+    6
+   ],
+   [
+    "Rosabella",
+    5
+   ],
+   [
+    "Mike Weiland",
+    4
+   ],
+   [
+    "Blood Pressure Hacks",
+    4
+   ],
+   [
+    "Rosabella Beetroot",
+    4
+   ]
+  ],
+  "landings": [
+   [
+    "track.tryrosabella.com/cdc16426-3e48-40a7-9fad-21098084f6cf",
+    40
+   ],
+   [
+    "track.tryrosabella.com/d8ff5f94-0152-4911-8798-f350530f0271",
+    32
+   ],
+   [
+    "track.tryrosabella.com/8ae97cac-2146-42d6-af75-de0e59d15644",
+    26
+   ],
+   [
+    "track.tryrosabella.com/e73e2b82-57e8-45b3-b98f-f257632c842b",
+    10
+   ],
+   [
+    "track.tryrosabella.com/14309c20-4d60-44e3-9565-5ba6bb358986",
+    3
+   ],
+   [
+    "track.tryrosabella.com/225e92fd-90a9-4738-bd51-de51295b1cf2",
+    1
+   ]
+  ]
+ }
+}

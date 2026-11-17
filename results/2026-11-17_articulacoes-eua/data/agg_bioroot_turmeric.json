@@ -1,0 +1,262 @@
+{
+ "offer": "bioroot_turmeric",
+ "sources": {
+  "d_biorootlabs.com.json": [
+   "~1.300",
+   247
+  ],
+  "discovery_queries_extra_ids": 0
+ },
+ "brand_or_domain_all": {
+  "cards": 247,
+  "ads_incl_variants": 312,
+  "by_age": {
+   "30_59": 80,
+   "90_179": 17,
+   "60_89": 46,
+   "lt30": 99,
+   "180_plus": 5
+  },
+  "n30plus": 148,
+  "oldest": [
+   "999356269266608",
+   "2026-05-21",
+   180
+  ],
+  "newest_start": "2026-11-16",
+  "unique_text_creatives": 26,
+  "pages": [
+   [
+    "BioRoot Labs",
+    125
+   ],
+   [
+    "Liver Support Community",
+    41
+   ],
+   [
+    "Healthy Brain Community",
+    34
+   ],
+   [
+    "The Joint Pain Journal",
+    15
+   ],
+   [
+    "Dr Ruth White",
+    10
+   ],
+   [
+    "AImagination com BioRoot Labs",
+    4
+   ],
+   [
+    "Kiser Sisters com BioRoot Labs",
+    4
+   ],
+   [
+    "Jillfluence com BioRoot Labs",
+    3
+   ],
+   [
+    "KIKI ELY com BioRoot Labs",
+    1
+   ],
+   [
+    "Mr Finntastic com BioRoot Labs",
+    1
+   ],
+   [
+    "Fearless Into My 60s com BioRoot Labs",
+    1
+   ],
+   [
+    "AVP Graphics com BioRoot Labs",
+    1
+   ],
+   [
+    "EOD Bizzle com BioRoot Labs",
+    1
+   ],
+   [
+    "abd.aixx com BioRoot Labs",
+    1
+   ],
+   [
+    "kenzievalentine1 com BioRoot Labs",
+    1
+   ],
+   [
+    "WiredCrystal com BioRoot Labs",
+    1
+   ],
+   [
+    "mikewrightinc com BioRoot Labs",
+    1
+   ],
+   [
+    "Lori Beth Jamison UGC com BioRoot Labs",
+    1
+   ],
+   [
+    "norberttiktok85 com BioRoot Labs",
+    1
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 226,
+  "ads_incl_variants": 291,
+  "by_age": {
+   "30_59": 76,
+   "60_89": 41,
+   "lt30": 99,
+   "90_179": 10
+  },
+  "n30plus": 127,
+  "oldest": [
+   "2509798346160939",
+   "2026-08-01",
+   108
+  ],
+  "newest_start": "2026-11-16",
+  "unique_text_creatives": 20,
+  "pages": [
+   [
+    "BioRoot Labs",
+    119
+   ],
+   [
+    "Healthy Brain Community",
+    34
+   ],
+   [
+    "Liver Support Community",
+    32
+   ],
+   [
+    "The Joint Pain Journal",
+    15
+   ],
+   [
+    "Dr Ruth White",
+    4
+   ],
+   [
+    "AImagination com BioRoot Labs",
+    4
+   ],
+   [
+    "Kiser Sisters com BioRoot Labs",
+    4
+   ],
+   [
+    "Jillfluence com BioRoot Labs",
+    3
+   ],
+   [
+    "KIKI ELY com BioRoot Labs",
+    1
+   ],
+   [
+    "Mr Finntastic com BioRoot Labs",
+    1
+   ],
+   [
+    "Fearless Into My 60s com BioRoot Labs",
+    1
+   ],
+   [
+    "AVP Graphics com BioRoot Labs",
+    1
+   ],
+   [
+    "EOD Bizzle com BioRoot Labs",
+    1
+   ],
+   [
+    "abd.aixx com BioRoot Labs",
+    1
+   ],
+   [
+    "kenzievalentine1 com BioRoot Labs",
+    1
+   ],
+   [
+    "WiredCrystal com BioRoot Labs",
+    1
+   ],
+   [
+    "mikewrightinc com BioRoot Labs",
+    1
+   ],
+   [
+    "Lori Beth Jamison UGC com BioRoot Labs",
+    1
+   ],
+   [
+    "norberttiktok85 com BioRoot Labs",
+    1
+   ]
+  ]
+ },
+ "excluded_or_other": 21,
+ "sample_ids": [
+  [
+   "2509798346160939",
+   "2026-08-01",
+   "Dr Ruth White"
+  ],
+  [
+   "1732673554432520",
+   "2026-08-01",
+   "Liver Support Community"
+  ],
+  [
+   "1786836325807328",
+   "2026-08-01",
+   "Dr Ruth White"
+  ],
+  [
+   "1077813854907729",
+   "2026-08-01",
+   "BioRoot Labs"
+  ],
+  [
+   "1083525587457566",
+   "2026-08-01",
+   "BioRoot Labs"
+  ],
+  [
+   "1635630938237575",
+   "2026-08-01",
+   "BioRoot Labs"
+  ]
+ ],
+ "links": [
+  [
+   "biorootlabs.com/products/turmeric-curcumin-capsules-1-000mg-o2",
+   132
+  ],
+  [
+   "biorootlabs.com/products/turmeric-curcumin-capsules-1000mg",
+   67
+  ],
+  [
+   "biorootlabs.com/products/turmeric-curcumin-capsules-1-000mg-o2-t1",
+   34
+  ],
+  [
+   "biorootlabs.com/products/turmeric-curcumin-capsules-1-000mg-liver-support-supplement",
+   32
+  ],
+  [
+   "biorootlabs.com/products/turmeric-curcumin-capsules",
+   6
+  ],
+  [
+   "biorootlabs.com/pages/li10",
+   1
+  ]
+ ]
+}

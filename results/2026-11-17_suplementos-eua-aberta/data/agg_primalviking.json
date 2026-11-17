@@ -1,0 +1,132 @@
+{
+ "offer": {
+  "cards": 67,
+  "ads_incl_variants": 78,
+  "by_age_cards": {
+   "90_179": 19,
+   "60_89": 7,
+   "30_59": 22,
+   "180_plus": 1,
+   "lt30": 18
+  },
+  "n30plus_cards": 49,
+  "oldest": [
+   "952973200670606",
+   "2026-05-21",
+   180
+  ],
+  "unique_text_creatives": 41,
+  "pages_ads": [
+   [
+    "Primal Viking",
+    72
+   ],
+   [
+    "Zen.Tree com Primal Viking",
+    3
+   ],
+   [
+    "Dr. Matt",
+    2
+   ],
+   [
+    "Nordic Wellness Secrets",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "primalviking.com/pages/libido-booster",
+    9
+   ],
+   [
+    "primalviking.com/",
+    8
+   ],
+   [
+    "primalviking.com/pages/10-reasons-beer-belly",
+    7
+   ],
+   [
+    "primalviking.com/products/primal-reindeer-testosterone-support",
+    7
+   ],
+   [
+    "primalviking.com/pages/emoji-quiz-reindeer-long",
+    5
+   ],
+   [
+    "primalviking.com/pages/natural-t-booster-40",
+    5
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "primalviking|Primal Viking",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 67,
+  "ads_incl_variants": 78,
+  "by_age_cards": {
+   "90_179": 19,
+   "60_89": 7,
+   "30_59": 22,
+   "180_plus": 1,
+   "lt30": 18
+  },
+  "n30plus_cards": 49,
+  "oldest": [
+   "952973200670606",
+   "2026-05-21",
+   180
+  ],
+  "unique_text_creatives": 41,
+  "pages_ads": [
+   [
+    "Primal Viking",
+    72
+   ],
+   [
+    "Zen.Tree com Primal Viking",
+    3
+   ],
+   [
+    "Dr. Matt",
+    2
+   ],
+   [
+    "Nordic Wellness Secrets",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "primalviking.com/pages/libido-booster",
+    9
+   ],
+   [
+    "primalviking.com/",
+    8
+   ],
+   [
+    "primalviking.com/pages/10-reasons-beer-belly",
+    7
+   ],
+   [
+    "primalviking.com/products/primal-reindeer-testosterone-support",
+    7
+   ],
+   [
+    "primalviking.com/pages/emoji-quiz-reindeer-long",
+    5
+   ],
+   [
+    "primalviking.com/pages/natural-t-booster-40",
+    5
+   ]
+  ]
+ }
+}

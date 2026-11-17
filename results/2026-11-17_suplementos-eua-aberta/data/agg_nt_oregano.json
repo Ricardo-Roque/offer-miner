@@ -1,0 +1,144 @@
+{
+ "offer": {
+  "cards": 25,
+  "ads_incl_variants": 79,
+  "by_age_cards": {
+   "90_179": 17,
+   "30_59": 5,
+   "60_89": 3
+  },
+  "n30plus_cards": 25,
+  "oldest": [
+   "1045429338426637",
+   "2026-06-26",
+   144
+  ],
+  "unique_text_creatives": 13,
+  "pages_ads": [
+   [
+    "Carol Warren",
+    68
+   ],
+   [
+    "Scarlett Boyd",
+    5
+   ],
+   [
+    "Sarah Redshaw",
+    2
+   ],
+   [
+    "Susan Norris",
+    2
+   ],
+   [
+    "Sally Nora",
+    1
+   ],
+   [
+    "Linda Nicole",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "nutritiontherapy.co/products/oil-of-oregano",
+    11
+   ],
+   [
+    "nutritiontherapy.co/pages/ooo-jv3q",
+    6
+   ],
+   [
+    "nutritiontherapy.co/products/ooo-ibs-m",
+    1
+   ],
+   [
+    "nutritiontherapy.co/products/ooo-general",
+    1
+   ],
+   [
+    "nutritiontherapy.co/pages/ooo-j3ym4",
+    1
+   ],
+   [
+    "nutritiontherapy.co/pages/ooo-ubldj",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "nutritiontherapy",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 25,
+  "ads_incl_variants": 79,
+  "by_age_cards": {
+   "90_179": 17,
+   "30_59": 5,
+   "60_89": 3
+  },
+  "n30plus_cards": 25,
+  "oldest": [
+   "1045429338426637",
+   "2026-06-26",
+   144
+  ],
+  "unique_text_creatives": 13,
+  "pages_ads": [
+   [
+    "Carol Warren",
+    68
+   ],
+   [
+    "Scarlett Boyd",
+    5
+   ],
+   [
+    "Sarah Redshaw",
+    2
+   ],
+   [
+    "Susan Norris",
+    2
+   ],
+   [
+    "Sally Nora",
+    1
+   ],
+   [
+    "Linda Nicole",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "nutritiontherapy.co/products/oil-of-oregano",
+    11
+   ],
+   [
+    "nutritiontherapy.co/pages/ooo-jv3q",
+    6
+   ],
+   [
+    "nutritiontherapy.co/products/ooo-ibs-m",
+    1
+   ],
+   [
+    "nutritiontherapy.co/products/ooo-general",
+    1
+   ],
+   [
+    "nutritiontherapy.co/pages/ooo-j3ym4",
+    1
+   ],
+   [
+    "nutritiontherapy.co/pages/ooo-ubldj",
+    1
+   ]
+  ]
+ }
+}

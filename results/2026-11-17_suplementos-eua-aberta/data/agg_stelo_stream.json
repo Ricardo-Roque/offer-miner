@@ -1,0 +1,164 @@
+{
+ "offer": {
+  "cards": 39,
+  "ads_incl_variants": 57,
+  "by_age_cards": {
+   "30_59": 20,
+   "90_179": 9,
+   "180_plus": 3,
+   "lt30": 5,
+   "60_89": 2
+  },
+  "n30plus_cards": 34,
+  "oldest": [
+   "1912866596255607",
+   "2026-02-23",
+   267
+  ],
+  "unique_text_creatives": 23,
+  "pages_ads": [
+   [
+    "STĒLO",
+    42
+   ],
+   [
+    "Lazer The Conservative com STĒLO",
+    7
+   ],
+   [
+    "Dave Harris",
+    2
+   ],
+   [
+    "Dr. William Gerin",
+    2
+   ],
+   [
+    "grenda89 com STĒLO",
+    1
+   ],
+   [
+    "Michael Morelli - Fitness Coach com STĒLO",
+    1
+   ],
+   [
+    "Jack Finds com STĒLO",
+    1
+   ],
+   [
+    "owen.mckibbin1 com STĒLO",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "stelohealth.com/pages/listiclev1",
+    12
+   ],
+   [
+    "stelohealth.com/pages/testing-new-pdp",
+    8
+   ],
+   [
+    "stelohealth.com/pages/stream-by-stelo-listicle-v2",
+    7
+   ],
+   [
+    "theprostatejournal.com/%F0%9F%91%88",
+    4
+   ],
+   [
+    "stelohealth.com/pages/adv-to-pdp",
+    2
+   ],
+   [
+    "stelohealth.com/products/stream-welcome-kit",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "stelohealth|STĒLO",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 39,
+  "ads_incl_variants": 57,
+  "by_age_cards": {
+   "30_59": 20,
+   "90_179": 9,
+   "180_plus": 3,
+   "lt30": 5,
+   "60_89": 2
+  },
+  "n30plus_cards": 34,
+  "oldest": [
+   "1912866596255607",
+   "2026-02-23",
+   267
+  ],
+  "unique_text_creatives": 23,
+  "pages_ads": [
+   [
+    "STĒLO",
+    42
+   ],
+   [
+    "Lazer The Conservative com STĒLO",
+    7
+   ],
+   [
+    "Dave Harris",
+    2
+   ],
+   [
+    "Dr. William Gerin",
+    2
+   ],
+   [
+    "grenda89 com STĒLO",
+    1
+   ],
+   [
+    "Michael Morelli - Fitness Coach com STĒLO",
+    1
+   ],
+   [
+    "Jack Finds com STĒLO",
+    1
+   ],
+   [
+    "owen.mckibbin1 com STĒLO",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "stelohealth.com/pages/listiclev1",
+    12
+   ],
+   [
+    "stelohealth.com/pages/testing-new-pdp",
+    8
+   ],
+   [
+    "stelohealth.com/pages/stream-by-stelo-listicle-v2",
+    7
+   ],
+   [
+    "theprostatejournal.com/%F0%9F%91%88",
+    4
+   ],
+   [
+    "stelohealth.com/pages/adv-to-pdp",
+    2
+   ],
+   [
+    "stelohealth.com/products/stream-welcome-kit",
+    1
+   ]
+  ]
+ }
+}

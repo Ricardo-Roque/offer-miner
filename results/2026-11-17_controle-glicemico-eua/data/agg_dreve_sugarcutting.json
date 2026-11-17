@@ -1,0 +1,40 @@
+{
+ "name": "dreve_sugarcutting",
+ "meta": [
+  [
+   "dreveus.com",
+   "~22 resultados",
+   "2026-11-17T21:03:49Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=dreveus.com&search_type=keyword_exact_phrase"
+  ],
+  [
+   "Sugar Cutting",
+   "~190 resultados",
+   "2026-11-17T21:21:40Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Sugar%20Cutting&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 29,
+ "ads": 30,
+ "by_age": {
+  "lt30": 2,
+  "30_59": 0,
+  "60_89": 27,
+  "90_179": 0,
+  "180_plus": 0
+ },
+ "n30": 27,
+ "oldest": [
+  "1610983914089038",
+  "16 de set de 2026",
+  62
+ ],
+ "video_cards": 26,
+ "pages": [
+  [
+   "Dr.Eve Global",
+   29
+  ]
+ ],
+ "uniq": 20
+}

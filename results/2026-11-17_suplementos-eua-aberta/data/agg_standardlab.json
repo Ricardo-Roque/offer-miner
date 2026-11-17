@@ -1,0 +1,128 @@
+{
+ "offer": {
+  "cards": 33,
+  "ads_incl_variants": 68,
+  "by_age_cards": {
+   "30_59": 14,
+   "60_89": 2,
+   "lt30": 17
+  },
+  "n30plus_cards": 16,
+  "oldest": [
+   "1814084523270327",
+   "2026-09-17",
+   61
+  ],
+  "unique_text_creatives": 25,
+  "pages_ads": [
+   [
+    "Healthy Men 40+",
+    36
+   ],
+   [
+    "Standard Lab",
+    16
+   ],
+   [
+    "Liver Insider",
+    13
+   ],
+   [
+    "Her Health Club",
+    2
+   ],
+   [
+    "Dr. Suresh Reddy, MD",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "thestandardlab.com/products/nac600-nad-daily-complex",
+    19
+   ],
+   [
+    "thestandardlab.com/pages/10reason_belly_v1",
+    7
+   ],
+   [
+    "thestandardlab.com/pages/why-nac-is-better-than-milk-thistle",
+    5
+   ],
+   [
+    "thestandardlab.com/products/natural-beer-belly-burner",
+    1
+   ],
+   [
+    "thestandardlab.com/products/natural-liver-detox-repair",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "thestandardlab|Standard Lab",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 33,
+  "ads_incl_variants": 68,
+  "by_age_cards": {
+   "30_59": 14,
+   "60_89": 2,
+   "lt30": 17
+  },
+  "n30plus_cards": 16,
+  "oldest": [
+   "1814084523270327",
+   "2026-09-17",
+   61
+  ],
+  "unique_text_creatives": 25,
+  "pages_ads": [
+   [
+    "Healthy Men 40+",
+    36
+   ],
+   [
+    "Standard Lab",
+    16
+   ],
+   [
+    "Liver Insider",
+    13
+   ],
+   [
+    "Her Health Club",
+    2
+   ],
+   [
+    "Dr. Suresh Reddy, MD",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "thestandardlab.com/products/nac600-nad-daily-complex",
+    19
+   ],
+   [
+    "thestandardlab.com/pages/10reason_belly_v1",
+    7
+   ],
+   [
+    "thestandardlab.com/pages/why-nac-is-better-than-milk-thistle",
+    5
+   ],
+   [
+    "thestandardlab.com/products/natural-beer-belly-burner",
+    1
+   ],
+   [
+    "thestandardlab.com/products/natural-liver-detox-repair",
+    1
+   ]
+  ]
+ }
+}

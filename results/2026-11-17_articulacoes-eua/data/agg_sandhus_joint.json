@@ -1,0 +1,153 @@
+{
+ "offer": "sandhus_joint",
+ "sources": {
+  "d_sandhus.json": [
+   "~740",
+   129
+  ],
+  "discovery_queries_extra_ids": 5
+ },
+ "brand_or_domain_all": {
+  "cards": 134,
+  "ads_incl_variants": 155,
+  "by_age": {
+   "180_plus": 2,
+   "90_179": 8,
+   "30_59": 34,
+   "60_89": 46,
+   "lt30": 44
+  },
+  "n30plus": 90,
+  "oldest": [
+   "954589894009534",
+   "2026-05-14",
+   187
+  ],
+  "newest_start": "2026-11-11",
+  "unique_text_creatives": 116,
+  "pages": [
+   [
+    "Sandhu Products Inc",
+    60
+   ],
+   [
+    "Salud desde Adentro",
+    38
+   ],
+   [
+    "Sandhu Herbals",
+    12
+   ],
+   [
+    "Salud Articular y Movilidad",
+    12
+   ],
+   [
+    "Her Wellness Daily",
+    7
+   ],
+   [
+    "Women's Wellness",
+    3
+   ],
+   [
+    "Raíz Sana",
+    1
+   ],
+   [
+    "Blood sugar balance community",
+    1
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 22,
+  "ads_incl_variants": 35,
+  "by_age": {
+   "30_59": 15,
+   "lt30": 5,
+   "60_89": 2
+  },
+  "n30plus": 17,
+  "oldest": [
+   "2578449289323965",
+   "2026-09-17",
+   61
+  ],
+  "newest_start": "2026-11-10",
+  "unique_text_creatives": 20,
+  "pages": [
+   [
+    "Salud Articular y Movilidad",
+    10
+   ],
+   [
+    "Salud desde Adentro",
+    7
+   ],
+   [
+    "Sandhu Products Inc",
+    5
+   ]
+  ]
+ },
+ "excluded_or_other": 112,
+ "sample_ids": [
+  [
+   "2578449289323965",
+   "2026-09-17",
+   "Salud desde Adentro"
+  ],
+  [
+   "1060243056809302",
+   "2026-09-17",
+   "Salud desde Adentro"
+  ],
+  [
+   "993126773821227",
+   "2026-09-25",
+   "Salud desde Adentro"
+  ],
+  [
+   "4548519328711538",
+   "2026-09-25",
+   "Salud desde Adentro"
+  ],
+  [
+   "2821361474974434",
+   "2026-09-25",
+   "Salud desde Adentro"
+  ],
+  [
+   "4539391046330535",
+   "2026-09-28",
+   "Sandhu Products Inc"
+  ]
+ ],
+ "links": [
+  [
+   "ampd.to/",
+   9
+  ],
+  [
+   "gosandhus.com/d3k2-5000-new-joint-2",
+   4
+  ],
+  [
+   "gosandhus.com/d3k2-5000-new-joint-3",
+   2
+  ],
+  [
+   "gosandhus.com/d3k2-5000-new-joint-4",
+   2
+  ],
+  [
+   "gosandhus.com/biotin-glp-1-new-33",
+   1
+  ],
+  [
+   "gosandhus.com/biotin-glp-1-new-31",
+   1
+  ]
+ ]
+}

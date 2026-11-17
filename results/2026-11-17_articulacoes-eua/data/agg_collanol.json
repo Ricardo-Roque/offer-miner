@@ -1,0 +1,101 @@
+{
+ "offer": "collanol",
+ "sources": {
+  "d_collanol.com.json": [
+   "~54",
+   54
+  ],
+  "discovery_queries_extra_ids": 0
+ },
+ "brand_or_domain_all": {
+  "cards": 54,
+  "ads_incl_variants": 54,
+  "by_age": {
+   "180_plus": 17,
+   "90_179": 22,
+   "30_59": 7,
+   "lt30": 8
+  },
+  "n30plus": 46,
+  "oldest": [
+   "891308733852853",
+   "2026-01-21",
+   300
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 54,
+  "pages": [
+   [
+    "Collanol - undenatured collagen + turmeric",
+    54
+   ]
+  ]
+ },
+ "offer_filtered": {
+  "cards": 54,
+  "ads_incl_variants": 54,
+  "by_age": {
+   "180_plus": 17,
+   "90_179": 22,
+   "30_59": 7,
+   "lt30": 8
+  },
+  "n30plus": 46,
+  "oldest": [
+   "891308733852853",
+   "2026-01-21",
+   300
+  ],
+  "newest_start": "2026-11-17",
+  "unique_text_creatives": 54,
+  "pages": [
+   [
+    "Collanol - undenatured collagen + turmeric",
+    54
+   ]
+  ]
+ },
+ "excluded_or_other": 0,
+ "sample_ids": [
+  [
+   "891308733852853",
+   "2026-01-21",
+   "Collanol - undenatured collagen + turmeric"
+  ],
+  [
+   "1184574117178884",
+   "2026-01-23",
+   "Collanol - undenatured collagen + turmeric"
+  ],
+  [
+   "2345614609250695",
+   "2026-03-11",
+   "Collanol - undenatured collagen + turmeric"
+  ],
+  [
+   "1431002635176745",
+   "2026-03-11",
+   "Collanol - undenatured collagen + turmeric"
+  ],
+  [
+   "1537786870655167",
+   "2026-03-11",
+   "Collanol - undenatured collagen + turmeric"
+  ],
+  [
+   "958775453160148",
+   "2026-03-12",
+   "Collanol - undenatured collagen + turmeric"
+  ]
+ ],
+ "links": [
+  [
+   "collanol.com/articles/en-us/facebook/tr/news/3d-collagen/three-dimensional-collagen-US-fb-tr.html",
+   32
+  ],
+  [
+   "collanol.com/articles/es-us/facebook/tr/noticias/el-colageno-en-3d/3d-colageno-fb-tr.html",
+   22
+  ]
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "pureceylon",
+ "meta": [
+  [
+   "pureceylon.co",
+   "~240 resultados",
+   "2026-11-17T21:04:32Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=pureceylon.co&search_type=keyword_exact_phrase"
+  ],
+  [
+   "PureCeylon",
+   "~240 resultados",
+   "2026-11-17T21:22:07Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=PureCeylon&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 30,
+ "ads": 34,
+ "by_age": {
+  "lt30": 16,
+  "30_59": 14,
+  "60_89": 0,
+  "90_179": 0,
+  "180_plus": 0
+ },
+ "n30": 14,
+ "oldest": [
+  "28678321155130877",
+  "24 de set de 2026",
+  54
+ ],
+ "video_cards": 2,
+ "pages": [
+  [
+   "Bienestar Latino USA",
+   14
+  ],
+  [
+   "PureCeylon",
+   6
+  ],
+  [
+   "Dr. Rafael Osorio",
+   5
+  ],
+  [
+   "Yesenia Rodríguez ,RN",
+   5
+  ]
+ ],
+ "uniq": 26
+}

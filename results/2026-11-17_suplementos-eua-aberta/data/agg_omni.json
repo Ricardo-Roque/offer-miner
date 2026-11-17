@@ -1,0 +1,196 @@
+{
+ "offer": {
+  "cards": 50,
+  "ads_incl_variants": 76,
+  "by_age_cards": {
+   "180_plus": 5,
+   "30_59": 5,
+   "90_179": 27,
+   "60_89": 11,
+   "lt30": 2
+  },
+  "n30plus_cards": 48,
+  "oldest": [
+   "1688185529167149",
+   "2026-04-06",
+   225
+  ],
+  "unique_text_creatives": 18,
+  "pages_ads": [
+   [
+    "Madison Brown, PA-C",
+    15
+   ],
+   [
+    "OMNI Longevity",
+    14
+   ],
+   [
+    "Entrepreneur com Omni Creatine",
+    5
+   ],
+   [
+    "The Dodo com Omni Creatine",
+    5
+   ],
+   [
+    "Creatine Guru",
+    5
+   ],
+   [
+    "Omni Creatine",
+    5
+   ],
+   [
+    "Taste of Home com OMNI Longevity",
+    4
+   ],
+   [
+    "The Dodo com OMNI Longevity",
+    4
+   ],
+   [
+    "Science of Strength",
+    4
+   ],
+   [
+    "Us Weekly com Madison Brown, PA-C",
+    3
+   ],
+   [
+    "Family Handyman com Omni Creatine",
+    3
+   ],
+   [
+    "Bustle com Omni Creatine",
+    2
+   ]
+  ],
+  "landings": [
+   [
+    "www.omnicreatine.com/",
+    31
+   ],
+   [
+    "i.omnicreatine.com/r/tp2",
+    12
+   ],
+   [
+    "omnicreatine.com/pages/homepage-price-otp",
+    4
+   ],
+   [
+    "omnicreatine.com/pages/10-reasons-why-1",
+    1
+   ],
+   [
+    "omnicreatine.com/pages/quiz-new",
+    1
+   ],
+   [
+    "omnicreatine.com/pages/advv-1",
+    1
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "omnicreatine|OMNI",
+ "offer_regex": ".",
+ "exclude": null,
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 50,
+  "ads_incl_variants": 76,
+  "by_age_cards": {
+   "180_plus": 5,
+   "30_59": 5,
+   "90_179": 27,
+   "60_89": 11,
+   "lt30": 2
+  },
+  "n30plus_cards": 48,
+  "oldest": [
+   "1688185529167149",
+   "2026-04-06",
+   225
+  ],
+  "unique_text_creatives": 18,
+  "pages_ads": [
+   [
+    "Madison Brown, PA-C",
+    15
+   ],
+   [
+    "OMNI Longevity",
+    14
+   ],
+   [
+    "Entrepreneur com Omni Creatine",
+    5
+   ],
+   [
+    "The Dodo com Omni Creatine",
+    5
+   ],
+   [
+    "Creatine Guru",
+    5
+   ],
+   [
+    "Omni Creatine",
+    5
+   ],
+   [
+    "Taste of Home com OMNI Longevity",
+    4
+   ],
+   [
+    "The Dodo com OMNI Longevity",
+    4
+   ],
+   [
+    "Science of Strength",
+    4
+   ],
+   [
+    "Us Weekly com Madison Brown, PA-C",
+    3
+   ],
+   [
+    "Family Handyman com Omni Creatine",
+    3
+   ],
+   [
+    "Bustle com Omni Creatine",
+    2
+   ]
+  ],
+  "landings": [
+   [
+    "www.omnicreatine.com/",
+    31
+   ],
+   [
+    "i.omnicreatine.com/r/tp2",
+    12
+   ],
+   [
+    "omnicreatine.com/pages/homepage-price-otp",
+    4
+   ],
+   [
+    "omnicreatine.com/pages/10-reasons-why-1",
+    1
+   ],
+   [
+    "omnicreatine.com/pages/quiz-new",
+    1
+   ],
+   [
+    "omnicreatine.com/pages/advv-1",
+    1
+   ]
+  ]
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "name": "herbaly_glucose",
+ "meta": [
+  [
+   "herbaly.com",
+   "~220 resultados",
+   "2026-11-17T21:10:48Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=herbaly.com&search_type=keyword_exact_phrase"
+  ],
+  [
+   "Glucose tea",
+   "~19 resultados",
+   "2026-11-17T21:20:59Z",
+   "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&q=Glucose%20tea&search_type=keyword_exact_phrase"
+  ]
+ ],
+ "cards": 23,
+ "ads": 23,
+ "by_age": {
+  "lt30": 0,
+  "30_59": 4,
+  "60_89": 0,
+  "90_179": 15,
+  "180_plus": 4
+ },
+ "n30": 23,
+ "oldest": [
+  "1690402752098219",
+  "19 de mai de 2026",
+  182
+ ],
+ "video_cards": 2,
+ "pages": [
+  [
+   "Herbaly",
+   23
+  ]
+ ],
+ "uniq": 7
+}

@@ -1,0 +1,151 @@
+{
+ "offer": {
+  "cards": 34,
+  "ads_incl_variants": 56,
+  "by_age_cards": {
+   "180_plus": 20,
+   "90_179": 5,
+   "lt30": 4,
+   "30_59": 5
+  },
+  "n30plus_cards": 30,
+  "oldest": [
+   "1081955446237798",
+   "2024-06-06",
+   894
+  ],
+  "unique_text_creatives": 11,
+  "pages_ads": [
+   [
+    "Philsmypharmacist",
+    39
+   ],
+   [
+    "Avantera",
+    13
+   ],
+   [
+    "Intuitively Strong",
+    2
+   ],
+   [
+    "Elevate Avantera",
+    1
+   ],
+   [
+    "The Shine Project",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "www.avanterahealth.com/elevate",
+    11
+   ],
+   [
+    "avanterahealth.com/pages/elevate-shop-phil-cowley",
+    7
+   ],
+   [
+    "avanterahealth.com/products/elevate",
+    4
+   ],
+   [
+    "avanterahealth.com/pages/elevate-shop",
+    4
+   ],
+   [
+    "avanterahealth.com/pages/elevate-6-reasons-why-glp1-1",
+    2
+   ],
+   [
+    "avanterahealth.com/pages/avantera-quiz-funnel",
+    2
+   ]
+  ]
+ },
+ "ref_date": "2026-11-17",
+ "brand_regex": "avanterahealth|Avantera|Philsmypharmacist",
+ "offer_regex": "elevate",
+ "exclude": "kids",
+ "method": "união de IDs únicos vistos em buscas de descoberta + frase exata (amostras parciais; paginação Meta limitada após ~19:55 UTC)",
+ "count_is_estimate": true,
+ "brand_or_domain": {
+  "cards": 58,
+  "ads_incl_variants": 122,
+  "by_age_cards": {
+   "180_plus": 24,
+   "30_59": 9,
+   "90_179": 16,
+   "60_89": 2,
+   "lt30": 7
+  },
+  "n30plus_cards": 51,
+  "oldest": [
+   "1122794968986907",
+   "2024-06-01",
+   899
+  ],
+  "unique_text_creatives": 19,
+  "pages_ads": [
+   [
+    "Philsmypharmacist",
+    74
+   ],
+   [
+    "Avantera",
+    36
+   ],
+   [
+    "Nika Diwa",
+    3
+   ],
+   [
+    "Nika and Emeka",
+    3
+   ],
+   [
+    "Kristen Louelle Gaffney",
+    2
+   ],
+   [
+    "Intuitively Strong",
+    2
+   ],
+   [
+    "Elevate Avantera",
+    1
+   ],
+   [
+    "The Shine Project",
+    1
+   ]
+  ],
+  "landings": [
+   [
+    "www.avanterahealth.com/elevate",
+    14
+   ],
+   [
+    "avanterahealth.com/pages/elevate-shop-phil-cowley",
+    7
+   ],
+   [
+    "avanterahealth.com/pages/elevate-shop",
+    7
+   ],
+   [
+    "avanterahealth.com/products/elevate-gummies-kids",
+    6
+   ],
+   [
+    "www.avanterahealth.com/pages/elevate-shop-kids-gummies",
+    5
+   ],
+   [
+    "avanterahealth.com/products/elevate",
+    4
+   ]
+  ]
+ }
+}
