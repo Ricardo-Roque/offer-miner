@@ -1,0 +1,33 @@
+{
+  "mission_id": "2026-11-17-sono-eua",
+  "executed_at_utc": null,
+  "target_countries": ["US"],
+  "problem": "dificuldade para dormir",
+  "mechanisms": ["melatonina", "cortisol", "relaxamento"],
+  "searches": [],
+  "offers": [
+    {
+      "brand": null,
+      "product": null,
+      "sales_countries": [],
+      "brand_origin_country": null,
+      "languages_observed": [],
+      "commercial_claims": [],
+      "offer_url": null,
+      "price_observed": null,
+      "currency": null,
+      "creative_references": [],
+      "status": "descoberta",
+      "confidence": "baixa",
+      "confidence_reason": null,
+      "observations": [],
+      "inferences": [],
+      "evidence": [
+        {"url": null, "source_type": null, "checked_at_utc": null, "observation": null, "verification_status": "unverified"}
+      ],
+      "compliance_notes": [],
+      "missing_data": []
+    }
+  ],
+  "limitations": []
+}

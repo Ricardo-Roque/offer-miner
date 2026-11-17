@@ -1,0 +1,19 @@
+# Segredos e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Cache e temporários
+.DS_Store
+__pycache__/
+.cache/
+node_modules/
+*.log
+
+# Mídias grandes (guardar links/metadados, não originais protegidos)
+results/**/*.mp4
+results/**/*.mov
+results/**/*.wav
+results/**/*.mp3
